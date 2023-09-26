@@ -1,4 +1,4 @@
-PLAYER NOOB:
+#####MOVIES#####
 HBO SIgnature SG
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
@@ -329,7 +329,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-059/stream.mpd
 
- @@@@@Liga-C.Ronaldo@@@@@
+ #####Liga-C.Ronaldo#####
  
 #EXTINF:-1 group-title="VIP SPORT" tvg-id="SSC 1" tvg-logo="https://i.postimg.cc/bN7QfpKq/20230919-014955.png", Sport 2A
 #KODIPROP:inputstream.adaptive.license_type=clearkey
