@@ -1,173 +1,173 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVRI" tvg-id="TVRI" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI
+#EXTINF:-1 tvg-name="TVRI" tvg-id="TVRI" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI
 http://210.210.155.37/qwr9ew/s/s11/index.m3u8
 
 
-#EXTINF:-1 tvg-name="TVRI_WORLD" tvg-id="TVRI WORLD" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI WORLD
+#EXTINF:-1 tvg-name="TVRI_WORLD" tvg-id="TVRI WORLD" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI WORLD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-name="TVRI_JAWA_TENGAH" tvg-id="TVRI JAWA TENGAH" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI JAWA TENGAH
+#EXTINF:-1 tvg-name="TVRI_JAWA_TENGAH" tvg-id="TVRI JAWA TENGAH" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TVRI JAWA TENGAH
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/stream3/streamPlaylist.m3u8
 
 
-#EXTINF:-1 tvg-name="SEMARANG TV" tvg-id="SEMARANG TV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SEMARANG TV
+#EXTINF:-1 tvg-name="SEMARANG TV" tvg-id="SEMARANG TV" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SEMARANG TV
 http://116.254.112.74/hls/cakralive.m3u8
 
 
-#EXTINF:-1 tvg-name="GTV_1" tvg-id="GTV 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 1
+#EXTINF:-1 tvg-name="GTV_1" tvg-id="GTV 1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 1
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 
 
-#EXTINF:-1 tvg-name="GTV_2" tvg-id="GTV 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 2
+#EXTINF:-1 tvg-name="GTV_2" tvg-id="GTV 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 2
 http://xtv.ooo:8080/88876776555/87677666654/350954
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="GTV_3" tvg-id="GTV 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 3
+#EXTINF:-1 tvg-name="GTV_3" tvg-id="GTV 3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",GTV 3
 https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
-#EXTINF:-1 tvg-name="MNC_TV_1" tvg-id="MNC TV 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 1
+#EXTINF:-1 tvg-name="MNC_TV_1" tvg-id="MNC TV 1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 1
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2-avc1_2499968=6.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="MNC_TV_2" tvg-id="MNC TV 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 2
+#EXTINF:-1 tvg-name="MNC_TV_2" tvg-id="MNC TV 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
-#EXTINF:-1 tvg-name="MNC_TV_3" tvg-id="MNC TV 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 3
+#EXTINF:-1 tvg-name="MNC_TV_3" tvg-id="MNC TV 3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 3
 http://mooncang.my.id/api/rplus/ch.m3u8?id=mnctv
 
 
-#EXTINF:-1 tvg-name="MNC_TV_4" tvg-id="MNC TV 4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 4
+#EXTINF:-1 tvg-name="MNC_TV_4" tvg-id="MNC TV 4" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",MNC TV 4
 http://xtv.ooo:8080/88876776555/87677666654/350996
 
 
-#EXTINF:-1 tvg-name="RCTI_" tvg-id="RCTI" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
+#EXTINF:-1 tvg-name="RCTI_" tvg-id="RCTI" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3.m3u8
 
 
-#EXTINF:-1 tvg-name="RCTI_1" tvg-id="RCTI 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 1
+#EXTINF:-1 tvg-name="RCTI_1" tvg-id="RCTI 1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 1
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="RCTI_2" tvg-id="RCTI 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 2
+#EXTINF:-1 tvg-name="RCTI_2" tvg-id="RCTI 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 2
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
-#EXTINF:-1 tvg-name="RCTI_3" tvg-id="RCTI 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 3
+#EXTINF:-1 tvg-name="RCTI_3" tvg-id="RCTI 3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 3
 http://37.49.229.56:8080/stadnik/6a627b52a9/157591
 
 
-#EXTINF:-1 tvg-name="RCTI_4" tvg-id="RCTI 4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 4
+#EXTINF:-1 tvg-name="RCTI_4" tvg-id="RCTI 4" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RCTI 4
 http://xtv.ooo:8080/88876776555/87677666654/351023
 
 
-#EXTINF:-1 tvg-name="SCTV1" tvg-id="SCTV1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV1
+#EXTINF:-1 tvg-name="SCTV1" tvg-id="SCTV1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV1
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
-#EXTINF:-1 tvg-name="SCTV2" tvg-id="SCTV2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV2
+#EXTINF:-1 tvg-name="SCTV2" tvg-id="SCTV2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 
-#EXTINF:-1 tvg-name="SCTV3" tvg-id="SCTV3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV3
+#EXTINF:-1 tvg-name="SCTV3" tvg-id="SCTV3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV3
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 
-#EXTINF:-1 tvg-name="SCTV4" tvg-id="SCTV4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV4
+#EXTINF:-1 tvg-name="SCTV4" tvg-id="SCTV4" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",SCTV4
 http://xtv.ooo:8080/88876776555/87677666654/351030
 
 
-#EXTINF:-1 tvg-name="Indosiar1" tvg-id="Indosiar1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar1
+#EXTINF:-1 tvg-name="Indosiar1" tvg-id="Indosiar1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar1
 http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/162138
 
 
-#EXTINF:-1 tvg-name="Indosiar2" tvg-id="Indosiar2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar2
+#EXTINF:-1 tvg-name="Indosiar2" tvg-id="Indosiar2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar2
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Indosiar3" tvg-id="Indosiar3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar3
+#EXTINF:-1 tvg-name="Indosiar3" tvg-id="Indosiar3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar3
 http://xtv.ooo:8080/88876776555/87677666654/350972
 
 
-#EXTINF:-1 tvg-name="Indosiar4" tvg-id="Indosiar4" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar4
+#EXTINF:-1 tvg-name="Indosiar4" tvg-id="Indosiar4" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Indosiar4
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
 
-#EXTINF:-1 tvg-name="ANTV_1" tvg-id="ANTV 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 1
+#EXTINF:-1 tvg-name="ANTV_1" tvg-id="ANTV 1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 1
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
 
 
-#EXTINF:-1 tvg-name="ANTV_2" tvg-id="ANTV 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 2
+#EXTINF:-1 tvg-name="ANTV_2" tvg-id="ANTV 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 2
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 
 
-#EXTINF:-1 tvg-name="ANTV_3" tvg-id="ANTV 3" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 3
+#EXTINF:-1 tvg-name="ANTV_3" tvg-id="ANTV 3" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",ANTV 3
 http://xtv.ooo:8080/88876776555/87677666654/350892
 
 
-#EXTINF:-1 tvg-name="Trans_7" tvg-id="Trans 7" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7
+#EXTINF:-1 tvg-name="Trans_7" tvg-id="Trans 7" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch397)/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Trans_7_d" tvg-id="Trans 7 d" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7 d
+#EXTINF:-1 tvg-name="Trans_7_d" tvg-id="Trans 7 d" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7 d
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-name="Trans_7_hd" tvg-id="Trans 7 hd" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7 hd
+#EXTINF:-1 tvg-name="Trans_7_hd" tvg-id="Trans 7 hd" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans 7 hd
 http://xtv.ooo:8080/88876776555/87677666654/351040
 
 
-#EXTINF:-1 tvg-name="Trans_TV" tvg-id="Trans TV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV
+#EXTINF:-1 tvg-name="Trans_TV" tvg-id="Trans TV" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch396)/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Trans_TV_d" tvg-id="Trans TV d" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV d
+#EXTINF:-1 tvg-name="Trans_TV_d" tvg-id="Trans TV d" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV d
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-name="Trans_TV_hd" tvg-id="Trans TV hd" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV hd
+#EXTINF:-1 tvg-name="Trans_TV_hd" tvg-id="Trans TV hd" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Trans TV hd
 http://xtv.ooo:8080/88876776555/87677666654/351041
 
 
-#EXTINF:-1 tvg-name="Net" tvg-id="Net" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net
+#EXTINF:-1 tvg-name="Net" tvg-id="Net" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net
 http://210.210.155.37/uq2663/h/h06/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Net_2" tvg-id="Net 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net 2
+#EXTINF:-1 tvg-name="Net_2" tvg-id="Net 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net 2
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 
 
-#EXTINF:-1 tvg-name="Net_hd" tvg-id="Net hd" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net hd
+#EXTINF:-1 tvg-name="Net_hd" tvg-id="Net hd" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",Net hd
 http://xtv.ooo:8080/88876776555/87677666654/351010
 
 
-#EXTINF:-1 tvg-name="RTV" tvg-id="RTV" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RTV
+#EXTINF:-1 tvg-name="RTV" tvg-id="RTV" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
 
 
-#EXTINF:-1 tvg-name="RTV_hd" tvg-id="RTV hd" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RTV hd
+#EXTINF:-1 tvg-name="RTV_hd" tvg-id="RTV hd" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",RTV hd
 http://xtv.ooo:8080/88876776555/87677666654/351021
 
 
-#EXTINF:-1 tvg-name="TV_One_1" tvg-id="TV One 1" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TV One 1
+#EXTINF:-1 tvg-name="TV_One_1" tvg-id="TV One 1" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TV One 1
 http://humiptv.live:8080/live/tarun589853/5787489bcsh/151255.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-name="TV_One_2" tvg-id="TV One 2" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TV One 2
+#EXTINF:-1 tvg-name="TV_One_2" tvg-id="TV One 2" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",TV One 2
 https://av-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 
-#EXTINF:-1 tvg-name="INews" tvg-id="INews" group-title="ZECK TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",INews
+#EXTINF:-1 tvg-name="INews" tvg-id="INews" group-title="BELZIE TV LOKAL" tvg-logo="https://cdn.s.id/images/55928faf-69dc-47d2-8551-b4fe9bbbac76_395x395.png",INews
 http://nyanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 
