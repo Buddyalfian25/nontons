@@ -160,6 +160,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="KIDS", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://skynindo.weebly.com/uploads/1/0/4/9/10493194/6800309_orig.jpg" group-title="KIDS", Indi Kids
+http://013tv.com:8080/Bachta/7GYm6pAda8jfMnKt/298539
 
 ===============########=====
 
