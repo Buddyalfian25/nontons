@@ -45,7 +45,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="TIMNAS U-17", U-17 g
-https://kusnadipepenk.github.io/campeign/indos.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Micjuxr.png" group-title="INDONESIA",RCTI
@@ -74,6 +74,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mf2xpeI.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
 
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LGo706i.png",Kompas TV
