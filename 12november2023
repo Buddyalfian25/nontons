@@ -590,9 +590,10 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:-1 tvg-logo="http://www.tvboxgroup.com/iptv/logo/HR/HR006.png" group-title="SPORTS",Arena Sport 6 HD
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:-1 group-title="SPORTS",SSC 1
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 1 (720P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3833.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1
 http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/658
-http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4099.m3u8
 #EXTINF:-1 group-title="SPORTS",SSC 5
 http://176.119.29.7:8082/1a219ba9-0daf-4d94-88a1-446e25894194.m3u8?md5=yIrfrzz0GqTQtHBCP3dQ1Q&expires=1698294346
 #EXTINF:-1 group-title="SPORTS",SSC Extra 1
