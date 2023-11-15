@@ -592,8 +592,8 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:-1 tvg-id="" tvg-name="SSC Sport 1 (720P)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1 HD
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3833.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/658
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1 FHD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC Sport 2 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 2 HD
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3834.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC Sport 3 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 3 HD
