@@ -594,11 +594,17 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3833.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1
 http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/658
-#EXTINF:-1 group-title="SPORTS",SSC 5
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 2 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 2 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 3 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 3 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport 4 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 4 HD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3836.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 5
 http://176.119.29.7:8082/1a219ba9-0daf-4d94-88a1-446e25894194.m3u8?md5=yIrfrzz0GqTQtHBCP3dQ1Q&expires=1698294346
-#EXTINF:-1 group-title="SPORTS",SSC Extra 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC Extra 1
 http://176.119.29.7:8082/21ce5d51-76e2-499a-8e23-9d82365aaf2f.m3u8?md5=29b9JMC1vl1aqjEwl64KIw&expires=1698296534
-#EXTINF:-1 group-title="SPORTS",SSC Extra 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC Extra 2
 http://176.119.29.7:8082/eac8b5ec-5835-4ad6-abcc-1bb68d11c4b7.m3u8?md5=1Mt5XrPUe5qQ57Bz1IOuFw&expires=1698296567
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
