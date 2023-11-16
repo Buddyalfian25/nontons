@@ -507,7 +507,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8?
 #EXTINF:-1 group-title="SPORTS",Q sport .
 http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGJFPr0/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 2 .
+#EXTINF:-1 tvg-logo="https://postimg.cc/QKX3XYTj" group-title="SPORTS",TNTSPORTS 2 .
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3NGJFPr0/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 3 .
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
