@@ -48,7 +48,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zt1N3Xr/images-1.png" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3N7FqWPs/logo-RCTI-MNC-Group.png" group-title="INDONESIA",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
