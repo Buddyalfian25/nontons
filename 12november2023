@@ -28,7 +28,7 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extens
 #EXTINF:-1 tvg-logo="https://postimg.cc/RJNzfgGJ" group-title="TIMNAS U-17" , U-17 a
 http://103.30.87.238:443/wadmanet/norlec212/890
 
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="TIMNAS U-17" , U-17 b
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17" , U-17 b
 http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/hzvtf76viekpdcysp37yx/20231110_114846.png?rlkey=n1bzo758kvlnb22h5cm8dw1jn&dl=1" group-title="TIMNAS U-17" , U-17 c
