@@ -321,8 +321,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 group-title="INDONESIA" tvg-id="BandungTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/d4154d1c/d082_r32.jpg",Bandung TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="INDONESIA",TATV Solo
-https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 
 
 #######DAZN######$
