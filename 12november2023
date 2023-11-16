@@ -38,13 +38,13 @@ http://103.30.87.238:443/wadmanet/norlec212/907
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17" , Pildun U-17 d
 http://103.166.27.2:8112/play/a015
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17" , U-17 e
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17" , Pildun U-17 e
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17", U-17 f
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17", Pildun U-17 f
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17", U-17 g
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wz7pBKk8/1694966522301.png" group-title="TIMNAS U-17", Pildun U-17 g
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
 
 
@@ -87,7 +87,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOaIQLv5hJMZMToZZezmYP69sCl72z89ZL688b3LGIH9TjICmCCiBpOrwWp2UFtq2Y_A3HCNql5yYbhn73CwBi-HM5RFYv63oQm8kD0SHhr3MfrgWR-THYAJs6fsAyyseTJ9TKpiDyUKD5bSSemHZv3iEwcsAs8KbtPCmTw6LyrNageuEYSQ44ZIUI/s720/HunanTV.png",ANTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/MH0gZfqb/Antv-logo-2009.png" ,ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
  
