@@ -716,26 +716,6 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", CINEMAX (Singapore)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",HBO (Astro)
-https://1.yurend.xyz/dash-wv/linear/2304/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5055
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO HitsHD" group-title="Movies" group-logo="https://warningfm.github.io/v3/img/RmTcwA0.png?v=1.1.1.1",HBO HITS (Astro)
-https://1.yurend.xyz/dash-wv/linear/5055/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5053
-#EXTINF:-1 tvg-id="HBOFamily" tvg-name="HBO Family +1 HD" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBOFamily.png",HBO FAMILY (Astro)
-https://1.yurend.xyz/dash-wv/linear/5053/default_ott.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="Movies" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_Cinemax.png",CINEMAX (Astro)
-https://1.yurend.xyz/dash-wv/linear/603/default_ott.mpd
 
 #EXTINF:-0 group-title="Movies" tvg-id="HBO.th" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",HBO thai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
