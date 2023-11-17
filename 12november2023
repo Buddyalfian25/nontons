@@ -690,7 +690,7 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 
-#EXTINF:-0 group-title="Movies" tvg-id="HBO.th" tvg-logo="https://i.postimg.cc/JnHkLGFv/hboth.png",HBO thai
+#EXTINF:-0 group-title="Movies" tvg-id="HBO.th" tvg-logo="https://i.imgur.com/9v0WUqt.png" ,HBO (thai) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
@@ -700,7 +700,7 @@ https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-0 group-title="Movies" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",HBO Hits thai
+#EXTINF:-0 group-title="Movies" tvg-id="HBOHits.th" tvg-logo="https://i.postimg.cc/tJhns8pz/hitsth.png",HBO Hits (thai) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
@@ -714,7 +714,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv
 
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.postimg.cc/cJSRDv3B/movies.gif",HBO Taiwan
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://i.postimg.cc/cJSRDv3B/movies.gif",HBO (Taiwan) 
 #EXTVLCOPT:http-referrer=https://www.histar.tv/
 https://us.dispatch.ulivetv.net/v/live/cl7cfnwsvl4w.m3u8?stream_id=cl7cfnwsvl4w&timestamp=1695103661&rand=xe4Xg1aWK1&uuid=rtvzUYdd63hnuPEvX59NM8&from=web&sign=73dd4bd122fa13f0d642f1a06308a03f
 
