@@ -695,7 +695,7 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-0 group-title="Movies" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",HBO Signature Thai
+#EXTINF:-0 group-title="Movies" tvg-id="hbosignature.th" tvg-logo="https://i.postimg.cc/rw9GnR69/hbos.png",HBO Signature (Thai) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
@@ -705,7 +705,7 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-0 group-title="Movies" tvg-id="HBOFamily.th" tvg-logo="https://i.postimg.cc/x8rbT9DC/lfdvs017.png",HBO FAMILY Thai
+#EXTINF:-0 group-title="Movies" tvg-id="HBOFamily.th" tvg-logo="https://i.imgur.com/YNNLQG0.png" ,HBO FAMILY (Thai) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
