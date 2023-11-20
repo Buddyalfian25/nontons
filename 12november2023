@@ -556,6 +556,8 @@ https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
         MOVIES
 
+#EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/gkqkbrGq/STAR-Movies-logo.png" ,Star Movies
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png",HBO (ID) 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
