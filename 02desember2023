@@ -100,7 +100,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.postimg.cc/MTRwvyBN/1200px-Logo-ntv.png" group-title="INDONESIA", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
  
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://1.bp.blogspot.com/-KpWyLR5i7xQ/YZxuWqY4HfI/AAAAAAAAIJc/aSs_n2nzEQYWjGTpiKpgjjHMiTg7a8jVgCLcBGAsYHQ/s720/Untitled-1.png" group-title="INDONESIA",INDONESIAna TV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.postimg.cc/qMZ15ggZ/images-1.png" group-title="INDONESIA",INDONESIAna TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/Z5ywkVzG/images-3.jpg", CNN
