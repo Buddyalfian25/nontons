@@ -144,9 +144,9 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&ex
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4VjFVgx/images-5.png" group-title="KIDS", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="KIDS", Disney Channel
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165075
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneych.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162511
+https://kusnadipepenk.github.io/ntn/disn.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="KIDS", Disney XD
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/276564
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtZcRGPQ/IndiKids.png" group-title="KIDS", Indi Kids
