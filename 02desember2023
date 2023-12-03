@@ -134,7 +134,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&ex
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="KIDS", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="KIDS", Baby TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683167&extension=ts&play_token=GVZS088tcf
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="KIDS", Kids TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTNCvk3x/images-3.png" group-title="KIDS", ZooMoo
@@ -148,15 +148,15 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneych.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
 https://kusnadipepenk.github.io/ntn/disn.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="KIDS", Disney XD
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/276564
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyxd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtZcRGPQ/IndiKids.png" group-title="KIDS", Indi Kids
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298539
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="KIDS", Miao Mi
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/266805
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS", Nick Jr EN
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298561
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/h4VjFVgx/images-5.png" group-title="KIDS", Nickelodeon
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162510
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 
 ===============########=====
 
