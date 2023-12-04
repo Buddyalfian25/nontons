@@ -628,7 +628,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
 #EXTINF:-1 group-title="Movies" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO (ID) 2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 
 
