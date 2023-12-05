@@ -505,8 +505,12 @@ http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3834.m3u8
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3835.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC Sport 4 (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 4 HD
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3836.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=150150f30a8140a2bfda5d1b3fbb2d4b:dad19250368b129f003817b778d65dae
 https://ssc-5-on-prem-cw-ak.akamaized.net/out/v1/ee54cd9a3f844ceb8249f430733f9c00/index.mpd
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC Extra 1
 http://176.119.29.7:8082/21ce5d51-76e2-499a-8e23-9d82365aaf2f.m3u8?md5=29b9JMC1vl1aqjEwl64KIw&expires=1698296534
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC Extra 2
