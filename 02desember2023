@@ -9,7 +9,7 @@ LOCAL INDONESIA
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qB2hQZ1Z/images-11.jpg" group-title="INDONESIA",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
 https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -80,7 +80,7 @@ http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Px3ZHL8V/images-3.jpg" group-title="INDONESIA",MNC TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://kusnadipepenk.github.io/campeign/mnc.m3u8
 http://198.16.100.90:8278/Mnctv/playlist.m3u8?tid=MDCD3312687833126878&ct=19662&tsum=9324b169dd9f0165a4ccbc9045a9ea39
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hFdhuwS.png" group-title="INDONESIA",NET TV
