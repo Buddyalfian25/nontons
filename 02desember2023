@@ -566,15 +566,6 @@ http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/221948
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax (ID) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
-http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/197964
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -643,7 +634,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/1084f85cbd02a853f06f39345e0bd189dd9226dd/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/1084f85cbd02a853f06f39345e0bd189dd9226dd/JejeVisionEpg.xml" tvg-logo="https://i.postimg.cc/FR8nQWDf/611-cinemax.png" group-title="Movies", Cinemax (ID) 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
@@ -654,12 +645,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-logo="https://i.imgur.com/uB76Ft0.png", CINEMAX (Singapore)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-logo="https://i.postimg.cc/FR8nQWDf/611-cinemax.png", CINEMAX (Singapore)
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
-
-
-#EXTINF:-1 group-title="Movies" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Thai 
-https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=|Referer=https://wacth.tv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
