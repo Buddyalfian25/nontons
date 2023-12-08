@@ -1,4 +1,4 @@
-tu=======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
+=======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
 =======================>TIDAK UNTUK DIPERJUAL BELIKAN, ANDA FAHAM.???<===========
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dVYqYPRK/1676103772488.png" group-title="Belzie_TV", Belzie Video TV
@@ -608,7 +608,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-*http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/197055
+http://www.premiumiptvmk.com:8080/linuxapp2021/zdFTTQCKXWq84YWF/197055
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
