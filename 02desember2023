@@ -528,16 +528,19 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&ex
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
+#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV 2
 https://mangga-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-id="spotv2.kr" tvg-logo="https://i.imgur.com/5D0YW20.png",SPOTV 2 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
         MOVIES
 
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/mkD0y1h4/STAR-Movies-logo.png" ,Star Movies
 https://kusnadipepenk.github.io/ntn/strmvi.m3u8
-
-
 
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png",HBO (ID)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
