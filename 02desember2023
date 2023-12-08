@@ -164,8 +164,16 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pVwKJKL7/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="KIDS", Baby TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png",Kids TV
+https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtYFg2K/Kids-TV-2020.png" group-title="KIDS", Kids TV
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnbP6Scc/images-1.png" group-title="KIDS", ZooMoo
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TwCfYVHP/Dream-Works-Channel-Logo-svg.png" group-title="KIDS", DreamWorks
