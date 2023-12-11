@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/KYtYFg2K/Kids-TV-2020.png", Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtYFg2K/Kids-TV-2020.png" group-title="KIDS", Kids TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYtYFg2K/Kids-TV-2020.png" group-title="KIDS", Kids TV (HD) 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnbP6Scc/images-1.png" group-title="KIDS", ZooMoo
@@ -194,6 +194,12 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/266805
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvBn2S06/images.png" group-title="KIDS", Nickelodeon
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
+
+#EXTINF:-1 group-title="KIDS" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 ===============########=====
 
