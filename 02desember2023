@@ -700,12 +700,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/1084f85cbd02a853f06f39345e0bd189dd9226dd/JejeVisionEpg.xml" tvg-logo="https://i.postimg.cc/FR8nQWDf/611-cinemax.png" group-title="Movies", Cinemax (ID) 
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 group-title="Movies" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO (ID)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/PrCkzkTS/GANAS-Cinemax.png" tvg-id="Cinemax.id" tvg-name="Cinemax" group-logo="https://i.postimg.cc/FR8nQWDf/611-cinemax.png", CINEMAX (Singapore)
