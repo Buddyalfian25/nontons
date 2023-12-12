@@ -581,7 +581,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/mkD0y1h4/STAR-Movies-logo.png" ,Star Movies
 https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="HBOAsia" tvg-logo="https://i.imgur.com/9v0WUqt.png",HBO (ID) 1
+#EXTINF:-1 group-title="Movies" tvg-id="HBOAsia" tvg-logo="https://i.imgur.com/9v0WUqt.png",HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -591,7 +591,7 @@ http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/197972
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 group-title="Movies" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO (ID) 2
+#EXTINF:-1 group-title="Movies" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
