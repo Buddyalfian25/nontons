@@ -185,10 +185,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Ks3rxN6.png", Kids TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/7GJxc55.png", Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ks3rxN6.png" group-title="KIDS", Kids TV (HD) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GJxc55.png" group-title="KIDS", Kids TV (HD) 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnbP6Scc/images-1.png" group-title="KIDS", ZooMoo
