@@ -46,9 +46,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/107Ydtx.jpeg", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/a0jB4QZ.png", Trans TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/107Ydtx.jpeg", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/a0jB4QZ.png", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="INDONESIA",Moji
@@ -80,7 +80,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7PgthBCw/images-2.jpg" group-title="INDONESIA", DAAI TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SKd7p8m.png" group-title="INDONESIA", DAAI TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/daai.m3u8
@@ -185,10 +185,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.postimg.cc/yxDRfX3K/download.png", Kids TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/Ks3rxN6.png", Kids TV
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxDRfX3K/download.png" group-title="KIDS", Kids TV (HD) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ks3rxN6.png" group-title="KIDS", Kids TV (HD) 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnbP6Scc/images-1.png" group-title="KIDS", ZooMoo
