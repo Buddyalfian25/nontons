@@ -2,9 +2,9 @@
 =======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
 =======================>TIDAK UNTUK DIPERJUAL BELIKAN, ANDA FAHAM.???<===========
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bCUSGr3.png" group-title="Belzie_TV", Belzie Video TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Belzie_TV", Belzie Video TV
 https://s.id/BelzieTV-video
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bCUSGr3.png" group-title="Belzie_TV", Donasi Disini
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Belzie_TV", Donasi Disini
 https://s.id/Dana-video
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
@@ -46,9 +46,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/a0jB4QZ.png", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/MZnKdN9.png", Trans TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/a0jB4QZ.png", Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/MZnKdN9.png", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/S8YTgXC.jpg" group-title="INDONESIA",Moji
