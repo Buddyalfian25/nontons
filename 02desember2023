@@ -173,7 +173,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="KIDS", MKidZ
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVwKJKL7/0b7ae2c03d70e4b7059b0358719a7ffa.png" group-title="KIDS", Baby TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FquFGfI.jpg" group-title="KIDS", Baby TV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/babytv.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="BoomerangAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png", Boomerang
@@ -191,11 +191,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GJxc55.png" group-title="KIDS", Kids TV (HD) 
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnbP6Scc/images-1.png" group-title="KIDS", ZooMoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UaoIccs.jpg" group-title="KIDS", ZooMoo
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwCfYVHP/Dream-Works-Channel-Logo-svg.png" group-title="KIDS", DreamWorks
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErqUxOv.jpg" group-title="KIDS", DreamWorks
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvBn2S06/images.png" group-title="KIDS", Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJVEVHW.jpg" group-title="KIDS", Nickelodeon
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="KIDS", Disney Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneych.m3u8
@@ -208,7 +208,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyxd.m3u8
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/266805
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS", Nick Jr EN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvBn2S06/images.png" group-title="KIDS", Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJVEVHW.jpg" group-title="KIDS", Nickelodeon
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network
