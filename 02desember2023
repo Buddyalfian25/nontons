@@ -2,9 +2,9 @@
 =======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
 =======================>TIDAK UNTUK DIPERJUAL BELIKAN, ANDA FAHAM.???<===========
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5g7kD41/1694966522301.png" group-title="Belzie_TV", Belzie Video TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCUSGr3.png" group-title="Belzie_TV", Belzie Video TV
 https://s.id/BelzieTV-video
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVYqYPRK/1676103772488.png" group-title="Belzie_TV", Donasi Disini
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bCUSGr3.png" group-title="Belzie_TV", Donasi Disini
 https://s.id/Dana-video
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
@@ -138,7 +138,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.postimg.cc/MTRwvyBN/1200px-Logo-ntv.png" group-title="INDONESIA", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
  
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo"https://i.imgur.com/nBdHN13.jpeg" group-title="INDONESIA",INDONESIAna TV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/nBdHN13.jpeg" group-title="INDONESIA",INDONESIAna TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/NSEpsIh.jpeg", CNN
