@@ -32,7 +32,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 ########--LOCAL INDONESIA--########
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4Hxld4.jpg" group-title="INDONESIA", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4Hxld4.jpg" group-title="INDONESIA", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/rcti.m3u8
