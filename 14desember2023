@@ -7,8 +7,11 @@ https://s.id/BelzieTV-video
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Belzie_TV", Donasi Disini
 https://s.id/Dana-video
 
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/5ced7340-ef86-11ec-96ed-3ffe570457df/3332171/584870087.png" group-title="Aa", HBO
-http://203.77.246.50:5000/udp/239.1.3.84:5000
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="HBO Group" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", HBO Test
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
