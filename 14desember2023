@@ -175,7 +175,7 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="INDONESIA", Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png",CNBC Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/bgBfX6N.jpg", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
