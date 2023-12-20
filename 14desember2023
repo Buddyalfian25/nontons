@@ -517,8 +517,8 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 EXTINF:-1 tvg-id="HBOAsia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO Asia 3
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO SD 1
-http://x3iptv.com:8090/Armandopalomino/hbgyttrfv/19257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO SD 2
+http://x3iptv.com:8090/Armandopalomino/hbgyttrfv/19270
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115", HBO Hits 1 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
