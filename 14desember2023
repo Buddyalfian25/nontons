@@ -621,7 +621,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/1084f85cbd02a853f06f39345e0bd189dd9226dd/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/3eReHyg.jpg" group-title="Movies", Cinemax (ID) 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/cinemax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
