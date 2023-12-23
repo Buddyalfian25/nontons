@@ -517,7 +517,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/196480
 
 #EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits[sub]" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits[sub]
-http://metatvpro.com:25461/J4701/7186/203
+http://metatvpro.com:25461/J4701/7186/204
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
