@@ -491,9 +491,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
       -----HBO GROUP-----. 
 
-#EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/mkD0y1h4/STAR-Movies-logo.png" ,Star Movies
-https://kusnadipepenk.github.io/ntn/strmvi.m3u8
-
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="HBO Group", HBO HD
 http://metatvpro.com:25461/J4701/7186/200
 
@@ -554,6 +551,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
      #################
      -----MOVIES-----
      #################
+
+#EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.postimg.cc/mkD0y1h4/STAR-Movies-logo.png" ,Star Movies
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
