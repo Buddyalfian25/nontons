@@ -497,6 +497,7 @@ http://metatvpro.com:25461/J4701/7186/200
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="HBO.Id" tvg-logo="https://cdn.ksa.my.id/hbo.png" group-title="HBO Group", HBOO
 https://anv-livechannel-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="HBOAsia" tvg-logo="https://i.imgur.com/9v0WUqt.png", HBO Asia 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
