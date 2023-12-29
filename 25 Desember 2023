@@ -515,7 +515,7 @@ http://metatvpro.com:25461/J4701/7186/203
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="13395" tvg-name="HBO Signature[sub]" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO Group", HBO Signature
 http://metatvpro.com:25461/J4701/7186/205
