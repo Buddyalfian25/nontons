@@ -6,6 +6,9 @@ https://s.id/BelzieTV-video
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Belzie_TV", Donasi Disini
 https://s.id/Dana-video
 
+#EXTINF:-1 tvg-id="HBO" tvg-name=" HBO[sub]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="Test", HBO[sub]
+http://metatvpro.com:25461/J4701/7186/197
+
 ########---EVENT GF & F1---#######
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
