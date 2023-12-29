@@ -508,7 +508,7 @@ https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.m
 #EXTINF:-1 group-title="HBO Group" tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-logo="https://i.postimg.cc/DwLBX8cK/mx.png", HBO Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits[sub]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="Movie", HBO Hits
+#EXTINF:-1 tvg-id="HBOHits" tvg-name="HBO Hits[sub]" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png" group-title="HBO Group", HBO Hits
 http://metatvpro.com:25461/J4701/7186/203
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbohitsasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115", HBO Hits 2
