@@ -536,6 +536,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO Group", HBO||ðŸ‡®ðŸ‡©
+http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197972
+
      #################
      -----MOVIES-----
      #################
