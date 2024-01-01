@@ -508,7 +508,7 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/197972
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO Asia |Max|
+EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="HBO Group", HBO | Max
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits
@@ -523,22 +523,17 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/196480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HBO%20Signature%20SD-FirstMedia-Chl-286.jpg" group-title="HBO Group", HBO Signature
 http://iptvtree.net:8080/F26646/f950f250/221948
 
-#EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO Signature 2
+#EXTINF:-1 group-title="HBO Group" tvg-id="hbosignatureasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115", HBO Signature | Cubmu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbosig-max.openwindows037.workers.dev/
-EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO Group",HBO Signature |Max|
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
 #EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family 1 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
-#EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family 2
+#EXTINF:-1 group-title="HBO Group" tvg-id="hbofamilyasia.sg" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family | Cubmu
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
