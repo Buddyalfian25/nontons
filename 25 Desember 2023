@@ -177,11 +177,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
- 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/xGMxrbP/INEWS.png",iNews
+https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Un1EN9x.png" group-title="INDONESIA",iNEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/inews.m3u8
 http://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
