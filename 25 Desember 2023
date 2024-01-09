@@ -554,8 +554,12 @@ http://176.119.29.7:8082/21ce5d51-76e2-499a-8e23-9d82365aaf2f.m3u8?md5=29b9JMC1v
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC Extra 2
 http://176.119.29.7:8082/eac8b5ec-5835-4ad6-abcc-1bb68d11c4b7.m3u8?md5=1Mt5XrPUe5qQ57Bz1IOuFw&expires=1698296567
 
-#EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png", SPOTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:0 tvg-id="SPOTV.Id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="SPORTS", SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
 #EXTINF:-1 tvg-id="" group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png", SPOTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv.m3u8
 
