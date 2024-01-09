@@ -261,6 +261,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mp
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg", TVRI Nasional
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
+#EXTINF:-1 tvg-id="useeprime" tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="INDONESIA", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+
      ##################
      ##-----KIDS-----##
      ##################
