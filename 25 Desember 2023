@@ -533,6 +533,7 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
 https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+http://4kiptv.vip:25461/fwFtM7rFgbBCC6h/XC62naDXDZLNQPy/222440
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafNBLMX-Lyt_8U82kqxf0HC0NJ0wEyBrt2w&usqp=CAU" group-title="SPORTS",SSC 1 FHD
 http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4119.m3u8
