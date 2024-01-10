@@ -96,19 +96,6 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO Group",HBO Family Transvision
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "M0ED4qvhb6p/mrLjCXxaWA", "kid": "1QQBG770Z8DeOnU04wKm1A" } ], "type": "temporary" }
-#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBOXtreme" tvg-logo="https://i.ibb.co/ZhwppKy/Wz3WemYg.png" group-title="HBO Group", HBO Xtreme
-http://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "a74gYrFQsRSWzdX73ZyJ1g", "kid": "9OHOXO9+mhEP6Wj4iBsh+g" } ], "type": "temporary" }
-#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO Pop" tvg-logo="https://i.ibb.co/b5wG57Z/hbo-pop-logo-by-doublekids07-ddpwhz3-pre.jpg" group-title="HBO Group" , HBO POP
-http://cdn.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
-
-#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus HD" group-title="HBO Group" tvg-logo="https://i.ibb.co/25Pszn2/640px-HBO-Plus.png", HBO Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Liverome/65.0.3325.181 Safari/537.36
-https://rawcdn.githack.com/broto121/ali/main/h11.m3u8
 
 ###################################
 ----------CHANNEL LOKAL------------
