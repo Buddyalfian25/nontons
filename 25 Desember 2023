@@ -135,9 +135,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwoVhVq.jpg" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
+http://gamsgo.cyou:8080/cipo/TAd9YX7VLaxhjxXt/162138
+http://tvkuonline.my.id:25461/riyad/riyad/14
+https://mantul.biz.id:443/ekos/748382/5286.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VVKx701/Trans-Vision.png" group-title="INDONESIA", INDOSIAR
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LGo706i.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
