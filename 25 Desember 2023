@@ -6,6 +6,18 @@ https://s.id/BelzieTV-video
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Belzie_TV", Donasi Disini
 https://s.id/Dana-video
 
+#####ASIA CUP####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sDT3s4.jpg" group-title="Asia Cup", server 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3sDT3s4.jpg" group-title="Asia Cup", server 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=67617db114014f4c85793b3a23224839:3029635a44a54dc78be8f740728a55f5
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest.mpd
+
 ########---EVENT GF & F1---#######
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
