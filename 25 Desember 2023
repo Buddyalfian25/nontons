@@ -124,7 +124,7 @@ http://208.115.225.174:14152
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev 
-#EXTINF:-1 group-title="HBO PREMIUM", tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", HBO EXTREAM 
+#EXTINF:-1 group-title="HBO PREMIUM", tvg-logo="https://i.imgur.com/ZgKYmIh.png", HBO EXTREAM 
 http://208.115.225.174:14165
 
 
