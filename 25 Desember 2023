@@ -100,7 +100,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 http://208.115.225.174:14136
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sw743nW.png" group-title="HBO PREMIUM", HBO 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Zkerlp.png" group-title="HBO PREMIUM", HBO 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 http://208.115.225.174:14140
