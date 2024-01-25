@@ -143,13 +143,9 @@ https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.m
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO Group", HBO Asia Transvision
 https://cdnjkt2.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits
-http://iptvtree.net:8080/F26646/f950f250/196480
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="HBO Group", HBO Hits HD
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
 https://zozotv.xyz:443/rozila969/abc12345/97
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
