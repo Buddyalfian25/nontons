@@ -146,6 +146,11 @@ https://cdnjkt2.transvision.co.id:1003/live/master/4/4028c6856b6088c3016b87d64b9
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115" group-title="HBO Group", HBO Hits
 http://iptvtree.net:8080/F26646/f950f250/196480
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="HBO Group", HBO Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://as-proxy.openwindow040.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
