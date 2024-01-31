@@ -443,18 +443,6 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/xLq8sst/Desain-tanpa-judul-60-modified.png" group-title="SPORTS",Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/Xt38mRL/Desain-tanpa-judul-59-modified.png" group-title="SPORTS",Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/f216tTj/Desain-tanpa-judul-61-modified.png" group-title="SPORTS",Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
-
 
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="SPORTS",Dazn 1 HD .
@@ -481,13 +469,13 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 
 #EXTINF:-1 group-title="SPORTS",Q sport .
 http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 2 .
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 2
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 3 .
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 3
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 4 .
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 4
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 5 .
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9ffxZqbQ/TNT-Sports-logo-2021.png" group-title="SPORTS",TNTSPORTS 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 group-title="SPORTS",ESPORTE INTERACTIVO .
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
