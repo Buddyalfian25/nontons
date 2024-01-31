@@ -438,6 +438,108 @@ https://kusnadipepenk.github.io/ntn/cn.m3u8
      -----SPORTS-----
      ################
 
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN Sport Full HD ---★★●•" tvg-logo="" group-title="beIN [FHD] ⚽",•●★★--- beIN Sport Full HD ---★★●•
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN PREMIUM1 [FHD]" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN [FHD] ⚽",beIN PREMIUM1 [FHD]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3221.m3u8
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN PREMIUM2 [FHD]" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN [FHD] ⚽",beIN PREMIUM2 [FHD]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3222.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN PREMIUM3 [FHD]" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN [FHD] ⚽",beIN PREMIUM3 [FHD]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3223.m3u8
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN FullHD1" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN [FHD] ⚽",beIN FullHD1
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3224.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN FullHD2" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN [FHD] ⚽",beIN FullHD2
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3225.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN FullHD3" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN [FHD] ⚽",beIN FullHD3
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3226.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN FullHD4" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN [FHD] ⚽",beIN FullHD4
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3227.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN FullHD5" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN [FHD] ⚽",beIN FullHD5
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3228.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN FullHD6" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN [FHD] ⚽",beIN FullHD6
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3230.m3u8
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN FullHD7" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN [FHD] ⚽",beIN FullHD7
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN [HVEC_H265] ---★★●•" tvg-logo="" group-title="beIN [HVEC_H265] ⚽",•●★★--- beIN [HVEC_H265] ---★★●•
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN PREMIUM1 [HEVC]" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN [HVEC_H265] ⚽",beIN PREMIUM1 [HEVC]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/459.m3u8
+#EXTINF:-1 tvg-id="beinsports2premiumar.qa" tvg-name="beIN PREMIUM2 [HEVC]" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN [HVEC_H265] ⚽",beIN PREMIUM2 [HEVC]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/450.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN PREMIUM3 [HEVC]" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN [HVEC_H265] ⚽",beIN PREMIUM3 [HEVC]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/451.m3u8
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN1 [H265]" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN [HVEC_H265] ⚽",beIN1 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/452.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN2 [H265]" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN [HVEC_H265] ⚽",beIN2 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/453.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN3 [H265]" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN [HVEC_H265] ⚽",beIN3 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3875.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN4 [H265]" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN [HVEC_H265] ⚽",beIN4 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/455.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN5 [H265]" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN [HVEC_H265] ⚽",beIN5 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4002.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN6 [H265]" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN [HVEC_H265] ⚽",beIN6 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/457.m3u8
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN7 [H265]" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN [HVEC_H265] ⚽",beIN7 [H265]
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN ᴴᴰ ---★★●•" tvg-logo="https://i.imgur.com/AF9RoE2.png" group-title="beIN [HD] ⚽",•●★★--- beIN ᴴᴰ ---★★●•
+#EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="beIN News" tvg-logo="https://i.imgur.com/WOwcw3U.png" group-title="beIN [HD] ⚽",beIN News
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/2051.m3u8
+#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="beIN HD (Global)" tvg-logo="https://i.imgur.com/GqXvBgS.png" group-title="beIN [HD] ⚽",beIN HD (Global)
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/960.m3u8
+#EXTINF:-1 tvg-id="beinsports1premiumar.qa" tvg-name="beIN PREMIUM 1 ᴴᴰ" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN [HD] ⚽",beIN PREMIUM 1 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/46.m3u8
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="beIN PREMIUM 2 ᴴᴰ" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN [HD] ⚽",beIN PREMIUM 2 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/47.m3u8
+#EXTINF:-1 tvg-id="beinsports3premiumar.qa" tvg-name="beIN PREMIUM 3 ᴴᴰ" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN [HD] ⚽",beIN PREMIUM 3 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/48.m3u8
+#EXTINF:-1 tvg-id="beinsports1ar.qa" tvg-name="beIN 1 ᴴᴰ" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN [HD] ⚽",beIN 1 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/49.m3u8
+#EXTINF:-1 tvg-id="beinsports2ar.qa" tvg-name="beIN 2 ᴴᴰ" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN [HD] ⚽",beIN 2 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/50.m3u8
+#EXTINF:-1 tvg-id="beinsports3ar.qa" tvg-name="beIN 3 ᴴᴰ" tvg-logo="https://i.imgur.com/reVgvcf.png" group-title="beIN [HD] ⚽",beIN 3 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/51.m3u8
+#EXTINF:-1 tvg-id="beinsports4ar.qa" tvg-name="beIN 4 ᴴᴰ" tvg-logo="https://i.imgur.com/TYOj4Vw.png" group-title="beIN [HD] ⚽",beIN 4 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/52.m3u8
+#EXTINF:-1 tvg-id="beinsports5ar.qa" tvg-name="beIN 5 ᴴᴰ" tvg-logo="https://i.imgur.com/N3cv3PA.png" group-title="beIN [HD] ⚽",beIN 5 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/53.m3u8
+#EXTINF:-1 tvg-id="beinsports6ar.qa" tvg-name="beIN 6 ᴴᴰ" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN [HD] ⚽",beIN 6 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/54.m3u8
+#EXTINF:-1 tvg-id="beinsports7ar.qa" tvg-name="beIN7 ᴴᴰ" tvg-logo="https://i.imgur.com/ArD2FmL.png" group-title="beIN [HD] ⚽",beIN7 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 1 ᴴᴰ" tvg-logo="" group-title="beIN [HD] ⚽",beIN XTRA 1 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4095.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN XTRA 2 ᴴᴰ" tvg-logo="" group-title="beIN [HD] ⚽",beIN XTRA 2 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4096.m3u8
+#EXTINF:-1 tvg-id="beinsports1enar.qa" tvg-name=" beIN  ENGLISH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Z03QVfY.png" group-title="beIN [HD] ⚽", beIN  ENGLISH 1 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3001.m3u8
+#EXTINF:-1 tvg-id="beinsports2enar.qa" tvg-name="beIN ENGLISH 2 ᴴᴰ" tvg-logo="https://i.imgur.com/vcMsL1Z.png" group-title="beIN [HD] ⚽",beIN ENGLISH 2 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3002.m3u8
+#EXTINF:-1 tvg-id="beinsports3enar.qa" tvg-name="beIN ENGLISH 3ᴴᴰ" tvg-logo="https://i.imgur.com/9mX3sZM.png" group-title="beIN [HD] ⚽",beIN ENGLISH 3ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3970.m3u8
+#EXTINF:-1 tvg-id="beinsports1frar.qa" tvg-name="beIN  FRENCH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/MUYDHty.png" group-title="beIN [HD] ⚽",beIN  FRENCH 1 ᴴᴰ
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3972.m3u8
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="beIN NBA " tvg-logo="https://i.imgur.com/rkG4f3c.png" group-title="beIN [HD] ⚽",beIN NBA 
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/3973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="•●★★--- beIN SD ---★★●•" tvg-logo="" group-title="beIN [SD] ⚽",•●★★--- beIN SD ---★★●•
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM1 SD" tvg-logo="https://i.imgur.com/TGzCVTR.png" group-title="beIN [SD] ⚽",beIN PREMIUM1 SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/56.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM2 SD" tvg-logo="https://i.imgur.com/x6lC9BB.png" group-title="beIN [SD] ⚽",beIN PREMIUM2 SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN PREMIUM3 SD" tvg-logo="https://i.imgur.com/dsiOly2.png" group-title="beIN [SD] ⚽",beIN PREMIUM3 SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 1SD" tvg-logo="https://i.imgur.com/dmuw7ic.png" group-title="beIN [SD] ⚽",beIN 1SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 2SD" tvg-logo="https://i.imgur.com/dEB3RXR.png" group-title="beIN [SD] ⚽",beIN 2SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/60.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 3SD" tvg-logo="[]" group-title="beIN [SD] ⚽",beIN 3SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 4SD" tvg-logo="[]" group-title="beIN [SD] ⚽",beIN 4SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 5SD" tvg-logo="[]" group-title="beIN [SD] ⚽",beIN 5SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 6SD" tvg-logo="https://i.imgur.com/6TuruRl.png" group-title="beIN [SD] ⚽",beIN 6SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/61.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN 7SD" tvg-logo="" group-title="beIN [SD] ⚽",beIN 7SD
+http://ugeen.live:8080/live/kaicer_VIPg85r6f/7l9cbx/4035.m3u8
 
 #EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="SPORTS",Dazn 1 HD .
@@ -458,11 +560,7 @@ http://rastawxo.biz:80/play/fMSzXMWg6CWjKBdjdustNIcGxNh58e0hDb_KqYtdCNE/ts
 https://iplogger.com/SPORTTV1PT
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6583.png" group-title="SPORTS",ELEVEN SPORTS 14?_.
 https://iplogger.com/ELEVENSPORTS1PL4K
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-canal-4k-ultra-hd-2008.png" group-title="SPORTS",Canal+4? Foot+
-http://38gb.pro/live/4478355/94943550/ee751bde-8492-4b46-ac91-89415926c247.m3u8
 
-#EXTINF:-1 group-title="SPORTS",PRENDETV LIGA MX .SPORTV BRASPORTV 2 BRADAZN 1 .
-http://77.72.23.28/iptv/7PGD7DMWD2KXZ8/19042/index.m3u8
 https://tv.movielab.pro/942/video.m3u8
 #EXTINF:-1 group-title="SPORTS",BEIN SPORT 1 PREMIUM .
 http://vzagut73.megogo.xyz/iptv/5WS4WSUFCCHGQF/6131/index.m3u8
