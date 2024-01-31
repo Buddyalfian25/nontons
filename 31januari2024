@@ -655,15 +655,15 @@ https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/Fox
 #EXTINF:-1 tvg-chno="204" tvg-id="FoxSports3Argentina.ar" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2023_02/Fox_Sports_3_Argentina_2023.png.baa9fb8a642232d4d6733c958a64ce8a.png" group-title="SPORTS", FOX Sports 3
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS",Sony TEN 1 HD 
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XVn3vKj.png" group-title="SPORTS",Sony TEN 1
 https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS",Sony TEN 2 HD 
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XVn3vKj.png" group-title="SPORTS",Sony TEN 2
 https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS",Sony TEN 3 HD 
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XVn3vKj.png" group-title="SPORTS",Sony TEN 3
 https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-#EXTINF: -1   tvg-logo="" group-title="SPORTS",Sony TEN 4 HD 
+#EXTINF: -1   tvg-logo="https://i.imgur.com/XVn3vKj.png" group-title="SPORTS",Sony TEN 4
 https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8 
-#EXTINF:-1   tvg-logo="" group-title="SPORTS",Sony TEN 5 HD 
+#EXTINF:-1   tvg-logo="https://i.imgur.com/XVn3vKj.png" group-title="SPORTS",Sony TEN 5
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -853,9 +853,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="SPORTS", WWE
-https://link.zozotv.xyz:443/rozila969/abc12345/284
 
 #EXTINF:-1 tvg-id="CABA3700006IC" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="SPORTS", Wrestling
 #https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642538/olahraga/wwe.m3u8
