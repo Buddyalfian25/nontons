@@ -431,7 +431,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network Asia
 https://kusnadipepenk.github.io/ntn/cn.m3u8
-
+http://103.113.116.150:25461/mtm1/12345/107
 
 =========================================== SPORTS ===========================================
 
