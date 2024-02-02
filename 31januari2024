@@ -187,7 +187,7 @@ https://link.zozotv.xyz:443/rozila969/abc12345/45
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-https://link.zozotv.xyz:443/rozila969/abc12345/47
+http://103.113.116.150:25461/mtm1/12345/5
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pCf3IJu.png", RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
