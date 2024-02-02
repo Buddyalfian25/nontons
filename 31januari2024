@@ -75,7 +75,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 -------HBO PREMIUM--------
 ##########################
 
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO PREMIUM", HBO HD maxtream 
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/hbo.png" group-title="HBO PREMIUM", HBO HD maxtream 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/ 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
