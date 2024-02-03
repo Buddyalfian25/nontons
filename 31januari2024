@@ -95,37 +95,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.license_key=https://hbosigmax.openwindows037.workers.dev/ 
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1jFyips.jpg" group-title="HBO PREMIUM", HBO
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14136
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Zkerlp.png" group-title="HBO PREMIUM", HBO 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14140
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0wS69Y.jpg" group-title="HBO PREMIUM", HBO +
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14152
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgKYmIh.png" group-title="HBO PREMIUM", HBO Extreme
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14165
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zef9FFQ.jpg" group-title="HBO PREMIUM", HBO Family 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14144
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEKmaYs.png" group-title="HBO PREMIUM", HBO Signature 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
-http://208.115.225.174:14160
-
-
 
 ###################
 -----HBO GROUP-----
@@ -1110,8 +1079,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 http://187.95.95.247/h2/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="KNOWLEDGE",National Geographic+ 
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+https://epg.pw/stream/5ed4a95fcb35e72d7cdde05b11da510b9eb79975911eaca47a19f5b10fb13993.m3u8
 
 #EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://i.postimg.cc/Kz00bJbt/National-Geographic.png" ,National Geograpic
 http://173.225.246.25:8889/udp/239.203.20.73:4003
