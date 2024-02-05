@@ -81,19 +81,9 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
 http://mytv-extra.com:80/t12mgxyb335/9832948789/400252981
 #EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" ,ASTRO SUPERSPORTS 3 HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/377340
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45eb7daf6bfd21ae32e1d90a7e1cf4ca.png" ,True Premier Football 2
-http://mytv-extra.com:80/t12mgxyb335/9832948789/40097
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" ,True Premier Football 1
-http://mytv-extra.com:80/t12mgxyb335/9832948789/40098
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436",Star Sports Select 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect1hdmac.m3u8
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ "tvg-id="starsport.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646",Star Sports Select 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://raw.githubusercontent.com/fgyip/cicakanimehihiheha/main/starsportsselect2hdmac.m3u8
+
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 1
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 4
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 5
@@ -1364,14 +1354,6 @@ https://kister.net/mpl/yt2m3u8?w=@TarbiyahSunnahChannel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@tvannashihah
 
-#EXTINF:-1 group-title="Dakwah" tvg-id="marhabantv.id" tvg-logo="https://iptv.urfan.web.id/logo/marhabantv.png",Marhaban TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@MarhabanTVGarut
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="khbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/khbtv.png",KHB TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@khalidbasalamah
-
 #EXTINF:-1 group-title="Dakwah" tvg-id="sjptv.id" tvg-logo="https://iptv.urfan.web.id/logo/sjptv.png",SunnahJalanPasti TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@SunnahJalanPasti
@@ -1380,21 +1362,9 @@ https://kister.net/mpl/yt2m3u8?w=@SunnahJalanPasti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@RifqanTV
 
-#EXTINF:-1 group-title="Dakwah" tvg-id="albinaatv.id" tvg-logo="https://iptv.urfan.web.id/logo/albinaatv.png",Albinaa TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@albinaatv
-
 #EXTINF:-1 group-title="Dakwah" tvg-id="srbtv.id" tvg-logo="https://iptv.urfan.web.id/logo/srbtv.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@SyafiqRizaBasalamahOfficial
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="gazwahtv.id" tvg-logo="https://iptv.urfan.web.id/logo/gazwahtv.png",Gazwah TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@GazwahTVOfficial
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="medstv.id" tvg-logo="https://iptv.urfan.web.id/logo/medstv.png",MedSTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://kister.net/mpl/yt2m3u8?w=@MediaSunnahAceh
 
 #EXTINF:-1 group-title="Dakwah" tvg-id="artvisi.id" tvg-logo="https://iptv.urfan.web.id/logo/artvisi.png",ARTVISI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -1420,10 +1390,6 @@ https://kister.net/mpl/yt2m3u8?w=@SaudiSunnahTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://kister.net/mpl/yt2m3u8?w=@SaudiQuranTv
 
-#EXTINF:-1 group-title="Dakwah" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://ythlsgo.onrender.com/channel/UCIrj7gqiu8uUfgMitYFzkNg.m3u8
-
 #EXTINF:-1 group-title="Dakwah" tvg-id="MuhammadiyahTV.id" tvg-logo="https://iptv.urfan.web.id/logo/tvmu.png",tvMu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://e.siar.us/live/tvmu.m3u8
@@ -1443,12 +1409,6 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 group-title="Dakwah" tvg-id="alwafatarim.id" tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png",Al Wafa Tarim TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
-#EXTINF:-1 group-title="Dakwah" tvg-id="khazanah.id" tvg-logo="https://iptv.urfan.web.id/logo/khazanah.png",Khazanah
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://t.mayvee.workers.dev/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 #EXTINF:-1 group-title="Dakwah" tvg-id="muslimtv.id" tvg-logo="https://iptv.urfan.web.id/logo/muslimtv.png",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
