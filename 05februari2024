@@ -261,7 +261,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/oBbZbzW.png" , Trans TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/oBbZbzW.png", Trans TV
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/oBbZbzW.png", Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1000404442_b744100_sleng.m3u8
@@ -279,10 +279,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LGo706i.png",Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LGo706i.png", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(58a2dc45-6d76-4c6e-b5fa-8ec140c30553)/index.m3u8
+http://103.113.116.150:25461/mtm1/12345/13
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
