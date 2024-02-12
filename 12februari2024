@@ -447,8 +447,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
 https://kusnadipepenk.github.io/ntn/disn.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="KIDS", Miao Mi
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/266805
+#EXTINF:-1 tvg-id="MiaoMi.hk" tvg-logo="https://static.visionplus.id/images/channel/2cd0bc05/db86.png" group-title="KIDS", MiaoMi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d1ahy1km7unmk9.cloudfront.net/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS", Nick Jr EN
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJVEVHW.jpg" group-title="KIDS", Nickelodeon
