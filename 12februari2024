@@ -460,10 +460,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network
 http://103.113.116.150:25461/mtm1/12345/107
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network (ID) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="KIDS", Cartoon Network (ID) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/ 
 https://ikuikuiku.iptvgo.workers.dev/https://linearjitp02-playback.astro.com.my/dash-wv/linear/509/default.mpd
 
 =========================================== SPORTS ===========================================
