@@ -1154,6 +1154,45 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
+#####KNOWLEDGE######
+
+#EXTINF:-1 xui-id="7611" tvg-id="" tvg-name="SEA Today" tvg-logo="http://play.fastkobar.my.id:8080/images/D8XEKa0WlZb__jeS_BlOhhoPoD-ZL_hMObcTnd5ZjqcGEL_1CZStyBN7Oobhq140.png" group-title="Knowledge ID",SEA Today
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZXLaSyiqEvbkEC8ndeCoCp4
+#EXTINF:-1 xui-id="63" tvg-id="" tvg-name="AFC" tvg-logo="" group-title="Knowledge ID",AFC
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZfr3fJEJq8L4snHs-hkxqZQ
+#EXTINF:-1 xui-id="11187" tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Knowledge ID",Food Network
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZYa-F5oNPuWoMYEl7IRTThw
+#EXTINF:-1 xui-id="11189" tvg-id="" tvg-name="USA | Cooking Channelⓧ HD" tvg-logo="" group-title="Knowledge ID",USA | Cooking Channelⓧ HD
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZSOvh7bfwCn46uTvjnsv6aM
+#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="Knowledge ID",HGTV
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZbcHLE8xmoL25AZnCNtvlz4
+#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="History" tvg-logo="" group-title="Knowledge ID",History
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZYIWZecGh1ElT7IADLdaIRI
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="BBC Earth" tvg-logo="" group-title="Knowledge ID",BBC Earth
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZSFJL8LhkuaBiZsdqIULzrc
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Knowledge ID",Animal Planet
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZVoHdM4FY31Ib1kUY9UFmYY
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="Smithsonian" tvg-logo="" group-title="Knowledge ID",Smithsonian
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZT5oqXPKsnBXWIPHGrXvf98
+#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Knowledge ID",TLC
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZZS7Gxlo0bvYYLia4gh8Psw
+#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="Discovery Asia" tvg-logo="" group-title="Knowledge ID",Discovery Asia
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZV9BKxk1azgo-HK0Tjc7T6s
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="Knowledge ID",Discovery Channel
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZbXnWlClObuZvsNJw4tCm_8
+#EXTINF:-1 xui-id="7727" tvg-id="" tvg-name="Discovery Science HD" tvg-logo="" group-title="Knowledge ID",Discovery Science HD
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZX0eNS7rsJlBsB9vo-2JvSg
+#EXTINF:-1 xui-id="8097" tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="Knowledge ID",Discovery Turbo
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZbtuY93COcy9IaCBeACUPp0
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="Love Nature" tvg-logo="" group-title="Knowledge ID",Love Nature
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZcvjbMPdUN26WNyovfFx0Ig
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Knowledge ID",Nat Geo Wild
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZQ6ctRwoypINlMp0WjnPaz8
+#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="Knowledge ID",National Geographic
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZWwWKN77udodoDpqAQwa4xs
+#EXTINF:-1 xui-id="11915" tvg-id="" tvg-name="Sky Nature HD" tvg-logo="" group-title="Knowledge ID",Sky Nature HD
+http://play.fastkobar.my.id:8080/play/RygSil4dWS66KlaQVBEWZUBjvMF0vSmfCSViPA4JtsU
+
 <==========Entertainment==========>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
