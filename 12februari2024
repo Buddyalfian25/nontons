@@ -396,11 +396,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="KIDS", Boomerang
 https://link.zozotv.xyz:443/rozila969/abc12345/135
 
-#EXTINF:-1 group-title="KIDS" tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/tVyRXzg.png", IndiKids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="KIDS",Indi Kids
+#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://i.imgur.com/tVyRXzg.png" group-title="KIDS",Indi Kids
 http://iptvtree.net:8080/F26646/f950f250/298539
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
