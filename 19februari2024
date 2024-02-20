@@ -185,6 +185,7 @@ http://103.113.116.150:25461/mtm1/12345/3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
+https://srtv.my.id/vd/play.m3u8?id=205&type=hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
