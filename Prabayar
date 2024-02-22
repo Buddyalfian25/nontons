@@ -87,6 +87,13 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extensi
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 23
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO PREMIUM", HBO HD CubMu
+https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
 ############################
 ######----HBO CUBMU----#####
 ############################
