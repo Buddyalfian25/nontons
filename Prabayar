@@ -1157,6 +1157,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png",History 2
 http://187.95.95.247/h2/index.m3u8 
 
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="KNOWLEDGE", National Geografhic
+http://iptvtree.net:8080/F14995/a84c0963/165094
+
 #EXTINF:-1 xui-id="71" tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://cdn4.mbahnunungonline.net/img/P9yiTz6.png?v=1.0.0.1" group-title="KNOWLEDGE", Nat Geo Wild
 http://myteve.online:8080/F12232/f23d27c1/724
 
