@@ -465,10 +465,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zJVEVHW.jpg" group-title="KIDS", Nickelodeon
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png", Cartoon Network
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="KIDS", Cartoon Network (ID) 
