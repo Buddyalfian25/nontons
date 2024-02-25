@@ -466,7 +466,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch103%29/index.m3u8
+http://00322.xyz:8000/coachprato/40437757/5104
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/8VTfjI6.png" group-title="KIDS", Cartoon Network (ID) 
 http://iptvtree.net:8080/F14995/a84c0963/157593
