@@ -451,7 +451,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
-https://kusnadipepenk.github.io/ntn/disn.m3u8
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyjr.m3u8
 
 #EXTINF:-1 tvg-id="MiaoMi.hk" tvg-logo="https://static.visionplus.id/images/channel/2cd0bc05/db86.png" group-title="KIDS", MiaoMi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
