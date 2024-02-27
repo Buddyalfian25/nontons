@@ -95,6 +95,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO Premium",HBO (ID)
 https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://103.84.206.6/stream/cba662f1ac8c406f9b831e243113d5dc/12/index.m3u8?token=MI1VlNNc0bQxuq81
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
