@@ -866,31 +866,16 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=h
 
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 1 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/155
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
   
-#EXTINF:-1 tvg-id="" tvg-name="ASSP-B [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 1 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/568
-
-
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 2 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/156
-
-  
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-B [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 2 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/569
-
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
 
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 3 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/157
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 
-  
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-B [Live Only]" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 3 Live Only
-https://link.zozotv.xyz:443/rozila969/abc12345/570
-
-  
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 4
-https://link.zozotv.xyz:443/rozila969/abc12345/571
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="13.SPORT", Usee Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
