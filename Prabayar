@@ -889,19 +889,22 @@ https://link.zozotv.xyz:443/rozila969/abc12345/570
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="13.SPORT",Astro 4
 https://link.zozotv.xyz:443/rozila969/abc12345/571
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS", Usee Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="13.SPORT", Usee Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORTS", Usee Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="13.SPORT", Usee Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+
+#EXTINF:-1 tvg-id="CABA3700006IC" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="13.SPORT", Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ################################
 
