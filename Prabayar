@@ -901,6 +901,9 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
      -----MOVIES-----
      #################
 
+#EXTINF:-1 group-title="Movies" tvg-id="sonypix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png", Sony Pix
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="hboasia.sg" tvg-logo="https://i.imgur.com/iIiyxJL.png", Star Movies
 https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 
@@ -1067,9 +1070,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://i.ibb.co/9GBk0T6/Rock-enter-hometv.jpg", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="Movies", Rock Extreme
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298566
 
 ########################
 ######--KNOWLEDGE--#####
