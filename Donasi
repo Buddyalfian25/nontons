@@ -109,7 +109,6 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="HBO Premium",HBO (ID)
 https://servicebuss.transvision.co.id/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Premium", HBO (Maxstream)
