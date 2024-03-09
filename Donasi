@@ -701,26 +701,6 @@ https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
  
 
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://i.ibb.co/5868Kdq/espn.jpg",ESPN 1
-http://assista.pro:80/0333686557/Vilamariante1/134014
-
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://i.ibb.co/t3TYFgZ/espn2.jpg",ESPN 2 
-http://assista.pro:80/0333686557/Vilamariante1/134019
-
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://i.ibb.co/r0nDNvJ/espn3.jpg",ESPN 3
-http://assista.pro:80/0333686557/Vilamariante1/134025
-
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://i.ibb.co/PjfmRfk/espn4.jpg",ESPN 4
-http://assista.pro:80/0333686557/Vilamariante1/134033
-
-
-#EXTINF:-1 group-title="13.SPORT" tvg-logo="https://i.ibb.co/PjfmRfk/espn4.jpg",ESPN xtra
-http://assista.pro:80/0333686557/Vilamariante1/134037
-
-
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/ZMXhKz2/aesport.jpg" group-title="13.SPORT", Arena Esport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
