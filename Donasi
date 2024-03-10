@@ -519,6 +519,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS", Disney Junior
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/disneyjr.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" tvg-name="" group-title="KIDS",Disney Junior 2
+http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
+
 #EXTINF:-1 tvg-id="MiaoMi.hk" tvg-logo="https://static.visionplus.id/images/channel/2cd0bc05/db86.png" group-title="KIDS", MiaoMi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://iptvgo.devs.id/drm/vision
