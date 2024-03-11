@@ -389,7 +389,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 http://iptvtree.net:8080/F14995/a84c0963/165054
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hFdhuwS.png" group-title="INDONESIA", NET TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqBzKQy/nettv.png" group-title="INDONESIA", NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
