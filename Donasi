@@ -108,7 +108,7 @@ http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://hbo-max.apkplfree.workers.dev/
-#EXTINF:-1 tvg-ID="hbo.id" tvg-name="HBO ID" group-title="MOVIES" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbo.jpg", HBO (Max)
+#EXTINF:-1 tvg-ID="hbo.id" tvg-name="HBO ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbo.jpg", HBO (Max)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
@@ -119,7 +119,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_key=https://hbofamily-max.apkplfree.workers.dev/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-ID="hbofamily.id" tvg-name="HBO Family ID" group-title="MOVIES" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbofam.jpg", HBO Family (Max)
+#EXTINF:-1 tvg-ID="hbofamily.id" tvg-name="HBO Family ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbofam.jpg", HBO Family (Max)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -128,7 +128,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #KODIPROP:inputstream.adaptive.license_key=https://hbosignature-max.apkplfree.workers.dev/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-ID="hbosignature.id" tvg-name="HBO Signature ID" group-title="MOVIES" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbosign.jpg", HBO Signature (Max)
+#EXTINF:-1 tvg-ID="hbosignature.id" tvg-name="HBO Signature ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbosign.jpg", HBO Signature (Max)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -137,7 +137,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://hbohits-max.apkplfree.workers.dev/
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTINF:-1 tvg-ID="hbohits.id" tvg-name="HBO Hits ID" group-title="MOVIES" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbohits.jpg", HBO Hits (Max)
+#EXTINF:-1 tvg-ID="hbohits.id" tvg-name="HBO Hits ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbohits.jpg", HBO Hits (Max)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
