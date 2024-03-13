@@ -175,15 +175,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #EXTINF:-1 tvg-ID="hbosignature.id" tvg-name="HBO Signature ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbosign.jpg", HBO Signature (Max)
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://hbo-max.apkplfree.workers.dev/
-#EXTINF:-1 tvg-ID="hbo.id" tvg-name="HBO ID" group-title="HBO Premium" tvg-logo="http://saudaraiptv.my.id/logo/movie/hbo.jpg", HBO Hits (Max)
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.7 (Linux;Android 9) ExoPlayerLib/2.12.2
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
