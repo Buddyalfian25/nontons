@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Belzie_TV
 https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_20240121145059.mp4?rlkey=dpmqddfhqcpd1y7e52g4h8prc&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5UmbNq.jpeg" group-title="Belzie_TV", Informasi Donasi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
 ########---EVENT GF & F1---#######
@@ -217,7 +217,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/196480
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO Group", HBO Signature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w1XCcnm.jpeg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="HBO Group", HBO Signature
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/221948
 
 #EXTINF:-1 group-title="HBO Group" tvg-id="HBOFAMILY" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115", HBO Family (SG) 
@@ -256,7 +256,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_2A/HBO_
  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
-#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="HBO Group", HBO POP HD
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://i.imgur.com/RMF89Mf.png" group-title="HBO Group", HBO POP HD
 https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
  
 
