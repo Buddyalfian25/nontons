@@ -527,11 +527,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/640px-DreamWorks_Channel_Logo.svg.png" group-title="KIDS" tvg-id="Zoomoo" tvg-name="Zoomoo", DREAMWORK 
 https://nyanv-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png" group-title="KIDS", Disney Junior
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="KIDS", Disney Junior
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest?cb=20200322141724&path-prefix=es" group-title="KIDS", Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+https://edge-live01-bel.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="KIDS" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior
+#EXTINF:-1 group-title="KIDS" tvg-id="disneyjr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/640px-Disney_Junior_2019_logo.png", Disney Junior
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
