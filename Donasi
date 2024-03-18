@@ -1619,7 +1619,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 Ini link murottal Alqur'an 30 juz
 
-Juz 1 ⇨ http://j.mp/2b8SiNO
+#EXTINF:-1 group-title="Murrotal Al-Quran" tvg-logo="https://iptv.urfan.web.id/logo/wesaltv.png", Juzz 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://j.mp/2b8SiNO
+
 Juz 2 ⇨ http://j.mp/2b8RJmQ
 Juz 3 ⇨ http://j.mp/2bFSrtF
 Juz 4 ⇨ http://j.mp/2b8SXi3
