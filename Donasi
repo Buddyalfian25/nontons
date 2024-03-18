@@ -413,7 +413,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTGRP:INDONESIA
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg", GTV (R+)
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/bMbM4zO.png", GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
