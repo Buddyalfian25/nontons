@@ -264,6 +264,9 @@ https://chromecast.cvattv.com.ar/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd
 ----------CHANNEL LOKAL------------
 ###################################
 
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/3WD0DcZ/Untitled-3-02.png" group-title="INDONESIA", BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (Digital) 
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
 
