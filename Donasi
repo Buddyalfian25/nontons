@@ -317,7 +317,7 @@ http://xtv.ooo:8080/68855885566/445566/350997
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.ibb.co/v33tnPR/moji.png" group-title="INDONESIA", Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+http://rr3.dens.tv/s/s41/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9hqFKAj.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
