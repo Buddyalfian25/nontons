@@ -566,10 +566,17 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS", Mentari TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS", Nick Jr EN
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickjr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJVEVHW.jpg" group-title="KIDS", Nickelodeon
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/nickelodeon.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/asDF7GJ.png?v=1.0.0.1" group-title="KIDS" tvg-id="Nick Junior" tvg-name="Nick Junior", Nick Jr EN
+https://nyanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/iXSCr83.png?v=1.0.0.1" group-title="KIDS" tvg-id="Nickelodeon" tvg-name="Nickelodeon", Nickelodeon
+https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK
 http://00322.xyz:8000/coachprato/40437757/5104
