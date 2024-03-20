@@ -35,14 +35,7 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 -----LIGA INGGRIS-----
 ######################
 
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" ,ASTRO SUPERSPORTS 1 HD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/377339
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" , ASTRO SUPERSPORTS 2 HD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400252981
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" ,ASTRO SUPERSPORTS 3 HD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/377340
-#EXTINF:-1 group-title="💥⚽️ LIGA INGGRIS💥⚽️ " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" ,ASTRO SUPERSPORTS 4 HD
-http://103.113.116.150:25461/mtm1/12345/50
+
 
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="💥⚽️ LIGA INGGRIS💥⚽️ ", LIVE 1
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
