@@ -275,9 +275,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI HD
+#EXTINF:-1 group-title="INDONESIA" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e825832393/a60c24e321d640f782d84cacb671173e.png", RCTI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=CUBMU/1.2.9 (Linux;Android 12) ExoPlayerLib/2.9.6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
+#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI (R+)
