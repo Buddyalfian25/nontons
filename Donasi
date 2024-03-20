@@ -78,32 +78,6 @@ http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extensi
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 23
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
-###########################
-#####---Liga Italia---#####
-###########################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvuJU9.png" group-title="⚽Liga Italia⚽" , Bein sport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-035/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvuJU9.png" group-title="⚽Liga Italia⚽" , Zona dazn
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-024/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvuJU9.png" group-title="⚽Liga Italia⚽" , Dazn 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvuJU9.png" group-title="⚽Liga Italia⚽" , true bein 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrvuJU9.png" group-title="⚽Liga Italia⚽" , Eleven 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-047/stream.mpd
 
     ####################
     ///Liga Indonesia///
