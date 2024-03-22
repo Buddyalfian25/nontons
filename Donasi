@@ -253,6 +253,7 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
+http://mykingtv.net:2082/60179038259NN/4345566/5144
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
