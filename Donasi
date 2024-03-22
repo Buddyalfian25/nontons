@@ -224,6 +224,8 @@ https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.m
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png/revision/latest?cb=20110407003848" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="HBO Group", HBO Family
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 
+#EXTINF:-1 tvg-id="" tvg-name="HBO Series" tvg-logo="" group-title="HBO Group", HBO Max
+http://eligestvone.info:2086/y27kCXpPEqrG/wvX6PueJjteb/482623
 
 ###################################
 ----------CHANNEL LOKAL------------
