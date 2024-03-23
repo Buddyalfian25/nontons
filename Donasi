@@ -33,32 +33,25 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 -------ADULT------
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 1
 http://kstv.us:8080/live/kaos/lSfUe486EA/47186.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 2
 http://kstv.us:8080/live/kaos/lSfUe486EA/47191.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 3
 http://kstv.us:8080/live/kaos/lSfUe486EA/47236.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 4
 http://kstv.us:8080/live/kaos/lSfUe486EA/47208.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 5
 http://kstv.us:8080/live/kaos/lSfUe486EA/47235.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 6
 http://kstv.us:8080/live/kaos/lSfUe486EA/47186.ts
 
-#EXTINF:-1
-tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group title="18+", Bagian 7
 http://kstv.us:8080/live/kaos/lSfUe486EA/47295.ts
 
 
