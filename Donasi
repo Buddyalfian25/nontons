@@ -568,6 +568,18 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/lsj2vre0a3ca129z59xnb/doraemon.png?rlkey=ybpzd69epnsf9zdc9kzeeww4t&dl=0" group-title="KIDS", Doraemon
+http://iptvkita.my.id:25461/Toni/0895810355575/106
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jd81il612yz9ovf5xevsu/mr-bean-cartoon.png?rlkey=9um4ljoeav3qnt20jqafi0rb1&dl=0" group-title="KIDS", Mr Bean Cartoon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60910
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/44kqvtce7n9jkdfwk4o6y/littlepony.jpg?rlkey=1zqsabwbqg84pmxhmfx8ynz8d&dl=0" group-title="KIDS", My Little Pony
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60908
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="KIDS", TalkingTom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
                            ###########################
                            ========== SPORTS =========
                            ############################
