@@ -31,30 +31,6 @@ http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
--------ADULT------
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Satu
-http://kstv.us:8080/live/kaos/lSfUe486EA/47186.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Dua
-http://kstv.us:8080/live/kaos/lSfUe486EA/47191.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Tiga
-http://kstv.us:8080/live/kaos/lSfUe486EA/47236.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Empat
-http://kstv.us:8080/live/kaos/lSfUe486EA/47208.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Lima
-http://kstv.us:8080/live/kaos/lSfUe486EA/47235.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Enam
-http://kstv.us:8080/live/kaos/lSfUe486EA/47186.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCYtrkM.jpeg" group-title="ZzzzzPlus", Tujuh
-http://kstv.us:8080/live/kaos/lSfUe486EA/47295.ts
-
-
 ######################
 -----LIGA INGGRIS-----
 ######################
