@@ -191,8 +191,6 @@ https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927f
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO CubMu", HBO Signature (Cub)
 https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-
-
 #############################
 #####-----HBO GROUP-----#####
 #############################
@@ -235,6 +233,19 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO Series" tvg-logo="https://i.imgur.com/29iW34a.jpeg" group-title="HBO Group", HBO Max
 http://eligestvone.info:2086/y27kCXpPEqrG/wvX6PueJjteb/482623
+
+#EXTINF:-1 tvg-id="hbo 2" tvg-name="HBO 2" tvg-logo="https://dl.dropbox.com/scl/fi/djrmu0jn2sso4d8t69geb/hbo2.png?rlkey=0l5rp62sya4wiprsp2v7s5kn8&dl=0" group-title="HBO Group", HBO 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3113
+
+#EXTINF:-1 tvg-id="hbo 2" tvg-name="HBO 2" tvg-logo="https://dl.dropbox.com/scl/fi/kihri234cyurfwbx0esle/hbomundi.png?rlkey=5oghc29jzmgf3xknhhrayhzqq&dl=0" group-title="HBO Group", HBO Mundi
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65745
+
+#EXTINF:-1 tvg-id="hbo 2" tvg-name="" tvg-logo="https://dl.dropbox.com/scl/fi/nn4paigj9eimbku6bilnw/hbo-extreme.png?rlkey=3wabgtdxmdsxt5yij4f9n843m&dl=0" group-title="HBO Group", HBO Xtreme
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65752
+
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus (H265)" tvg-logo="https://dl.dropbox.com/scl/fi/bubgavrhtxg6pn7vt5q0p/hbo-plus.png?rlkey=hfplx801ihgqvgt1wev0o47ud&dl=0" group-title="HBO Group", HBO+
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296857
+
 
 ###################################
 ----------CHANNEL LOKAL------------
