@@ -31,51 +31,90 @@ http://51.75.71.80:31321/DAZN_F1/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logof1.png" group-title="#🏍️EVENT GP&F1🏎️#", F1 5
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&extension=ts&play_token=7ftpv9VAE5
 
+
+-------LIGA CHAMPIONS-------
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/rmcsport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/arenasportHR1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/tnt2.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta3.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/cyta4.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/tnt1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 8
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ziggovoetbal.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 9
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportFR1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 10
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/arenasportSR1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 11
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/eleven2BE.m3u8
+
+#EXTINF:-1 tvg-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="🏆LIGA CHAMPIONS UEFA🏆", LIVE 12
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport2.m3u8
+
 ######################
 -----LIGA INGGRIS-----
 ######################
 
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 1
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 1
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 4
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 4
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=585217_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 5
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 5
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 6
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 6
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=5481_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 7
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 7
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=208134_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 8
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 8
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564955_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 9
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 9
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564969_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 10
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 10
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=564978_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 11
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 11
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=727904_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 12
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 12
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 13
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 13
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=649227_&extension=ts
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️", LIVE 14
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 14
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=833284&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 15
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 15
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=425666&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 16
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 16
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=116252&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 17
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 17
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=71907&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️" , LIVE 18
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧" , LIVE 18
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=636921&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️", LIVE 19
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 19
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078724&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️" , LIVE 20
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧" , LIVE 20
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078723&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 21
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 21
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078722&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 22
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 22
 http://pal.alphatx.me/play/live.php?mac=00:1A:79:C6:20:7D&stream=1078720&extension=ts&play_token=yK7Ppvy2j
-#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="⚽️LIGA INGGRIS⚽️ ", LIVE 23
+#EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧", LIVE 23
 http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=ts&play_token=jX6fRmXSK2
 
 
@@ -83,14 +122,95 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=
     ///Liga Indonesia///
     ####################
 
-#EXTINF:-1 group-title="⚽LIGA INDONESIA⚽" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+#EXTINF:-1 group-title="🇮🇩LIGA INDONESIA🇮🇩" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 group-title="⚽LIGA INDONESIA⚽" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
+#EXTINF:-1 group-title="🇮🇩LIGA INDONESIA🇮🇩" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1
 http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+
+----------LIGA ITALIA----------
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/seria1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021551&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021169&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1933&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021170&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 6
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/28945
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 7
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/32884
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 8
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30812
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 9
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30687
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 10
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30463
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 11
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021090&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="🇮🇹LIGA ITALIA🇮🇹", LIVE 12
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/2659
+
+---------LIGA SPANYOL--------
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 4
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 5
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=264973_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1965&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1968&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497106&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 9
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2593&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="🇪🇦LIGA SPANYOL🇪🇦", LIVE 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497552&extension=ts
+
+---------LIGA JERMAN-------
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hy1cdirkzy2cgl0604yb1/Liga-Jerman.jpeg?rlkey=kup42gewl288nq3eldu14pia3&dl=0" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021585&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hy1cdirkzy2cgl0604yb1/Liga-Jerman.jpeg?rlkey=kup42gewl288nq3eldu14pia3&dl=0" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021091&extension=ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/hy1cdirkzy2cgl0604yb1/Liga-Jerman.jpeg?rlkey=kup42gewl288nq3eldu14pia3&dl=0" group-title="🇩🇪LIGA JERMAN🇩🇪", LIVE 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
 
 ############################
 ######---HBO MAXTREAM---#####
