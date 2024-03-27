@@ -1404,7 +1404,7 @@ http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60052
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png",Outdoor
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery (L*)
+#EXTINF:0 tvg-logo="https://i.imgur.com/sMTfUTP.png" group-title="KNOWLEDGE",Discovery HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OJcKHCv.png" group-title="KNOWLEDGE",Discovery Science
@@ -1449,9 +1449,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5aa694a3fce9da81b67fd2f39f7e6bb0.png",History 2
-http://187.95.95.247/h2/index.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="KNOWLEDGE", National Geografhic
 http://iptvtree.net:8080/F14995/a84c0963/165094
