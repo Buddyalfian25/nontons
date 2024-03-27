@@ -1407,7 +1407,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/discovery_channel.png" group-title="KNOWLEDGE",Discovery (L*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="KNOWLEDGE",Discovery Science*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJcKHCv.png" group-title="KNOWLEDGE",Discovery Science
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 #https://raw.githubusercontent.com/kusnadipepenk/ntn/master/discien.m3u8
 
@@ -1441,7 +1441,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="",Investigation Discovery (L*)
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://i.imgur.com/AedTpwX.jpeg",Investigation Discovery
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1465,16 +1465,16 @@ http://myteve.online:8080/F12232/f23d27c1/724
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE",Global Trekker
 https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="KNOWLEDGE", Dmax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8j4tT41.jpeg" group-title="KNOWLEDGE", Dmax
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Discovery Turbo (L*)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GY1jxgh.jpeg" group-title="KNOWLEDGE", Discovery Turbo
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Trvl Channel (L*)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/08ugoWy.jpeg" group-title="KNOWLEDGE", Trvl Channel
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Discovery Kid (L*)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CC7vpkK.png" group-title="KNOWLEDGE", Discovery Kids 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
