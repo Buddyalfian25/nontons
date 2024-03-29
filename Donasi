@@ -209,7 +209,7 @@ http://king4k.tv:80/play/live.php?mac=00:1A:79:A5:DD:10&stream=607458&extension=
 https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 #EXTINF:-1 group-title="🇮🇩LIGA INDONESIA🇮🇩" tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/MOiqIIl.jpeg", Liga 1
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 http://37.49.225.197:8080/F31068/8fd17683/162138
 
 ----------LIGA ITALIA----------
@@ -443,7 +443,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296857
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/INDOSIAR%20SD-FirstMedia-Chl-11.jpg" group-title="INDONESIA", Indosiar (Digital) 
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.ts
+http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
@@ -452,7 +452,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="INDONESIA", Indosiar
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
+http://37.49.225.197:8080/F31068/8fd17683/162138
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/pCf3IJu.png" group-title="INDONESIA", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
