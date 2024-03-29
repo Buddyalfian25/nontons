@@ -702,6 +702,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 https://nyanv-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -772,6 +773,9 @@ https://ythls-v2.onrender.com/channel/UCDRCl6JTjDKjyquagRWrkgA.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jvx9qew6jkltzmdaupekj/talking-tom.jpg?rlkey=wm16mulie2eyu51itbo0qreok&dl=0" group-title="KIDS", TalkingTom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="http://103.127.208.209:25461/images/0179897d80f77a41274d87d27772a06e.png" group-title="KIDS", LARVA
+http://iptvkita.my.id:25461/Toni/0895810355575/103
 
                            ###########################
                            ========== SPORTS =========
