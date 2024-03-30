@@ -60,13 +60,13 @@ https://stream.hownetwork.xyz/xxx/twilight-saga-new-moon-2009-bluray/2/480.m3u8
 ######------VOD KIDS-----######
 ###############################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Rs9G8Pm.png" group-title="VOD KIDS", TOY STORY 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Rs9G8Pm.png" group-title="VOD KIDS", TOY STORY 1
 https://stream.hownetwork.xyz/xxx/toy-story-1995-bluray/2/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/SxIMMCI.jpeg" group-title="VOD KIDS", TOY STORY (DUA) 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/SxIMMCI.jpeg" group-title="VOD KIDS", TOY STORY 2
 https://stream.hownetwork.xyz/xxx/toy-story-2-1999-bluray/3/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/3CvNtPC.png" group-title="VOD KIDS", TOY STORY (TIGA) 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/3CvNtPC.png" group-title="VOD KIDS", TOY STORY 3 
 https://stream.hownetwork.xyz/xxx/toy-story-3-2010-bluray/2/480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/lWatXjc.png" group-title="VOD KIDS", TOY STORY (EMPAT) 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/lWatXjc.png" group-title="VOD KIDS", TOY STORY 4
 https://stream.hownetwork.xyz/xxx/toy-story-4-2019-bluray/11/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/2B3bGDn.jpeg" group-title="VOD KIDS", RATATOUILLE
