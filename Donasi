@@ -501,7 +501,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.imgur.com/VpRuyGd.jpeg" group-title="INDONESIA", Moji
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/6efztBo.jpeg" group-title="INDONESIA", Moji 2
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/VpRuyGd.jpeg" group-title="INDONESIA", Moji 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
