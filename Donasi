@@ -773,19 +773,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mp
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/8VTfjI6.png",CARTOON NETWORK
 http://00322.xyz:8000/coachprato/40437757/5104
 
-#EXTINF:-1 group-title="KIDS" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856b8d2390016b9c3ee6c21d7c/7c50a62b82824becb976b7fd671fa5cd.jpg", Cartoon Network (C)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/knz9veerb4uh8d0q4tswx/cartoon_network.png?rlkey=2ddesdq2tq4zbuf65bpfhqf5n&dl=0" group-title="KIDS", Cartoon Network (CubMu) 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 group-title="KIDS" group-logo=" https://telegra.ph/file/945c666976ff8619c1d3c.jpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png",Dunia Anak (C)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://transvision.apkplfree.workers.dev/pukgeruk
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://dl.dropbox.com/scl/fi/kxjwc22wkr74lw3zy35f9/dunia-anak.png?rlkey=q3fda9s8xmq7k4iktkucdcwt7&dl=0" group-title="KIDS", Dunia Anak
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264753
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/lsj2vre0a3ca129z59xnb/doraemon.png?rlkey=ybpzd69epnsf9zdc9kzeeww4t&dl=0" group-title="KIDS", Doraemon
 http://iptvkita.my.id:25461/Toni/0895810355575/106
