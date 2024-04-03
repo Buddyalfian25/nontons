@@ -93,6 +93,10 @@ https://stream.hownetwork.xyz/xxx/moanaa-2016-bluray/7/480.m3u8
 https://stream.hownetwork.xyz/xxx/tinker-bell-great-fairy-rescue-2010-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/6E0iCaH.jpeg" group-title="VOD KIDS", TINKERBELL 2
 https://stream.hownetwork.xyz/xxx/tinker-bell-legend-neverbeast-2014-bluray/2/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD KIDS", TINKERBELL 3 : Secret Of The Wing 3
+https://stream.hownetwork.xyz/xxx/secret-of-the-wings-2012-bluray/3/480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD KIDS", TINKERBELL 4 : The pirate Fairy 4
+https://stream.hownetwork.xyz/xxx/pirate-fairy-2014-bluray/3/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/GsZ7Mve.jpeg" group-title="VOD KIDS",  STAND BY ME DORAEMON 1
 https://stream.hownetwork.xyz/xxx/stand-doraemon-2014-bluray/2/480.m3u8
@@ -100,7 +104,8 @@ https://stream.hownetwork.xyz/xxx/stand-doraemon-2014-bluray/2/480.m3u8
 https://stream.hownetwork.xyz/xxx/stand-by-me-doraemon-2-2020-bluray_X_e26dc36e/18/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kL3cxKN.jpeg" group-title="VOD KIDS", THE POLAR EXPRESS
-https://stream.hownetwork.xyz/xxx/polar-express-2004-bluray/3/480.m3u8
+https://ss77.opsharez.com/stream/5/BD/k801oVR5DiWboqZNIzt67R9cmHTF9C2EClc/hls480/k801oVR5DiWboqZNIzt67R9cmHTF9C2EClc480.m3u8
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/02750/hho70c88cmki_n/index-v1-a1.m3u8?t=sfFqRFgDDHPUKNAkZy1WTdOLGHH2-AXD7Vl8HZ7ZMoc&s=1712158762&e=43200&f=13753927&srv=25&asn=7713&sp=3000
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/bC0SQoQ.jpeg" group-title="VOD KIDS", BARBIE AS THE PRINCESS AND THE PAUPER
 https://stream.hownetwork.xyz/xxx/barbie-princess-pauper-2004-dvdrip/3/480.m3u8
