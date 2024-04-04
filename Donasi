@@ -484,15 +484,15 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296857
 ----------CHANNEL LOKAL------------
 ###################################
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/Htto16a.png" group-title="INDONESIA", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NP8APuU.png" group-title="INDONESIA", Indosiar (Digital) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", Indosiar (Digital) 
 http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/NP8APuU.png" group-title="INDONESIA", Indosiar
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/NP8APuU.png" group-title="INDONESIA", Indosiar
@@ -528,10 +528,10 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.imgur.com/VpRuyGd.jpeg" group-title="INDONESIA", Moji
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA", Moji
 http://iptvtree.net:8080/F14995/a84c0963/298550
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/VpRuyGd.jpeg" group-title="INDONESIA", Moji 2
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA", Moji 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://rr3.dens.tv/s/s41/index.m3u8
 
@@ -540,14 +540,14 @@ http://rr3.dens.tv/s/s41/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 http://iptvtree.net:8080/F14995/a84c0963/162141
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/L6KtwNo.jpeg", Kompas TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LwaTbTr.png", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L6KtwNo.jpeg" group-title="INDONESIA", Kompas TV (V+) 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LwaTbTr.png" group-title="INDONESIA", Kompas TV (V+) 
 https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -564,19 +564,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XiuAf5l.jpeg" group-title="INDONESIA", DAAI TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yQRX4gX.png" group-title="INDONESIA", DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/ey4vq3D.jpeg", Metro TV 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/lISjGvS.png", Metro TV 
 https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/lSsqwNQ.png", JTV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/rrPylyc.png", JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 http://iptvtree.net:8080/F14995/a84c0963/165091
 
@@ -593,7 +593,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/Tw15BHc.png", TRANS 7 (V+) 
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jf4VpjZ.jpeg" group-title="INDONESIA", TV ONE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpU4gx3.png" group-title="INDONESIA", TV ONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
@@ -601,10 +601,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/OcDMin7.jpeg", iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/6vyVBed.png", iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OcDMin7.jpeg" group-title="INDONESIA", iNews HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vyVBed.png" group-title="INDONESIA", iNews HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
 http://iptvtree.net:8080/F14995/a84c0963/157579
@@ -637,21 +637,21 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="magnachannel.id" tvg-logo="https://i.imgur.com/fA4kFIn.jpeg", Magna Channel
+#EXTINF:-1 group-title="INDONESIA" tvg-id="magnachannel.id" tvg-logo="https://i.imgur.com/2w7EUis.png", Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/d3TUQhD.jpeg" group-title="INDONESIA", Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/0hiNaio.png" group-title="INDONESIA", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
  
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/HsnSODS.jpeg" group-title="INDONESIA",INDONESIAna TV
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/UMb3j9N.png" group-title="INDONESIA",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/gBpLRoY.jpeg", CNN
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/SxZbSfs.png", CNN
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/iYiTjxG.jpeg" group-title="INDONESIA", Bali TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/hgj6EvP.png" group-title="INDONESIA", Bali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -660,7 +660,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/p7kAJl6.jpeg" group-title="INDONESIA", Jak TV
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/j5pHOUx.png" group-title="INDONESIA", Jak TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
