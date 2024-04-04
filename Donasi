@@ -484,7 +484,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296857
 ----------CHANNEL LOKAL------------
 ###################################
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", BTV
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/RClXaxd.png" group-title="INDONESIA", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", Indosiar (Digital) 
@@ -495,7 +495,7 @@ http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 #EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/NP8APuU.png" group-title="INDONESIA", Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", Indosiar
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://37.49.225.197:8080/F31068/8fd17683/162138
 
@@ -666,7 +666,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/h0tuQNU.jpeg", Bandung TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/9JFDgr1.png", Bandung TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S9Ilfem.png" group-title="INDONESIA", Surabaya TV
@@ -675,29 +675,29 @@ https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lO7sWbs.jpeg" group-title="INDONESIA", Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/r81kuUo.png", CNBC Indonesia
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/QpsJrUO.png", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzZBWjS.jpeg" group-title="INDONESIA", RTV (V+) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBdqiAz.png" group-title="INDONESIA", RTV (V+) 
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kzZBWjS.jpeg" group-title="INDONESIA", RTV (Indi) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBdqiAz.png" group-title="INDONESIA", RTV (Indi) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/QImXv1S.jpeg", SEA Today
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/bO8kiSb.png", SEA Today
 https://nyanv-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/fRHsf75.png", TVRI Nasional
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/Z9fjKj6.png", TVRI Nasional
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
