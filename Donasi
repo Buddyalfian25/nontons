@@ -632,7 +632,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #EXTGRP:INDONESIA
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/qY8l66W.jpeg", GTV (R+)
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://i.imgur.com/Y8Ujl1z.png", GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
