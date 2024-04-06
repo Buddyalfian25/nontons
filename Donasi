@@ -633,6 +633,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV HD
 http://mykingtv.net:2082/Kingtv88/88990208/5139
 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i.imgur.com/5nlJLRv.png", MNCTV HD 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/631
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6uAril.png" group-title="INDONESIA", NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
