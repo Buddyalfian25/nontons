@@ -6,6 +6,258 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+=======================================================================================================================================================
+############################################################## 7 APRIL 2024 ####################################################################
+=======================================================================================================================================================
+England - Premier League
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL6XHdaazDDLOeGAEeX_luANBKv15VUyRYXWudyD6qIA&s" group-title="7 APRIL 2024", 21:30 - EPL - Manchester United vs Liverpool
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGiJwVBvu3ypoRCE6IHtzh9EaB5Twmx39BR5TZpatPQ&s" group-title="7 APRIL 2024", 23:30 - EPL - Sheffield United vs Chelsea
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkTIY0efunnGRa1ngb2re-OViosL96yxpK8EUnYGRYKw&s" group-title="7 APRIL 2024", 00:00 - EPL - Tottenham Hotspur vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+=====================================================================================================================================================
+Italy - Serie A
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3wqjp4rlq4l1930rkybfsjhsf_image-header_pDach_1709994544000&quality=70" group-title="7 APRIL 2024", 17:30 - SERIE A - Frosinone vs Bologna
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=7zmsj832j6v5q374gj7vs4riw_image-header_pDach_1709989133000" group-title="7 APRIL 2024", 20:00 - SERIE A - Monza vs Napoli
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=e5ov3azkxdbd7465iblnuxqjh_image-header_pDach_1709989135000&quality=70" group-title="7 APRIL 2024", 23:00 - SERIE A - Cagliari vs Atalanta
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=bvk8hxaoybi21s0r5btvzj9or_image-header_pDach_1709989134000&quality=70" group-title="7 APRIL 2024", 23:00 - SERIE A - Hellas Verona vs Genoa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=hvb5pnm39vwp1fam7wrxo3hm9_image-header_pDach_1702990450000&quality=70" group-title="7 APRIL 2024", 01:45 - SERIE A - Juventus vs Fiorentina
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+=====================================================================================================================================================
+Germany - Bundesliga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=wyzmypqmxzhx17x7kt700eyug_image-header_pRow_1709989134000&quality=70" group-title="7 APRIL 2024", 20:30 - BUNDES - Hoffenheim vs Augsburg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=19gamfapbz3nf1n2v2our6etha_image-header_pRow_1709640147000" group-title="7 APRIL 2024", 22:30 - BUNDES - Wolfsburg vs Borussia M'gladbach
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+=====================================================================================================================================================
+Portugal - Primeira Liga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXrxaFX_TxspZcBbAyPTui7hdkJdAg1ecSFlYjzSFhg&s" group-title="7 APRIL 2024", 21:30 - PRIMEIRA - Chaves vs Portimonense
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfkbdix2S38bdv7_JCxM69-KdYnOq6PnqTgi4JQLknQ&s" group-title="7 APRIL 2024", 00:00 - PRIMEIRA - Moreirense vs Estrela
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium74/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsPYA2uVE15ZN8Qendmwtts8U2nPB1cxR9iMeRQtgpkQ&s" group-title="7 APRIL 2024", 02:30 - PRIMEIRA - Porto vs Vitória Guimarães
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+
+=====================================================================================================================================================
+France - Ligue 1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=ezflo1vva8a81opav1j7bfdvv_image-header_pDach_1711099620000" group-title="7 APRIL 2024", 18:00 - LIGUE 1 - Brest vs Metz
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=15lbp8nx94ut41l6ntuv8ce772_image-header_pRow_1663162614000&quality=70" group-title="7 APRIL 2024", 20:00 - LIGUE 1 - Toulouse vs Strasbourg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6bngseyfkq810yymr68mdn8j4_image-header_pJp_1709943319000&quality=70" group-title="7 APRIL 2024", 20:00 - LIGUE 1 - Reims vs Nice
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6nl4dbn43ivz1ce9c9ape74jg_image-header_pRow_1711383309000" group-title="7 APRIL 2024", 20:00 - LIGUE 1 - Montpellier vs Lorient
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2znfst449qziecpmq9hvegs9p_image-header_pDach_1709994544000" group-title="7 APRIL 2024", 22:05 - LIGUE 1 - Monaco vs Rennes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dqgfv2zzs1j81i42i6c2lrspz_image-header_pRow_1709989133000&quality=70" group-title="7 APRIL 2024", 01:45 - LIGUE 1 - Nantes vs Olympique Lyonnais
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+=====================================================================================================================================================
+
+Saudi Arabia - Pro League
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="7 APRIL 2024", 02:00 - RSL - Al Feiha vs Al Akhdoud
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="7 APRIL 2024", 02:00 - RSL - Al Raed vs Al Hazm
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="7 APRIL 2024", 02:00 - RSL - Abha vs Al Fateh
+
+=====================================================================================================================================================
+Netherlands - Eredivisie
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=exs6ozryd9431uyrrsizuof1w_image-header_pDach_1710591793000&quality=70" group-title="7 APRIL 2024", 17:15 - EREDIVISE - Vitesse vs NEC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8om6euu6kzbt1vgl8dp9zyf5c_image-header_pDach_1709989134000&quality=70" group-title="7 APRIL 2024", 19:30 - EREDIVISE - Feyenoord vs Ajax
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlaEjYM-_7PbZub2t89K1igC9pFalU0VdwZPd4f4lYw&s" group-title="7 APRIL 2024", 21:45 - EREDIVISE - Volendam vs RKC Waalwijk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium386/index.m3u8
+
+
+
+=====================================================================================================================================================
+
+Turkey - Super Cup
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://asset-2.tstatic.net/sultra/foto/bank/images/Liga-Turki-2023-2024-Fenerbahce-vs-Galatasaray.jpg" group-title="7 APRIL 2024", 01:30 - Turkey - Super Cup - Galatasaray vs Fenerbahçe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+
+=======================================================================================================================================================
+############################################################## 8 APRIL 2024 ####################################################################
+=======================================================================================================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTYYIzPJ0G2dhQ5h6xRH2SdV_ibcpExuo-3-Y5O0sqw&s" group-title="8 APRIL 2024", 01:45 - Serie A - Udinese vs Internazionale
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+
+ Portugal - Primeira Liga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://publica.id/wp-content/uploads/2023/01/Estoril-vs-Casa-Pia-AC.jpg" group-title="8 APRIL 2024", 02:15 - DELREY - Casa Pia vs Estoril
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+
+ France
+ 
+#EXTINF:-1 tvg-name="" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/04/01/ES-36-1649845052.jpg" group-title="8 APRIL 2024", 01:45 - Ligue 2 - Auxerre vs Troyes
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d887254c10f866f65427c4f651b71c7c:231a9d9b02041e9ed576afaffb6b8356
+#EXTVLCOPT:http-origin=https://connect-id.beinsports.com
+#EXTVLCOPT:http-referrer=https://connect-id.beinsports.com/
+https://bein-apac-live.akamaized.net/bein/indo_bein_sports_03/indo_bein_sports_03.isml/playlist.mpd?hdnts=st=1586822400~exp=1712670303~acl=/*~id=VID_AaX3yFd6DTARaEcPdBQgee7agWME~hmac=478ae111dbf0fc926a64000f4dd341921d1eb36417a2b0e35c71dd49541675e7
+
+
+Saudi Arabia - 
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQxd6scW1GKMcRyFji9hOXuT1OxUYzF2TGy1APYYB5Q&s" group-title="8 APRIL 2024", 00:00 - Saudi Super Cup - Al Ittihad vs Al Wahda
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=fj778sh0jp919l6qf7vda1jr_image-header_pRow_1700752737000&quality=70" group-title="8 APRIL 2024", 02:30 - Saudi Super Cup - Al Hilal vs Al Nassr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
 ###################################
 #######-----VOD MOVIES-----########
 ###################################
