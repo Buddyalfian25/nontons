@@ -614,12 +614,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vyVBed.png" group-title="INDONESIA", iNews HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
-http://iptvtree.net:8080/F14995/a84c0963/157579
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6vyVBed.png" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNews HD 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6vyVBed.png" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNews HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/633
 
@@ -634,10 +629,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="ID: MNC TV HD" tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV HD
-http://mykingtv.net:2082/Kingtv88/88990208/5139
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i.imgur.com/5nlJLRv.png", MNCTV HD 2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i.imgur.com/5nlJLRv.png", MNCTV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/631
 
@@ -657,6 +649,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i.imgur.com/Y8Ujl1z.png", GTV HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/632
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="magnachannel.id" tvg-logo="https://i.imgur.com/2w7EUis.png", Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -803,8 +799,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="KIDS" tvg-id="disneych" tvg-logo="https://i.imgur.com/ZDsOD3H.png", Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS", Mentari TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS", Mentari TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.150.117.215:25461/hometv@215/Wdk8VzyYTG/11801
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS", Mentari TV (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
