@@ -74,6 +74,9 @@ https://stream.hownetwork.xyz/xxx/mulan-2020-bluray/7/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/1gvCVq4.jpeg" group-title="VOD MOVIES", ALICE IN THE WONDERLAND
 https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/y6OeJ4D.jpeg" group-title="VOD MOVIES", ALIVE (2020) 
+https://stream.hownetwork.xyz/xxx/alive-saraitda-2020-bluray/10/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
@@ -158,7 +161,6 @@ https://eu7515cloudflare918s.streamvid.media/hls/n5ajrctlyfmne42h4vyqjc3eqge6om6
 https://sv3.drivejwplayer.xyz/vid/SEhzbVdBTmRsUWhwWG5OTDk5MC81Tis4MmNDNTh5WUpxd3pHMHQ0Szg3ZFFiV2ZvYisxNjUwQWZ5TEFJZHBIUW1tbkJ3REE0RUpKVVlreWNXblFZQXc9PQ,,/original/?dl=0&gt=RnVxM3Bhc0R6T2NTRXZQTnZKQjdtaDVxTFNmeTg4SFMvSG9uazMwdDNVTElWaTJyT1YxVEF5NGtIUldGQ2JRY0FLS0F6MlZsalZqQ3pNM3h1bmk2OFE9PQ,,
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AoEr1z9.jpeg" group-title="VOD HOROR", ANAK PERJANJIAN SYAITAN 2
-https://c1.flyeyes.pics/hls/n5ajsxayz5mne42h4u6qlutbtxzvxa5wpysbmdqxssir56mjhe7sxiuwj54a/index-v1-a1.m3u8
 https://drivejwplayer.xyz/vid/QzdmSTRLaUFJcDdGanpRRnpEYkdvMnJHakJibXkwU0c5VlBwWFN6d3BSMUVLYjBZanpIL3Nld0ErYk41WEg5THcyaDJjS25rTmhYV08vMTUvT3NSTUE9PQ,,/original/?dl=0&gt=azdBOWo2eENET01GaUNSU1g5OTBWb2g2ZnRjTkIwenlBYlIzZWdGc3BNOUxSL1VLeVh0UmZ2cXd2Z0VxbVFUUC96MWJDdVNhS1pLc2xDZEhFUlpQWFE9PQ,,
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/fYCzWMY.jpeg" group-title="VOD HOROR", IBLIS TERKEJAM PENAGIH JANJI
