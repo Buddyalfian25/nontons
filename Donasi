@@ -6,67 +6,6 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
-=======================================================================================================================================================
-############################################################## 11 APRIL 2024 ####################################################################
-================================================================ LIVE EVENT ==========================================================================
-
-
-Europe - UEFA Europa League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=18gq4zsi03qvm10mms0ursz09n_image-header_pCa_1711377378000&quality=70" group-title="LIVE EVENT", 02:00 - UEL - Milan vs Roma (11 APRIL 2024) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=10ulgskbinzcm1o3jknng80ico_image-header_pCa_1712154285000&quality=70" group-title="LIVE EVENT", 02:00 - UEL - Liverpool vs Atalanta (11 APRIL 2024) 
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1x9cvdv24oxjk1sgw0pc3tq23p_image-header_pCa_1689371918000" group-title="LIVE EVENT", 02:00 - UEL - Bayer Leverkusen vs West Ham United (11 APRIL 2024) 
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=oeeif6pj5voo1gctykuo4ornx_image-header_pCa_1712155841000&quality=70" group-title="LIVE EVENT", 02:00 - UEL - Benfica vs Olympique Marseille (11 APRIL 2024) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-
-
-
-
-Europe - UEFA Europa Conference League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9w343q23auro1sry8cj3ea16f_image-header_pIt_1712056356000" group-title="LIVE EVENT", 23:45 - UECL - Viktoria Plzeň vs Fiorentina (11 APRIL 2024) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=5pik8ll3l5us10unxbm4uhmmk_image-header_pIt_1712056356000" group-title="LIVE EVENT", 23:45 - UECL - Olympiakos Piraeus vs Fenerbahçe (11 APRIL 2024) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=u3jk1tc7pfc218btl8x5qtxsc_image-header_pCa_1712158035000" group-title="LIVE EVENT", 02:00 - UECL - Aston Villa vs Lille (11 APRIL 2024) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=b8yqdeedaa2c8g6unpatm36hn_image-header_pIt_1712056357000" group-title="LIVE EVENT", 02:00 - UECL - Club Brugge vs PAOK (11 APRIL 2024) 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
 
 
 ###################################
@@ -208,29 +147,6 @@ https://stream.hownetwork.xyz/xxx/madagascar-2005-bluray/3/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/5sd9u8r.jpeg" group-title="VOD KIDS", MADAGASCAR 2 : ESCAPE AFRICA
 https://stream.hownetwork.xyz/xxx/madagascar-escape-2-africa-2008-bluray_X_bffacf76/21/480.m3u8
 
-######################################
-#######-------VOD HOROR--------#######
-######################################
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/zUTCpKq.jpeg" group-title="VOD HOROR", PARA BETINA PENGIKUT IBLIS
-https://sv3.drivejwplayer.xyz/vid/VjlNUjhFSFJKSTVTYWtvem1zd0JNbllWTUNBT2JvVGFpZjZFWVdPd0lDWm1VUGlLbm14TmhYSWVSWDl0UlVCSWxzNUtLMnRwTXFBY1JDVmJVczlPRHc9PQ,,/original/?dl=0&gt=d1p3Mmh5cm50ZFZjOGVUTEtxRVRMM2M4RDlIRmxlT1p0Y0V1UDBSUW1BdzZHS3JEbmpvQjZzc0RCc21GTllueXBscE9lZTV6UVNjSnFwY2liNDF0NGc9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/3YDPA6D.jpeg" group-title="VOD HOROR", MAKMUM 1
-https://n22515y.streamvid.net/hls/n5ajqr4pzfmne42h4xualabbqdecbdeb37dq7b3cdsuqiqgpi6n7czdoeyia/index-v1-a1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/WjCcTaS.jpeg" group-title="VOD HOROR", MAKMUM 2
-https://eu7515cloudflare918s.streamvid.media/hls/n5ajrctlyfmne42h4vyqjc3eqge6om6yv6w3gse6h462byc7pjhgeaovocla/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Nv4s88N.jpeg" group-title="VOD HOROR", INDIGO
-https://sv3.drivejwplayer.xyz/vid/SEhzbVdBTmRsUWhwWG5OTDk5MC81Tis4MmNDNTh5WUpxd3pHMHQ0Szg3ZFFiV2ZvYisxNjUwQWZ5TEFJZHBIUW1tbkJ3REE0RUpKVVlreWNXblFZQXc9PQ,,/original/?dl=0&gt=RnVxM3Bhc0R6T2NTRXZQTnZKQjdtaDVxTFNmeTg4SFMvSG9uazMwdDNVTElWaTJyT1YxVEF5NGtIUldGQ2JRY0FLS0F6MlZsalZqQ3pNM3h1bmk2OFE9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AoEr1z9.jpeg" group-title="VOD HOROR", ANAK PERJANJIAN SYAITAN 2
-https://drivejwplayer.xyz/vid/QzdmSTRLaUFJcDdGanpRRnpEYkdvMnJHakJibXkwU0c5VlBwWFN6d3BSMUVLYjBZanpIL3Nld0ErYk41WEg5THcyaDJjS25rTmhYV08vMTUvT3NSTUE9PQ,,/original/?dl=0&gt=azdBOWo2eENET01GaUNSU1g5OTBWb2g2ZnRjTkIwenlBYlIzZWdGc3BNOUxSL1VLeVh0UmZ2cXd2Z0VxbVFUUC96MWJDdVNhS1pLc2xDZEhFUlpQWFE9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/fYCzWMY.jpeg" group-title="VOD HOROR", IBLIS TERKEJAM PENAGIH JANJI
-https://sv3.drivejwplayer.xyz/hls/cHEzWEkxU1VlNTFCR2tSSnJydTZzWXVjWmIxRW1LTkpYaWJtUU5YMVlQZWNkY1ptTWg4YUV0Wit3eHdBalNiNDhLT204SFQzUi9NUXluSy9VQm0yZjB2T0x4a1FESFVFQS9uUUtkRStxWHJnZG1QRXAreEtjV09BcW9USnRJbjY,/hls2/01/02892/8wf4goavdq2z_n/index-v1-a1.m3u8?gd=aTVJRitPMXl1UlR2YTN6dVJvcWpob3c4SGExS3BkVFUxUWQ1bjg3dVBmZjExR1d4VDdUU1ZoS2UyeGZmemVVUFFiTkJxTFZEN2JyMEIzcEh4L1FMYkxRem9UNUlIcDUvSURuK3NkWS9oQzA9&t=fFHHR0ikAazG0AmOvOs2PJ-s_Fk8KQvzgqrSmDTHNjo&s=1711754814&e=129600&f=14461285&srv=fyapy2w8onyjmpe4&i=0.4&sp=500&p1=fyapy2w8onyjmpe4&p2=fyapy2w8onyjmpe4&asn=51167&gl=1&gt=RnVxM3Bhc0R6T2NTRXZQTnZKQjdtaDVxTFNmeTg4SFMvSG9uazMwdDNVTElWaTJyT1YxVEF5NGtIUldGQ2JRY0FLS0F6MlZsalZqQ3pNM3h1bmk2OFE9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/V0eXILO.jpeg" group-title="VOD HOROR", RUMAH KENTANG
-https://n22483c.streamvid.net/hls/n5ajtih3yzmne42h4wdalvtd2ittpxdyna6ajngxvgnn6h7gzz7kslzb5pva/index-v1-a1.m3u8
 
 ########---EVENT GF & F1---#######
 
