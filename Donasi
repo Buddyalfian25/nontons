@@ -79,6 +79,9 @@ https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/y6OeJ4D.jpeg" group-title="VOD MOVIES", ALIVE (2020) 
 https://stream.hownetwork.xyz/xxx/alive-saraitda-2020-bluray/10/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yTfO5GL.jpeg" group-title="VOD MOVIES", Aquaman 2 (2023) 
+https://stream.hownetwork.xyz/xxx/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
