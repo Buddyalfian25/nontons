@@ -10,7 +10,6 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 ############################################################## 11 APRIL 2024 ####################################################################
 ================================================================ LIVE EVENT ==========================================================================
 
-
 Europe - UEFA Europa League
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=18gq4zsi03qvm10mms0ursz09n_image-header_pCa_1711377378000&quality=70" group-title="LIVE EVENT", 02:00 - UEL - Milan vs Roma (11 APRIL 2024) 
@@ -34,7 +33,6 @@ https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
-
 
 Europe - UEFA Europa Conference League
 
@@ -137,6 +135,9 @@ https://stream.hownetwork.xyz/xxx/alice-in-wonderland-2010-2-bluray/2/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/y6OeJ4D.jpeg" group-title="VOD MOVIES", ALIVE (2020) 
 https://stream.hownetwork.xyz/xxx/alive-saraitda-2020-bluray/10/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yTfO5GL.jpeg" group-title="VOD MOVIES", Aquaman 2 (2023) 
+https://stream.hownetwork.xyz/xxx/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
 
 ###############################
 ######------VOD KIDS-----######
