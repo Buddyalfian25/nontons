@@ -6,160 +6,28 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
-=======================================================================================================================================================
-############################################################## 14 APRIL 2024 ####################################################################
-=======================================================================================================================================================
+'''''''''LIVE EVENT''''''''EVENT''''''''
 
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/cvRNXLX/afc-u23-01.jpg" group-title="LIVE EVENT", 20:00 Australia vs Jordania
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-England - Premier League
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/pZVnjzQ/afc-u23-02.jpg" group-title="LIVE EVENT", 22:30 Qatar vs Indonesia
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=4eq20gmi8vym5pvl5vmc2zfiy_image-header_pRow_1710758604000" group-title="LIVE EVENT", 20:00 - EPL - Liverpool vs Crystal Palace
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 1.pt" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Chelsea-vs-Everton.png?resize=750%2C375&ssl=1" group-title="LIVE EVENT", 02:00 Chelsea vs Everton
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-051/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1u8zp556t9z7f10qye0z729yb0_image-header_pRow_1710678514000&quality=70" group-title="LIVE EVENT", 20:00 - EPL - West Ham United vs Fulham
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=vhp958s9tzkl1bbr2fobxu0lf_image-header_pRow_1700684282000" group-title="LIVE EVENT", 22:30 - EPL - Arsenal vs Aston Villa
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
 
 
-===============================================================================================================================================
-Spain - La Liga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6qfp76wq3bd16tcr70yzn0xh2_image-header_pRow_1710678515000&quality=70" group-title="LIVE EVENT", 19:00 - LA LIGA - Las Palmas vs Sevilla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8t3xjyrz7i1ntbcm43uvdvv_image-header_pDach_1710678515000&quality=70" group-title="LIVE EVENT", 21:15 - LA LIGA - Granada vs Deportivo Alavés
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=10hj9zccb91tj9yvsb6jicv5w_image-header_pJp_1710265426000" group-title="LIVE EVENT", 23:30 - LA LIGA - Athletic Club vs Villarreal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1x1nl96b3570v19tmta01vnem9_image-header_pDach_1710359725000" group-title="LIVE EVENT", 02:00 - LA LIGA - Real Sociedad vs Almería
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
-===============================================================================================================================================
-Italy - Serie A
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=wu35amql719q19l6eczsxesxz_image-header_pDach_1701463849000&quality=70" group-title="LIVE EVENT", 17:30 - SERIE A - Napoli vs Frosinone
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=ix6o4hg515a51h9j8e87o2r09_image-header_pRow_1704375333000" group-title="LIVE EVENT", 20:00 - SERIE A - Sassuolo vs Milan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=2ocgrqxgi4mdlgik8w8bwt2ch_image-header_pJp_1710237662000&quality=70" group-title="LIVE EVENT", 23:00 - SERIE A - Udinese vs Roma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=zb57v258zclm1uqmqow6ugbdf_image-header_pDach_1710252586000" group-title="LIVE EVENT", 01:45 - SERIE A - Internazionale vs Cagliari
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-===============================================================================================================================================
-Germany - Bundesliga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=y3mx1n8a0trj1azhls4g5fmkt_image-header_pDach_1709640147000" group-title="LIVE EVENT", 20:30 - BUNDES - Darmstadt 98 vs Freiburg
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5zhbz1fh7w910pa0kwih0dsk_image-header_pRow_1709640147000&quality=70" group-title="LIVE EVENT", 22:30 - BUNDES - Bayer Leverkusen vs Werder Bremen
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-
-===============================================================================================================================================
-Portugal - Primeira Liga
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=14xoni0beurz01rr8csnjljkcz_image-header_pDach_1710684565000&quality=70" group-title="LIVE EVENT", 02:30 - PRIMEIRA - Benfica vs Moreirense
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
-
-
-===============================================================================================================================================
-France - Ligue 1
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1oqy5tflfykzr1pwqk3qj8l8q0_image-header_pRow_1711470993000&quality=70" group-title="LIVE EVENT", 18:00 - LIGUE 1 - Le Havre vs Nantes
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1a77g5faqwsyp1jbb7wdvdzk8x_image-header_pRow_1711471170000" group-title="LIVE EVENT", 20:00 - LIGUE 1 - Clermont vs Montpellier
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-058/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=c3h5t2q054jmd3lsv6mzv3tet_image-header_pDach_1674624698000" group-title="LIVE EVENT", 01:45 - LIGUE 1 - Olympique Lyonnais vs Brest
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
-===============================================================================================================================================
-USA/Canada - Major League Soccer
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/prd-league/bxkhqrq0es5jpz1dzdlz.jpg" group-title="LIVE EVENT", 01:30 - MLS - Atlanta United vs Philadelphia Union
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://cf-images.us-east-1.prod.boltdns.net/v1/static/5530036774001/5a40d4e0-f240-49d3-8cec-64dc6be0ed9d/82f54ad3-e32f-4f73-bbb9-10b1ff4c295c/1280x720/match/image.jpg" group-title="LIVE EVENT", 03:30 - MLS - St. Louis City vs Austin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-===============================================================================================================================================
-Netherlands - Eredivisie
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=522&width=928&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https%3A//artwork.espncdn.com/events/401334243/16x9/1280x720_20220426193115.jpg&showBadge=true&package=ESPN_PLUS" group-title="LIVE EVENT", 19:30 - EREDIVISE - Fortuna Sittard vs Feyenoord
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/16x9.jpg?height=522&width=928&cb=12&templateId=espn.core.dtc.large.16x9.1&source=https%3A//artwork.espncdn.com/events/401446401/16x9/1280x720_20230110204119.jpg&showBadge=true&package=ESPN_PLUS" group-title="LIVE EVENT", 21:45 - EREDIVISE - Ajax vs Twente
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-052/stream.mpd
 
 ###################################
 #######-----VOD MOVIES-----########
