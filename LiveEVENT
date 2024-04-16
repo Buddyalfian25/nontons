@@ -6,6 +6,101 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+=======================================================================================================================================================
+############################################################## 16 APRIL 2024 ####################################################################
+=======================================================================================================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/2024/03/20/ecfbdbee-0ad2-472e-8392-7ff6e3f5b2be/uefa-ucl-champions-thumb-01-borussia-dortmund-v-atletico-madrid.jpg" group-title="16 APRIL 2024", 02:00 - UCL - Borussia Dortmund vs Atlético Madrid
+#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/2024/03/20/ecfbdbee-0ad2-472e-8392-7ff6e3f5b2be/uefa-ucl-champions-thumb-01-borussia-dortmund-v-atletico-madrid.jpg" group-title="16 APRIL 2024", 02:00 - UCL - Borussia Dortmund vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/2024/03/20/ecfbdbee-0ad2-472e-8392-7ff6e3f5b2be/uefa-ucl-champions-thumb-01-borussia-dortmund-v-atletico-madrid.jpg" group-title="16 APRIL 2024", 02:00 - UCL - Borussia Dortmund vs Atlético Madrid
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/02/16/d633c2bf-17aa-4cbc-8ec8-282c6c534fc0/thumbnail/1200x675/29b6a0d36ecf8109bafa51f612bbfbdb/barcelona-psg.png" group-title="16 APRIL 2024", 02:00 - UCL - Barcelona vs PSG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/02/16/d633c2bf-17aa-4cbc-8ec8-282c6c534fc0/thumbnail/1200x675/29b6a0d36ecf8109bafa51f612bbfbdb/barcelona-psg.png" group-title="16 APRIL 2024", 02:00 - UCL - Barcelona vs PSG
+#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/r/2021/02/16/d633c2bf-17aa-4cbc-8ec8-282c6c534fc0/thumbnail/1200x675/29b6a0d36ecf8109bafa51f612bbfbdb/barcelona-psg.png" group-title="16 APRIL 2024", 02:00 - UCL - Barcelona vs PSG
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+
+Portugal - Primeira Liga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1iign8pbzid1h1nsv29mxqhfk9_image-header_pIt_1703291228000" group-title="16 APRIL 2024", 02:15 - PRIMEIRA - Famalicão vs Sporting CP
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+Asia - AFC Cup
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MH8WnRXh30VlEfGjefXXgzvHYCVg3ggCgT3MUkMepg&s" group-title="16 APRIL 2024", 23:00 - AFC CUP - Al Ahed vs Al Nahda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6MH8WnRXh30VlEfGjefXXgzvHYCVg3ggCgT3MUkMepg&s" group-title="16 APRIL 2024", 23:00 - AFC CUP - Al Ahed vs Al Nahda
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+ 
+Asia - AFC Asian Champions League
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1gryd3w7klm36fm9v9yawsf3l_image-header_pJp_1710855271000&quality=70" group-title="16 APRIL 2024", 23:00 - AFC CL - Al Ain vs Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport6/sc-gaFECQ/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1gryd3w7klm36fm9v9yawsf3l_image-header_pJp_1710855271000&quality=70" group-title="16 APRIL 2024", 23:00 - AFC CL - Al Ain vs Al Hilal
+https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd
+
+
+
+=======================================================================================================================================================
+########################################################################## AFC U-23 ##################################################################
+=======================================================================================================================================================
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=MMozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-rcti.rctiplus.id/rcti-sdi.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
+https://vtv-live-push.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+http://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
 
 ###################################
 #######-----VOD MOVIES-----########
