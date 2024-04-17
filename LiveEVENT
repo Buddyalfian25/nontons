@@ -878,8 +878,13 @@ http://00322.xyz:8000/coachprato/40437757/5104
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://dl.dropbox.com/scl/fi/kxjwc22wkr74lw3zy35f9/dunia-anak.png?rlkey=q3fda9s8xmq7k4iktkucdcwt7&dl=0" group-title="KIDS", Dunia Anak
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264753
+#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://i.ibb.co/xXxyBrv/dunianak.png" group-title="KIDS", DUNIA ANAK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jd81il612yz9ovf5xevsu/mr-bean-cartoon.png?rlkey=9um4ljoeav3qnt20jqafi0rb1&dl=0" group-title="KIDS", Mr Bean Cartoon
 http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60910
