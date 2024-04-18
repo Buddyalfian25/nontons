@@ -7,42 +7,71 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
 =======================================================================================================================================================
-############################################################## 17 APRIL 2024 ####################################################################
+############################################################## 18 APRIL 2024 ####################################################################
 =======================================================================================================================================================
+Europe - UEFA Europa League
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1200x630/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24746147/canal-ouah_50009/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T104933.259-baHl" group-title="LIVE EVENT", 02:00 - UCL - Bayern München vs Arsenal
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Roma-vs-AC-Milan.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 02:00 - UEL - Roma vs Milan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Atalanta-vs-Liverpool.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 02:00 - UEL - Atalanta vs Liverpool
 #EXTVLCOPT:http-referrer=https://sony.newvideo.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1200x630/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24746147/canal-ouah_50009/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T104933.259-baHl" group-title="LIVE EVENT", 02:00 - UCL - Bayern München vs Arsenal
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Atalanta-vs-Liverpool.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 02:00 - UEL - Atalanta vs Liverpool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1200x630/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24746147/canal-ouah_50009/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T104933.259-baHl" group-title="LIVE EVENT", 02:00 - UCL - Bayern München vs Arsenal
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/West-Ham-vs-Leverkusen.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 02:00 - UEL - West Ham United vs Bayer Leverkusen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24607753/canal-ouah_50001/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T105706.895-aEIz" group-title="LIVE EVENT", 02:00 - UCL - Manchester City vs Real Madrid
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24607753/canal-ouah_50001/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T105706.895-aEIz" group-title="LIVE EVENT", 02:00 - UCL - Manchester City vs Real Madrid
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-name="" tvg-logo="https://indonesiaglobal.net/wp-content/uploads/2024/04/Benfica-vs-Marseille.png" group-title="18 APRIL 2024", 02:00 - UEL - Olympique Marseille vs Benfica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/1440x810/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/24607753/canal-ouah_50001/STD169/myCANAL_16x9_sport_1920x1080-2024-04-09T105706.895-aEIz" group-title="LIVE EVENT", 02:00 - UCL - Manchester City vs Real Madrid
+
+Europe - UEFA Europa Conference League
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Fiorentina-vs-Viktoria-Plzen.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 23:45 - UECL - Fiorentina vs Viktoria Plzeň
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Lille-vs-Aston-Villa.png?fit=1920%2C1080&ssl=1" group-title="18 APRIL 2024", 23:45 - UECL - Lille vs Aston Villa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/Fenerbahce-vs-Olympiakos.png?fit=2048%2C1152&ssl=1" group-title="18 APRIL 2024", 02:00 - UECL - Fenerbahçe vs Olympiakos Piraeus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i0.wp.com/gentalamedia.com/wp-content/uploads/2024/04/PAOK-Saloniki-vs-Club-Brugge.png?resize=750%2C375&ssl=1" group-title="18 APRIL 2024", 02:00 - UECL - PAOK vs Club Brugge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+
 
 =======================================================================================================================================================
 ########################################################################## AFC U-23 ##################################################################
