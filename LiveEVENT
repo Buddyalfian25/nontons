@@ -6,6 +6,71 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+=======================================================================================================================================================
+############################################################## 19 APRIL 2024 ####################################################################
+=======================================================================================================================================================
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/ycHCVM2UoNcJilJpFwoXn9MZlk6kmHJmFXI5cfnMr1EtfhKku8gcZzZpiaXfEyvi1zquky68vqA" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LA LIGA - Athletic Club vs Granada
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/VzjB0JEpGQbtL6KGB4D_WooFVkk0BtQe5IGxK8kAZKNqnowqW3HeVGDPQ6LmIGotHihV72TUJXg6=w1280-h720" group-title="LIVE EVENT 19 APRIL 2024", 23:30 - SERIE A - Genoa vs Lazio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/fTReO3XScl5-VZQNC15_Xj6DOVzLXREyawVUpBctrAJLV-sq303I_7tEbODEEVWOJTvjdGx8V6gUVQ" group-title="LIVE EVENT 19 APRIL 2024", 01:45 - SERIE A - Cagliari vs Juventus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gge7YLAf8XYnWiQXqJPNndQJiVxXQfH4w1skV_ySpQ&s" group-title="LIVE EVENT 19 APRIL 2024", 01:30 - BUNDES - Eintracht Frankfurt vs Augsburg
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.ambito.com/p/df5eebdd05da5ef07e542efd384b92c1/adjuntos/239/imagenes/041/445/0041445022/1200x675/smart/portugal-primera-division-rio-ave-vs-arouca-fecha-30.png" group-title="LIVE EVENT 19 APRIL 2024", 02:15 - PRIMEIRA - Rio Ave vs Arouca
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jqcq1klo0clh1egisg3bsjn6f_image-header_pDach_1712063308000&quality=70" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LIGUE 1 - Nice vs Lorient
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
+
+Saudi Arabia - Pro League
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://assets.khelnow.com/news/uploads/2024/02/alfayha-vs-al-nassr.jpg" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Nassr vs Al Feiha
+#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://assets.khelnow.com/news/uploads/2024/02/alfayha-vs-al-nassr.jpg" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Nassr vs Al Feiha
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vZtbaQWQ4Q5y5TM7LJUxfUla1YWzwxcL1uLGvCwBwF00FamH4zBmJvHztfV8f62CyN1HZ1Pl1rHwyzB2SIQ5274cwYzmclR17vKk2bBK2WJTJSiSOvr01yPln0hXcTj2lUDCWrHPVeTiFKlvuYOCYJ5ts5TrTWiS9tpWmZhkHis2jTax0oClwcVOIsKeBNaiGL05Cd5_GWZ4S2_vVQtA=w1200-h630-p-k-no-nu" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Riyadh vs Al Ta'ee
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a4ulfw19bki71rurp05233xnn_image-header_pRow_1704466845000&quality=70" group-title="LIVE EVENT 19 APRIL 2024", 01:00 - RSL - Al Ahli vs Al Hilal
+#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://iaftm.tmgrup.com.tr/6f1bed/1200/627/0/56/943/549?u=https://iftm.tmgrup.com.tr/2023/03/05/besiktas-ankaragucu-canli-besiktas-ankaragucu-maci-ne-zaman-bjk-maci-saat-kacta-ve-hangi-kanalda-1678031653137.jpeg" group-title="LIVE EVENT 19 APRIL 2024", 00:00 - SUPER LIG - Beşiktaş vs Ankaragücü
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
 
 
 
