@@ -6,73 +6,186 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+
+
+
 =======================================================================================================================================================
-############################################################## 19 APRIL 2024 ####################################################################
+############################################################## 20 APRIL 2024 ####################################################################
 =======================================================================================================================================================
-#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/ycHCVM2UoNcJilJpFwoXn9MZlk6kmHJmFXI5cfnMr1EtfhKku8gcZzZpiaXfEyvi1zquky68vqA" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LA LIGA - Athletic Club vs Granada
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d0/58/man-city-chelsea_ixwcx86xodqn1anmbadki1spn.png?t=2068005477&w=800" group-title="20 APRIL 2024", 23:15 - FA Cup - Manchester City vs Chelsea
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-055/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/VzjB0JEpGQbtL6KGB4D_WooFVkk0BtQe5IGxK8kAZKNqnowqW3HeVGDPQ6LmIGotHihV72TUJXg6=w1280-h720" group-title="LIVE EVENT 19 APRIL 2024", 23:30 - SERIE A - Genoa vs Lazio
+#EXTINF:-1 tvg-name="" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d0/58/man-city-chelsea_ixwcx86xodqn1anmbadki1spn.png?t=2068005477&w=800" group-title="20 APRIL 2024", 23:15 - FA Cup - Manchester City vs Chelsea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+=======================================================================================================================================================
+England - Premier League
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/fTReO3XScl5-VZQNC15_Xj6DOVzLXREyawVUpBctrAJLV-sq303I_7tEbODEEVWOJTvjdGx8V6gUVQ" group-title="LIVE EVENT 19 APRIL 2024", 01:45 - SERIE A - Cagliari vs Juventus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=96ru28eogu1r0qkrziksqlqao_image-header_pEs_1711178139000&quality=70" group-title="20 APRIL 2024", 21:00 - EPL - Luton Town vs Brentford
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1gge7YLAf8XYnWiQXqJPNndQJiVxXQfH4w1skV_ySpQ&s" group-title="LIVE EVENT 19 APRIL 2024", 01:30 - BUNDES - Eintracht Frankfurt vs Augsburg
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=ea1rczgf3qrbpk4r3lupvpmw2_image-header_pEs_1666982029000&quality=70" group-title="20 APRIL 2024", 21:00 - EPL - Sheffield United vs Burnley
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=500oxfixi17ubf659nc0fczpk_image-header_pRow_1710998109000&quality=70" group-title="20 APRIL 2024", 01:30 - EPL - Wolverhampton Wanderers vs Arsenal
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.ambito.com/p/df5eebdd05da5ef07e542efd384b92c1/adjuntos/239/imagenes/041/445/0041445022/1200x675/smart/portugal-primera-division-rio-ave-vs-arouca-fecha-30.png" group-title="LIVE EVENT 19 APRIL 2024", 02:15 - PRIMEIRA - Rio Ave vs Arouca
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+=======================================================================================================================================================
+Spain - La Liga
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jqcq1klo0clh1egisg3bsjn6f_image-header_pDach_1712063308000&quality=70" group-title="LIVE EVENT 19 APRIL 2024", 02:00 - LIGUE 1 - Nice vs Lorient
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=c4ufhgug295nf1iui9rk745we_image-header_pRow_1711099620000&quality=70" group-title="20 APRIL 2024", 19:00 - LA LIGA - Celta de Vigo vs Las Palmas
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=c8hhuf8e9mt0b1ed1ckgtvg01_image-header_pRow_1710795459000" group-title="20 APRIL 2024", 21:15 - LA LIGA - Rayo Vallecano vs Osasuna
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=9a79xaaoapd3sqbeucdjdb4x2_image-header_pRow_1705464203000&quality=70" group-title="20 APRIL 2024", 23:30 - LA LIGA - Valencia vs Real Betis
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=dxrco04ekb97cb20lik8fghbh_image-header_pJp_1710795459000&quality=70" group-title="20 APRIL 2024", 02:00 - LA LIGA - Girona vs Cádiz
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+
+
+=======================================================================================================================================================
+Italy - Serie A
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1ka1kh83hjk8k15i37r5roiep1_image-header_pDach_1710770912000" group-title="20 APRIL 2024", 23:00 - SERIE A - Empoli vs Napoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1pbw4joa7x7f71slf0l50cwctf_image-header_pDach_1710770912000&quality=70" group-title="20 APRIL 2024", 01:45 - SERIE A - Hellas Verona vs Udinese
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+
+
+=======================================================================================================================================================
+
+
+Germany - Bundesliga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=b6y534x06kn4e7213jkav6w59_image-header_pRow_1711123210000" group-title="20 APRIL 2024", 20:30 - BUNDES - Wolfsburg vs Bochum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium632/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1oap5w9w1284azbsbl8mu8849_image-header_pRow_1712164571000&quality=70" group-title="20 APRIL 2024", 20:30 - BUNDES - Köln vs Darmstadt 98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium497/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=ox7mqhgvs0mw17ksvxsry6g04_image-header_pRow_1711188463000&quality=70" group-title="20 APRIL 2024", 20:30 - BUNDES - Hoffenheim vs Borussia M'gladbach
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium633/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=aadvd40ff5j2ipipfd9qd6dmx_image-header_pRow_1711126020000" group-title="20 APRIL 2024", 20:30 - BUNDES - Heidenheim vs RB Leipzig
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
 
-Saudi Arabia - Pro League
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://assets.khelnow.com/news/uploads/2024/02/alfayha-vs-al-nassr.jpg" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Nassr vs Al Feiha
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="https://assets.khelnow.com/news/uploads/2024/02/alfayha-vs-al-nassr.jpg" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Nassr vs Al Feiha
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1vt9pxyhq75a11rm9kxubmyf3b_image-header_pRow_1711123210000" group-title="20 APRIL 2024", 23:30 - BUNDES - Union Berlin vs Bayern München
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-054/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vZtbaQWQ4Q5y5TM7LJUxfUla1YWzwxcL1uLGvCwBwF00FamH4zBmJvHztfV8f62CyN1HZ1Pl1rHwyzB2SIQ5274cwYzmclR17vKk2bBK2WJTJSiSOvr01yPln0hXcTj2lUDCWrHPVeTiFKlvuYOCYJ5ts5TrTWiS9tpWmZhkHis2jTax0oClwcVOIsKeBNaiGL05Cd5_GWZ4S2_vVQtA=w1200-h630-p-k-no-nu" group-title="LIVE EVENT 19 APRIL 2024", 22:00 - RSL - Al Riyadh vs Al Ta'ee
+
+=======================================================================================================================================================
+
+France - Ligue 1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=m0h4ksaf9f9t1d5jvhym6yu2s_image-header_pRow_1712166727000&quality=70" group-title="20 APRIL 2024", 22:00 - LIGUE 1 - Nantes vs Rennes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a4ulfw19bki71rurp05233xnn_image-header_pRow_1704466845000&quality=70" group-title="LIVE EVENT 19 APRIL 2024", 01:00 - RSL - Al Ahli vs Al Hilal
-#EXTVLCOPT:http-referrer=https://sony.newvideo.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=m0h4ksaf9f9t1d5jvhym6yu2s_image-header_pRow_1712166727000&quality=70" group-title="20 APRIL 2024", 02:00 - LIGUE 1 - Lens vs Clermont
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://iaftm.tmgrup.com.tr/6f1bed/1200/627/0/56/943/549?u=https://iftm.tmgrup.com.tr/2023/03/05/besiktas-ankaragucu-canli-besiktas-ankaragucu-maci-ne-zaman-bjk-maci-saat-kacta-ve-hangi-kanalda-1678031653137.jpeg" group-title="LIVE EVENT 19 APRIL 2024", 00:00 - SUPER LIG - Beşiktaş vs Ankaragücü
+=======================================================================================================================================================
+
+
+Portugal - Primeira Liga
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.c5n.com/p/517ca661b091919f9ea360bb998ee12a/adjuntos/326/imagenes/000/233/0000233838/1200x675/smart/moreirense-visita-gil-vicente-la-fecha-13.png" group-title="20 APRIL 2024", 21:30 - PRIMEIRA - Moreirense vs Gil Vicente
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5Jrwhyu47iWL0XuQNGZw17CDw9OkZxb2Lcm4mU9BCg&s" group-title="20 APRIL 2024", 00:00 - PRIMEIRA - Boavista vs Estrela
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium49/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ytimg.com/vi/i_UlHEMf_9c/maxresdefault.jpg" group-title="20 APRIL 2024", 02:30 - PRIMEIRA - Sporting Braga vs Vizela
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
 
 
+
+=======================================================================================================================================================
+
+USA/Canada - Major League Soccer
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqZN8qklS5CcRR8SGT2KyinpdL858xp0snp_DItQ1CxA&s" group-title="20 APRIL 2024", 06:30 - MLS - CF Montréal vs Orlando City SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://i.ytimg.com/vi/BVu1SqivBkM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDrngjciKFQRXlPN4PqTYZvk9Yq7A" group-title="20 APRIL 2024", 09:30 - MLS - Seattle Sounders FC vs Vancouver Whitecaps
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="20 APRIL 2024", 22:00 - RSL - Al Akhdoud vs Dhamk
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="20 APRIL 2024", 01:00 - RSL - Al Hazm vs Al Ittihad
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1nqq9hohadq5z1f646xhpvn1xf_image-header_pRow_1713432547000&quality=70" group-title="20 APRIL 2024", 01:00 - RSL - Al Ittifaq vs Al Wehda
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 =======================================================================================================================================================
