@@ -18,10 +18,6 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://1a-rcti.rctiplus.id/rcti-sdi.mpd
-
 #EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://edge2.laotv.la/live/TrueSport2/sc-gaFECQ/index.m3u8
@@ -54,9 +50,11 @@ https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/inde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 group-title="AFC U-23", tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape", LIVE 9
-http://imetbox.live:8880/live/0822310126a9/JJrPR6jc/605060.ts 
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2024/04/12/bc4fc3c961b951245227be8022595e39-1308455.png?image-profile=image_max&io=landscape" group-title="AFC U-23", LIVE 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|referer=https://www.visionplus.id
 
 ###################################
 #######-----VOD MOVIES-----########
