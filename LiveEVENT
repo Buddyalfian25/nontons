@@ -249,28 +249,6 @@ https://stream.hownetwork.xyz/xxx/shrek-the-musical-2013-bluray/15/480.m3u8
 #######-------VOD HOROR--------#######
 ######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/zUTCpKq.jpeg" group-title="VOD HOROR", PARA BETINA PENGIKUT IBLIS
-https://sv3.drivejwplayer.xyz/vid/VjlNUjhFSFJKSTVTYWtvem1zd0JNbllWTUNBT2JvVGFpZjZFWVdPd0lDWm1VUGlLbm14TmhYSWVSWDl0UlVCSWxzNUtLMnRwTXFBY1JDVmJVczlPRHc9PQ,,/original/?dl=0&gt=d1p3Mmh5cm50ZFZjOGVUTEtxRVRMM2M4RDlIRmxlT1p0Y0V1UDBSUW1BdzZHS3JEbmpvQjZzc0RCc21GTllueXBscE9lZTV6UVNjSnFwY2liNDF0NGc9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/3YDPA6D.jpeg" group-title="VOD HOROR", MAKMUM 1
-https://server-hls2-stream-c4.cdn-tube.xyz/v/02/00045/budc733hkm0m_h/h.mp4?t=GDrftegdZmVBd4_wumMZANJPyKkVPTRVnBQNy6FS70k&s=1713406746&e=86400&f=228056&sp=30000&i=0.0
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/WjCcTaS.jpeg" group-title="VOD HOROR", MAKMUM 2
-https://1relcdn.ctmp.online/files/4/zn5i1t9ljaxe14/video.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Nv4s88N.jpeg" group-title="VOD HOROR", INDIGO
-https://1relcdn.ctmp.online/files/2/tei3g3juibfupn/video.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AoEr1z9.jpeg" group-title="VOD HOROR", ANAK PERJANJIAN SYAITAN 2
-https://1relcdn.ctmp.online/files/6/b9mb6whttdbyyc/video.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/fYCzWMY.jpeg" group-title="VOD HOROR", IBLIS TERKEJAM PENAGIH JANJI
-https://1relcdn.ctmp.online/files/3/any7izsrpj2i9x/video.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/V0eXILO.jpeg" group-title="VOD HOROR", RUMAH KENTANG
-https://sv2.jwplayer21.com/vid/L3RzSTd2M05OcWRkRjRLQnpHUzVYSEtYcUJGWFZRUFhXWDNJcGtmaWJhUFk4V2hGVEJVY1NZRzlJbmZUSWYrakltTllEY3FPalFaTm5zT3IvdS9vY3c9PQ,,/original/?dl=0&gt=Z0VjY0Fjd1MxVUp0cGlRS3dVa3lQZ0x0b1RYeTNUUVYyaURCZmFFRndaUlNUMjBDYTZnTXhUOUR1S1pPYk1mMHZtaEk2RHVKbmNDUWxpdTU5YVViaWc9PQ,,
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD HOROR", DI AMBANG KEMATIAN
-https://1relcdn.ctmp.online/files/3/xzu85srwpw30e3/video.mp4
 
 ########---EVENT GF & F1---#######
 
@@ -394,6 +372,28 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 ######----HBO CUBMU----#####
 ############################
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="HBO CubMu",HBO (C)
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0" group-title="HBO CubMu",HBO Hits (C)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/huvb654fboyfnebvnzghn/hbo_family.png?rlkey=sr0deor1pxp0bxgm3x6wve1cz&dl=0" group-title="HBO CubMu",HBO Family (C)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/rpfe8l6bizfcn3hkvkow6/hbo-signature.png?rlkey=dano4jnm0214i6163flo4akb6&dl=0" group-title="HBO CubMu",HBO Signature (C)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.androidteve.workers.dev/pukgeruk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 ###########
 
