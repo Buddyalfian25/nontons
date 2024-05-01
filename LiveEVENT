@@ -755,7 +755,7 @@ http://iptvtree.net:8080/F14995/a84c0963/165109
 http://testfunctionlive.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|Referer=https://www.visionplus.id/
 
 #EXTGRP:KIDS
-#EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/tWSys0o.jpeg", Indi Kids
+#EXTINF:0 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/tqDmiWv.jpeg", Indi Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.deerem-12537iptv.workers.dev/indikids/license-proxy-widevine/cenc/?specConform=true
