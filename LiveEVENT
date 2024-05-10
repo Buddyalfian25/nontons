@@ -1005,26 +1005,25 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 1
+#https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16622
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/xQxL10G.png" group-title="SPORT", Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 2
+#https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16621
 
- 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/RryemoR.png" group-title="SPORT", Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
- 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 3
+#https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/453O4dO.png" group-title="SPORT", Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 5
+#https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/301072
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/oAOnoTx.png" group-title="SPORT", Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
- 
-
-#EXTINF:-1 tvg-id="143" tvg-logo="https://i.imgur.com/3Ppohrq.png" group-title="SPORT", Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
- 
 
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/ZMXhKz2/aesport.jpg" group-title="SPORT", Arena Esport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
