@@ -9,6 +9,62 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 -------LIVE EVENT------
 
 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1hi5y8fgxlks411elkoxkjdcjw_image-header_pEs_1713929953000" group-title="LIVE EVENT" , 18:30 Fulham vs Manchester City
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 2.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=eah59wba3vxzwrjm1sx8noppn_image-header_pRow_1712982784000&quality=70" group-title="LIVE EVENT" , 21:00 Wolves vs Crystal Palace
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd  
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1rush72rjh3jm1f2i3sxkh4d3u_image-header_pEs_1712982784000&quality=70" group-title="LIVE EVENT", 21:00 West Ham United vs Luton Town
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=hiipo0rphuze138co45bwhcu4_image-header_pEs_1712982786000" group-title="LIVE EVENT", 21:00 AFC Bournemouth vs Brentford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/?r=ajax
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="LIVE EVENT" tvg-id="trueLIVE EVENT Arena.th" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=ur9xnljy040h1v6zhwulrn6mf_image-header_pEs_1712982785000&quality=70", 21:00 Everton vs Sheffield United
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 4.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=alyx1uzobdoh23irs17po3604_image-header_pRow_1712948576000&quality=70" group-title="LIVE EVENT" , 21:00 Newcastle United vs Brighton & Hove Albion
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd 
+
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 1.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=3bww8yh1gqrtohjxu09vbw08q_image-header_pRow_1712982784000&quality=70" group-title="LIVE EVENT" , 21:00 Tottenham Hotspur vs Burnley
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 2.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=jjy5v1d9u5951vh2dev8ecx82_image-header_pEs_1713929953000&quality=70" group-title="LIVE EVENT" , 23:30 Nottingham Forest vs Chelsea
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd 
+
+#EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 1.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1n80pilk10o5r187fhr4qqkjnv_image-header_pRow_1713173207000&quality=70" group-title="LIVE EVENT" , 23:30 Granada vs Real Madrid
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
 
 
 ###################################
