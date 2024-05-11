@@ -14,7 +14,7 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-id="ELEVEN LIVE EVENT 2.pt" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=eah59wba3vxzwrjm1sx8noppn_image-header_pRow_1712982784000&quality=70" group-title="LIVE EVENT" , 21:00 Wolves vs Crystal Palace
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
