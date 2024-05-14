@@ -1010,12 +1010,10 @@ https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 1
-#https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16622
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 2
-#https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/16621
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 3
 #https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
@@ -1025,8 +1023,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORT", Sony Ten 5
-#https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/301072
+https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports5_norvegicus/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/ZMXhKz2/aesport.jpg" group-title="SPORT", Arena Esport
@@ -1267,19 +1264,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.ibb.co/YPTQ3D8/astro1-1.png" group-title="SPORT",Astro 4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORT", Usee Sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesport/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WKyLMfQ/usee1.png" group-title="SPORT", Usee Sport 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/useesports2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-u8OZefR4hYA/YJbSMgxGbJI/AAAAAAAAE3U/UvDAJTcEYFspW4GLdhGX3ciPVrKilaqUACLcBGAsYHQ/s720/FIGHTSPORTS-Thumbnail.png" group-title="SPORT", Fight Sports 
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #EXTINF:-1 tvg-id="CABA3700006IC" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="SPORT", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
@@ -1382,6 +1371,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="SPORT", FIFA+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 
 ################################
 
