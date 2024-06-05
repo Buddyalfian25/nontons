@@ -282,6 +282,14 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 ######---HBO MAXTREAM---#####
 ############################
 
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="HBO MAX",HBO
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="HBO MAX",HBO Family
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="HBO MAX",HBO Hits
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="HBO MAX",HBO Signature
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 ############################
 ######----HBO CUBMU----#####
@@ -1125,6 +1133,19 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",DAZN ELEVEN 1 🇵🇹
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",DAZN ELEVEN 2 🇵🇹
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",DAZN ELEVEN 3 🇵🇹
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",DAZN ELEVEN 4 🇵🇹
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT",DAZN ELEVEN 5 🇵🇹
+https://dcf-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
+
+
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://dl.dropbox.com/scl/fi/prwnccobyqvb058n999er/dazn.png?rlkey=ms9qwco2o9yp2kggwwftzbewq&st=4fvv464b&dl=0" group-title="SPORT", DAZN 1 🇩🇪 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1162,6 +1183,13 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORT",SONY TEN 1
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORT",SONY TEN 2
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORT",SONY TEN 3
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
 
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://i.imgur.com/QRLzSJ8.jpeg" group-title="SPORT", PLAY SPORT 1
