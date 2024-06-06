@@ -1102,30 +1102,41 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-id="CABA3700006IC" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="SPORT", Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOcPzJR.jpeg" group-title="SPORT", DAZN DE 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="DAZN COMBAT" tvg-logo="https://i.ibb.co/DLK0y9f/dazncombat.png" group-title="SPORT" , DAZN COMBAT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-017/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/24Mam9i.jpeg" group-title="SPORT", DAZN DE 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://i.ibb.co/tJP1cxn/daznfastplus.png" group-title="SPORT" , DAZN FAST+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-018/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
 
-
-#EXTINF:-1 tvg-logo="http://saudaraiptv.my.id/logo/sports/dzf1.png" group-title="SPORT", Dazn F1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/k9D3yrF/daznrise.png" group-title="SPORT" , DAZN RISE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
 
-#EXTINF:-1 tvg-logo="http://saudaraiptv.my.id/logo/sports/dzlaliga.png" group-title="SPORT", Dazn La Liga
-#EXTVLCOPT:http-user-agent=ExoPlayerLib
+#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/vB6Fqrw/daznwomensfootball.png" group-title="SPORT" , DAZN WOMEN'S FOOTBALL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://i.ibb.co/QnR3JYY/daznlaliga.png" group-title="SPORT" , DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://github.com/eepunx/logo/raw/main/F1.png" group-title="SPORT", DAZN F1
+http://iptvtree.net:8080/F14995/a84c0963/1672
 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://yt3.googleusercontent.com/4ruYaG_yR3y2nzd3u8xAFsf7iMjKPFGmZwqvt0hq5y_f6kiPYbMRo6b4pOj1sruykrhveghi=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT" , DAZN ELEVEN 1 🇵🇹
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
