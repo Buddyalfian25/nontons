@@ -1072,10 +1072,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2524/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xs26YD5/turkmenis.jpg" group-title="SPORT",Turkmenisport
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
- 
-
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://i.ibb.co/nwtgG8p/trusport1.png" group-title="SPORT",Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
@@ -1221,6 +1217,9 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="SPORT", FIFA+
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ynzjxj1ib551x59xqk1ib/motorvision.png?rlkey=pguihsrwqigxpg50rfxw2beh5&dl=0" group-title="SPORT", MOTORVISIONTV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
 ################################
 
