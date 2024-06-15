@@ -1360,16 +1360,16 @@ https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=h
 
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 1
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp1.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
   
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 2
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp2.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/59219
 
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 3
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp3.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 4
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/assp4.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
