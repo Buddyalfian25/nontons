@@ -199,6 +199,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 =======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
 =======================>TIDAK UNTUK DIPERJUAL BELIKAN,, ANDA FAHAM.???<==========
 
@@ -207,6 +216,88 @@ https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_2024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+============== 🟢 LIVE EURO 2024 (GERMANY)=========
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)", Sport TV 1
+https://cors-proxy.elfsight.com/http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:AB:56:E8&stream=501422&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",Rush Sports
+https://cors-proxy.elfsight.com/http://tv14s.xyz:8080/live/753468/894568/99568.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",FOX Sports 1
+https://cors-proxy.elfsight.com/http://gtvstreams.me:80/live/Tony15/Tony15/219143.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",Supersport Football
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3344_&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",Supersport Live Event
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=3338_&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",TSN 4
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132772&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)",TSN 1
+https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132769&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)", Sony Sports 1
+https://cors-proxy.elfsight.com/http://newlife3.wanicelife.com:8880/live/DAALM2417/XmSRhutE3r/55284.ts
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)", PPTV 36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🟢 LIVE EURO 2024 (GERMANY)", SportStars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="🟢 LIVE EURO 2024 (GERMANY)" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.googleapis.com/drive/v3/files/1JSp2t6bi2b731gndCJW7zNQeUf2640SJ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4", SportStars 4
+https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 ###################################
 ----------CHANNEL LOKAL------------
