@@ -291,68 +291,39 @@ https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 
 #########== LIVE COPA AMERICA 2024 ==########
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hsjb281716285140.jpg" , 23/06 - 07:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 1 (BelzieTV) 
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d5bp5k1716285140.jpg" , 24/06 - 05:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 2 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g347ky1716285141.jpg" , 24/06 - 05:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 3 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lie1341716285141.jpg" , 24/06 - 08:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 4 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1oj6qj1716285149.jpg" , 25/06 - 05:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 5 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/iv0x7j1716285149.jpg" , 25/06 - 08:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 6 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5jehme1716285142.jpg" , 24/06 - 05:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 7 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/zgx89k1716285142.jpg" , 24/06 - 08:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 8 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/72pmdd1716285143.jpg" , 25/06 - 05:00 WIB (BelzieTV) 
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" , CH 9 (BelzieTV)
 http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rxylex1716285144.jpg" , 25/06 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+#EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.imgur.com/EwgjuCI.jpeg" group-title="🟢 COPA AMERICA 2024", CH #10 (BelzieTV)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hyhol11716285144.jpg" , 26/06 - 05:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/absvjj1716285150.jpg" , 26/06 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7mp5z51716285145.jpg" , 27/06 - 05:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/23umv01716285145.jpg" , 27/06 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9b43zb1716285150.jpg" , 28/06 - 05:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/npoi0q1716285146.jpg" , 28/06 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4uzv9m1716285146.jpg" , 29/06 - 05:00 WIB (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hcioba1716285147.jpg" , 29/06 - 08:00 WIB (BelzieTV)
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w74r351716285147.jpg" , 30/06 - 05:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8jpxnh1716285148.jpg" , 30/06 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
-
-#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ap6m911716285151.jpg" , 01/07 - 08:00 WIB (BelzieTV) 
-http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
 
 
