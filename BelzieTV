@@ -289,27 +289,74 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-H
 #EXTINF:-1 group-title="🟢 LIVE EURO 2024 (GERMANY)" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/JOyXnZb.jpeg", SportStars 4
 https://testfunctionlive.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-
+#############################################
 #########== LIVE COPA AMERICA 2024 ==########
+#############################################
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hsjb281716285140.jpg" , 23/06 - 07:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/d5bp5k1716285140.jpg" , 24/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/g347ky1716285141.jpg" , 24/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/lie1341716285141.jpg" , 24/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/1oj6qj1716285149.jpg" , 25/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/iv0x7j1716285149.jpg" , 25/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5jehme1716285142.jpg" , 24/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/zgx89k1716285142.jpg" , 24/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/72pmdd1716285143.jpg" , 25/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/rxylex1716285144.jpg" , 25/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hyhol11716285144.jpg" , 26/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/absvjj1716285150.jpg" , 26/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/7mp5z51716285145.jpg" , 27/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/23umv01716285145.jpg" , 27/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/9b43zb1716285150.jpg" , 28/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/npoi0q1716285146.jpg" , 28/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/4uzv9m1716285146.jpg" , 29/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/hcioba1716285147.jpg" , 29/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/w74r351716285147.jpg" , 30/06 - 05:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8jpxnh1716285148.jpg" , 30/06 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
+
+#EXTINF:-1 group-title="🟢 COPA AMERICA 2024" tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/ap6m911716285151.jpg" , 01/07 - 08:00 WIB [ iKiTV ]
+http://ikitvstream-usach.webhop.me:8080/live/sourceuxusaX2/bRsCaNup9Cb3/10888.m3u8
 
 
-#EXTHTTP:ZGJmZDg3ZjM1NGE0MWVkY4Y1dZvVrqBdEePg6o4jxVEbfVrEFe92kyduhcLIJ6yuyvNWJJXqLhIOQHg5AYf4NWkhenbOye6x2KnTLMYFerkR1zXVOMhfMtBxSQAKq6T1krfM8tOfUEx1loFW+MLAzsSFPokXnIUNRFwr+8wasMFMyFhcvrELlRv9/JmC9U3DJc6Cs039xoPF+PUrrJwxxobuGov7bOn3wWA7a39eGtvmHdaQD0Jbg7viHPFicLwjvv9vy5SGTtwlboMf/NSgXrYcecwE4owRtN089gd0ZY2e+I1/21cPmWcwWlENt4T7RjbvvWNOcWGMnvm4eMKTOWM0YzA1MmNiOTcwZTMwYWE
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://i.imgur.com/iE4xB7D.png" group-title="🟢 LIVE COPA AMERICA 2024",Play 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MzgwN2M2YTA0ZDQ1ZmJiNCyPZ87pyUQWCPRgbyZ9AQrTZxgeNIr7uDaQO3FLfdFmSztQ3zwaaLOa5XlASoNS1mBczrON9VZ750OD+RgjOzvU242y0gqKT2By3uvK2lq1YWQzYzgyYzhiMzYzMDM3Yg
-https://daiconnect.com/NTE0OTQzZThhZjA0OWFlM8DTxRA8PUDlBqKatzAdm2lYqGSXvHTzRnoIo/M8S9wM9bLu1SrTIgEVL3/1X6ywysvkpdWYlvo/txKtuMRQ6+ZM/OXS4G1COQx5+cOzFufASopQsJwfS+YcLCU9OBrwvIEW+HQbHxvgKk7xun3DXap/L9vf5aPf7CvjbIxp4+HyZmFkM2YzZmM5YjQxM2RiNQ
-
-#EXTHTTP:YmY1MGY3Y2RiODY2ZTMxYRhTY1ueN+7VTAW+lLKpf+36MbCH6BDgDeYL53ZZ/DRh9h3T1KcfG3YHOEc8sOf/qI7p3sLWyKtTivBnMWfQomWIXw0Xt7Asp0Qclsx+AkzSk9H6yadh0QA/nkOwiX80ISWZRcpkbZ9fqV6nHA+V/SaDyHJw4Q+Jz9pFDWzIrbqPpupt7JPynySyMDmK47JhrV+QL8gV2GQyRQ2d24BpPodPgi7WRPXZo33fAMxgik6WzMr6yhJtG6Rlai8bCkla5X1DP919hrZGpyZeav5+zRmZIU9m+7mEz4XTVrl0iu9Nyr8MuaP6xJ/fqHEb7zQ3wWE2YTViZGRhMWZjNzU3MDU
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://i.imgur.com/iE4xB7D.png" group-title="🟢 LIVE COPA AMERICA 2024",Play 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=YTAxYTljNGZhNjY5Njk4NXTriOOf7E3R9j9kXmXfhmIbxg5f3hNtuXxBMr0KCZLy8kdRt7GSEUSHszyIqzOCawsjyBzKX+a9BJUzWAGzpqK/hYiX51tVJgWPeN0l+XySZTY0NWZiNDczOWFmNTRmYw
-https://daiconnect.com/ZmM2NDBjYzNkMDdmNjlmZAROhQRbmYg/xAL9PA8OtBDNb3OJTHN1NMkNndpHPFOFlhg/fGJLYRGRPgewL1Pl96j4N7Y4yA6XyCz7iiQbFvDmmVrNb6+WA20j8I1jmvlXVvQX51C3eIOmya+xvy+gwdE4QhLvg9g4rDPMPJ2zCo62xZmAPQgbt0Ui6uQka8PWMDlkYTI0OGY2OGMxMGU0OQ
-
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://i.imgur.com/iE4xB7D.png" group-title="🟢 LIVE COPA AMERICA 2024",Play 3
-https://daiconnect.com/NDUwMTI5MjM4ZDBjODA0OfPXc06rIZG6j1haPR9I3Sc3gJ69hTALTx5kOLQWgSjFInU409/rL3wZQwgdxIWarHioEDUisu723J60+/ZKG8Eveo69Py3U/neVItrDmM10hjXtCvubG5aAJinchsc2Lwt2rgn04mp4DP+UEOLB3Lo1ZTM4ZGI1ZjJmMDk1Mjcx
-
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://i.imgur.com/iE4xB7D.png" group-title="🟢 LIVE COPA AMERICA 2024",Play 4
-https://daiconnect.com/MTgwYTE4OTgwODJjMDBkOI1ySFIa8QODxVTSeUpiyNmGA31LMNprSq891lAGZ4DCllF5OIUN57iQq55HK0DwsDk4Mjc4NDEwYWYxOTE5ZDc
 
 ###################################
 #######-----VOD MOVIES-----########
