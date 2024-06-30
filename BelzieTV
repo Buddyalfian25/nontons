@@ -1515,6 +1515,22 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cETj2kk.jpeg" group-title="SPORT", MOTORVISIONTV
 http://210.210.155.35:80/uq2663/h/h09/01.m3u8
 
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1600px-Sport_TV1_%282023%29.svg.png" , SportTV 1
+https://cdn.wapka.io/00dx45/5e1053c81ebb4e2221e2a230674cc956/ikitv-sporttv1.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1600px-Sport_TV2_%282023%29.svg.png?20231021014353" , SportTV 2
+https://cdn.wapka.io/00dx46/78e7acbb67f1681c77cdd441c67eea4d/ikitv-sporttv2.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png?20231021014305" , SportTV 3
+https://cdn.wapka.io/00dx47/0befc6426a51ec82320d360d3e0f75ab/ikitv-sporttv3.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/1600px-Sport_TV4_%282023%29.svg.png?20231021014108" , SportTV 4
+https://cdn.wapka.io/00dx48/1731a6e07fe3a9eb6a02f4b9b3ae15ff/ikitv-sporttv4.m3u8
+
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/1600px-Sport_TV5_%282023%29.svg.png?20231021014202" , SportTV 5
+https://cdn.wapka.io/00dx49/4babc8397d07862ddee992bfdd383d0f/ikitv-sporttv5.m3u8
+
 ################################
 
 
