@@ -1091,6 +1091,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAjXLUh.png" group-title="KIDS", Mentari TV (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 http://103.237.32.213:9981/stream/channelid/1253294058?profile=pass
+https://play.gachor99.my.id:443/live/hometv_lite/h6NwHhGE43/92.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
