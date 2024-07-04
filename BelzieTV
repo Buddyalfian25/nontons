@@ -824,7 +824,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/u47RJYl.png", MOJI (HD) 
-https://raw.githubusercontent.com/Tibawa/basulapa/main/bstv/playlist/moji.m3u8
+http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA", Moji 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
