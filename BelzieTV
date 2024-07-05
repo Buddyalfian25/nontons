@@ -417,6 +417,12 @@ https://stream.hownetwork.xyz/xxx/shazam-fury-of-the-gods-2023-bluray/9/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kL9r8DX.jpeg" group-title="VOD MOVIES", EXODUS : GODS AND KINGS
 https://stream.hownetwork.xyz/xxx/exodus-gods-kings-2014-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Jumanji
+https://stream.hownetwork.xyz/xxx/jumanji-welcome-jungle-2017-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Night At Then Museum 1
+https://stream.hownetwork.xyz/xxx/night-at-the-museum-2006-bluray/3/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
@@ -541,6 +547,9 @@ https://stream.hownetwork.xyz/xxx/shrek-the-musical-2013-bluray/15/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD KIDS", Bigfoot Family
 https://stream.hownetwork.xyz/xxx/bigfoot-family-2020-webrip/14/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD KIDS", Zootopia
+https://stream.hownetwork.xyz/xxx/zootopia-2016-bluray/11/480.m3u8
 
 ######################
 -----LIGA INGGRIS-----
