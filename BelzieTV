@@ -421,6 +421,9 @@ https://stream.hownetwork.xyz/xxx/jumanji-welcome-jungle-2017-bluray/7/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/XditLta.jpeg" group-title="VOD MOVIES", Night At Then Museum 1
 https://stream.hownetwork.xyz/xxx/night-at-the-museum-2006-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Warm Bodies
+https://stream.hownetwork.xyz/xxx/warm-bodies-2013-bluray/3/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
