@@ -427,7 +427,7 @@ https://stream.hownetwork.xyz/xxx/warm-bodies-2013-bluray/3/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/CYh9CYD.jpeg" group-title="VOD MOVIES", World War Z
 https://stream.hownetwork.xyz/xxx/world-war-z-2013-bluray/11/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", I Am Legend
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/xMkzHVm.jpeg" group-title="VOD MOVIES", I Am Legend
 https://stream.hownetwork.xyz/xxx/i-am-legend-2007-bluray/3/480.m3u8
 
 ###############################
@@ -566,7 +566,12 @@ https://stream.hownetwork.xyz/xxx/finding-doryy-2016-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/qqRjGPr.jpeg" group-title="VOD KIDS", Lilo & Stitch (2002) 
 https://stream.hownetwork.xyz/xxx/lilo-stitch-2002-bluray/16/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/O28tpbM.jpeg" group-title="VOD KIDS", Monster Inc
+https://stream.hownetwork.xyz/xxx/monsters-inc-2001-bluray/2/480.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/sl0qgYy.jpeg" group-title="VOD KIDS", Dumbo (2019) 
+https://stream.hownetwork.xyz/xxx/dumbo-2019-bluray/4/480.m3u8
 
 ###############################
 ######------VOD HOROR-----#####
