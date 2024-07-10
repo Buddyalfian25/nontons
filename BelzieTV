@@ -427,6 +427,9 @@ https://stream.hownetwork.xyz/xxx/warm-bodies-2013-bluray/3/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/CYh9CYD.jpeg" group-title="VOD MOVIES", World War Z
 https://stream.hownetwork.xyz/xxx/world-war-z-2013-bluray/11/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", I Am Legend
+https://stream.hownetwork.xyz/xxx/i-am-legend-2007-bluray/3/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
