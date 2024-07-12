@@ -1746,10 +1746,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191899
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BRzYkgO.png" group-title="Movies", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
-http://170.254.18.106/CINEMAX/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/uB76Ft0.png", Cinemax (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/bir6312j4o9mketopjh43/Cinemax.png?rlkey=r4ic4nna01c1ul5rcvl1cp5yx&dl=0" group-title="Movies", Cinemax (Trans)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
