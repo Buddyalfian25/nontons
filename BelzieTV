@@ -430,6 +430,12 @@ https://stream.hownetwork.xyz/xxx/world-war-z-2013-bluray/11/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/xMkzHVm.jpeg" group-title="VOD MOVIES", I Am Legend
 https://stream.hownetwork.xyz/xxx/i-am-legend-2007-bluray/3/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/F4YLtuL.jpeg" group-title="VOD MOVIES", Kingdom Of The Planet Of The Apes (2024) 
+https://stream.hownetwork.xyz/xxx/kingdom-of-the-planet-of-the-apes-2024-webdl_X_b2f3fa82/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/FlxiAuj.jpeg" group-title="VOD MOVIES", Godzilla X Kong The New Empire (2024) 
+https://stream.hownetwork.xyz/xxx/godzilla-x-kong-the-new-empire-2024-bluray_X_238ea780/22/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
@@ -569,9 +575,14 @@ https://stream.hownetwork.xyz/xxx/lilo-stitch-2002-bluray/16/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/O28tpbM.jpeg" group-title="VOD KIDS", Monster Inc
 https://stream.hownetwork.xyz/xxx/monsters-inc-2001-bluray/2/480.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/sl0qgYy.jpeg" group-title="VOD KIDS", Dumbo (2019) 
 https://stream.hownetwork.xyz/xxx/dumbo-2019-bluray/4/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KgAwp1Q.jpeg" group-title="VOD KIDS", Inside Out 1
+https://stream.hownetwork.xyz/xxx/inside-out-2015-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/gCnMMqn.jpeg" group-title="VOD KIDS", Inside Out 2
+https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
 
 ###############################
 ######------VOD HOROR-----#####
