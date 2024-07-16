@@ -318,6 +318,9 @@ https://stream.hownetwork.xyz/xxx/the-descent-2005-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/i7KqGKg.jpeg" group-title="VOD MOVIES", The Descent 2
 https://stream.hownetwork.xyz/xxx/descent-part-2-2009-bluray_X_cfbc27bb/1000/480.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yyjl3pn.jpeg" group-title="VOD MOVIES", Bad Boys Ride Or Die
+https://stream.hownetwork.xyz/xxx/bad-boys-ride-or-die-2024-hdcam_X_3447b05d/22/480.m3u8
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
