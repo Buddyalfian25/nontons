@@ -321,6 +321,12 @@ https://stream.hownetwork.xyz/xxx/descent-part-2-2009-bluray_X_cfbc27bb/1000/480
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yyjl3pn.jpeg" group-title="VOD MOVIES", Bad Boys Ride Or Die
 https://stream.hownetwork.xyz/xxx/bad-boys-ride-or-die-2024-hdcam_X_3447b05d/22/480.m3u8
 
+#EXTINF:-1 group-title="VOD MOVIES" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/library/4028c68569439778016948004ae60021/20190319070044.jpg", 15Cm
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+https://cdnjkt4.transvision.co.id:1000/encrypt/cmaf/4028c68569439778016948004ae60021/Manifest.mpd
+
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
