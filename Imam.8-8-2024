@@ -199,6 +199,8 @@
 
 
 
+
+
 =======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
 =======================>TIDAK UNTUK DIPERJUAL BELIKAN,, ANDA FAHAM.???<==========
 
@@ -206,6 +208,8 @@
 https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_20240121145059.mp4?rlkey=dpmqddfhqcpd1y7e52g4h8prc&dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
+
+
 
 ###################################
 #######-----VOD MOVIES-----########
@@ -316,6 +320,17 @@ https://stream.hownetwork.xyz/xxx/descent-part-2-2009-bluray_X_cfbc27bb/1000/480
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yyjl3pn.jpeg" group-title="VOD MOVIES", Bad Boys Ride Or Die
 https://stream.hownetwork.xyz/xxx/bad-boys-ride-or-die-2024-hdcam_X_3447b05d/22/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Bv11tHL.jpeg" group-title="VOD MOVIES", Ayat-Ayat Cinta 1
+https://iahhu7cuwkpf.hgagecdn.com/hls2/01/01895/fx4woy46ibhu_,l,n,.urlset/index-f1-v1-a1.m3u8?t=H_JWnmJ5IaAZMxs52QDP1FCayh4cXsLVSQKK3jLEq1E&s=1721663072&e=129600&f=9479473&srv=iWHz5zpkSLGQy&i=0.4&sp=500&p1=iWHz5zpkSLGQy&p2=iWHz5zpkSLGQy&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AZctiqT.jpeg" group-title="VOD MOVIES", Ayat-Ayat Cinta 2
+https://ggpjq6gmqddb.hgagecdn.com/hls2/01/01895/9w1o5xqkrvvz_,l,n,.urlset/index-f1-v1-a1.m3u8?t=e2jkgWGbyNNy9EzJU1Ba0P1pHnc_GUwlF6HmP-H25r0&s=1721663251&e=129600&f=9478916&srv=kdaLR1VxymaK&i=0.4&sp=500&p1=kdaLR1VxymaK&p2=kdaLR1VxymaK&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD MOVIES", 5cm
+https://nzxfhnnl6es7.hgagecdn.com/hls2/01/01895/smlwyufvjxtj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=d26QLo-v1PYOQey3ZBqJdXGKwI4lHlw25ABm7rNKhHU&s=1721663733&e=129600&f=9478356&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=7713
+
+
 
 ###############################
 ######------VOD KIDS-----######
@@ -469,18 +484,6 @@ https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD HOROR", Pemukiman Setan 
-https://lpbugn8i.sw-cdnstreamwish.com/hls2/01/04295/tuigko5wbv38_n/index-v1-a1.m3u8?t=kLyPwc2QDWvG3uv8LU36hJQ2UroLSD_tpOnhhzzjHIE&s=1720451977&e=129600&f=21475339&srv=54pkdcyxbsxbermn&i=0.4&sp=500&p1=54pkdcyxbsxbermn&p2=54pkdcyxbsxbermn&asn=24203
-https://5ydssahmsa.sw-cdnstreamwish.com/hls2/01/04295/2v23e5yue72q_n/index-v1-a1.m3u8?t=yY-Z9B_3hfg8fHIT0OhDDWO9O86NIm2nCWWCXdONGYU&s=1720979181&e=129600&f=21478049&srv=yjzoel1aazzl&i=0.4&sp=500&p1=yjzoel1aazzl&p2=yjzoel1aazzl&asn=24203
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD HOROR", KKN
-https://cvhdarmcmiyy.sw-cdnstreamwish.com/hls2/01/03334/34naodbiucm0_n/index-v1-a1.m3u8?t=OrW_w6CpxBn5iuCOwRkIzx51CQxkIG_CZkvcVBM_AEY&s=1720542861&e=129600&f=16674959&srv=max6vc7qzj8c&i=0.4&sp=500&p1=max6vc7qzj8c&p2=max6vc7qzj8c&asn=24203
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD HOROR", INDIGO
-https://r7nim14weg.sw-cdnstreamwish.com/hls2/01/03189/shjssujf68c1_n/index-v1-a1.m3u8?t=DzUON6XuR4yN4k1CllYG5HUorUcH6_isqZqXQ9Bktpk&s=1720543127&e=129600&f=15949282&srv=chx8n382w7in&i=0.4&sp=500&p1=chx8n382w7in&p2=chx8n382w7in&asn=24203
-
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwYjFkZDQtZTJlZC00MDE1LWIyOTctMzJjM2E1OThhYzI1XkEyXkFqcGdeQXVyNzQyODU3NzU@._V1_.jpg" group-title="VOD HOROR",Kutuk (2019)
-https://drive.dubbindo.xyz/upload/videos/2023/07/JDwFajn3O9FSVrpmUJoh_22_49b206e9444c5587aac308acacb2b4ee_video_720p_converted.mp4
 
 #EXTINF:-1 group-title="VOD HOROR",40 Hari Bangkitnya Pocong
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -491,93 +494,25 @@ https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812
 #EXTINF:-1 type="movie" tvg-logo="https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="VOD HOROR",Anak Titipan Setan (2023)
 https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
 
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Ada Hantu 2
-https://www.googleapis.com/drive/v3/files/164LWM_NfFZqxCfSbGtQ-Saq6h2EuifOD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Aku Lupa Aku Luka
-https://www.googleapis.com/drive/v3/files/19bQnNLIyybMbujHtsXr2xeiI-b2HNoZB?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Alas Pati: Hutan Mati
-https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Bayi Ajaib Remastered
-https://www.googleapis.com/drive/v3/files/1uOeeERiBK6HmP2p3IUZdO4UryoIRxfaK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Bayi Gaib
-https://www.googleapis.com/drive/v3/files/1z0v27V9sLM8O7OrqYSEp906jHVd0PWzZ?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Belenggu
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Bisikan Jenazah
-https://www.googleapis.com/drive/v3/files/1uQmtHvz-9LA1sqebvqRyQQb_wFe3zPuc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Ghost Writer 2
-https://www.googleapis.com/drive/v3/files/1pWUjQe4Ci4oDUjexU3gn6Eqr4Esyvy9g?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Hompimpa
-https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Iblis Dalam Kandungan
-https://www.googleapis.com/drive/v3/files/15qMU6WYK777KAm1R8yYtC_At81_QqS8j?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Ikut Aku ke Neraka
-https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Inang
-https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Ivanna
-https://www.googleapis.com/drive/v3/files/1eRPJKF_bTNQwFjysfWMocIRrljPE5cOS?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Jailangkung: Sandekala
-https://www.googleapis.com/drive/v3/files/1uEJYxgtja39Y28qVe0pHB6PE-NT1EMF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Jangan Sendirian
-https://www.googleapis.com/drive/v3/files/1WbDu0f9Si849LurfVac0RYE6dqoQKHbz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kabut
-https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kain Kafan Hitam
-https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kamu Tidak Sendiri
-https://www.googleapis.com/drive/v3/files/1lRqQkhcotCpvKns1QQScK9kTo1XXh3Z9?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Keramat 2: Caruban Larang
-https://www.googleapis.com/drive/v3/files/1wPGfEwanoGGGXagWbkcNY9NQYCTIa_xu?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3DKSN7.jpeg" group-title="VOD HOROR", Bisikan Jenazah
+https://pikao7r5wkee.enaak-cdn.com/hls2/01/01268/2a52d1vx2gqs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=-Wtf4e6TONiukB-Rg27I4Ef_2Il1GWSQ1L6YGJISed8&s=1721224545&e=129600&f=6341436&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=7713
+
+
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuntilanak 3
 https://www.googleapis.com/drive/v3/files/1RflA9Ccn9B47BN9eGLlzfkY4l5F9ZECH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuntilanak 2
+https://www.dropbox.com/scl/fi/dgppuy44bjd8oosdggaex/Kuntilanak_2_2019.mp4?rlkey=6u233yxcjd3d22p37nllhz3ml&dl=1
+
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuyang the Movie
 https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Makmum
-https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Makmum2
-https://www.googleapis.com/drive/v3/files/1PNkdNPFgVvZiterhI0MHOPnZShBIyrYX?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Menjelang Magrib
-https://www.googleapis.com/drive/v3/files/1DRC9yXAmzCudZIjptTTWU_X_9_OlMLF5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ratab1s.jpeg" group-title="VOD HOROR",Mumun
 https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Nini Thowok
-https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Pelukis Hantu
-https://www.googleapis.com/drive/v3/files/1CCokopgK7HYABVTHnSgv2KAqeaxQa7Af?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Pengabdi Setan
-https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Pengabdi Setan 2: Communion
-https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Perempuan Bergaun Merah
-https://www.googleapis.com/drive/v3/files/1frrGRk2EJaa7u8BvZge2Rt6zdyarv8yU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Potret Mimpi Buruk
-https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Qodrat
-https://www.googleapis.com/drive/v3/files/1AYDqpdkxAaCjo27TwJH0IpXO9pCPHHW0?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Qorin
-https://www.googleapis.com/drive/v3/files/1FpG6ZxuaviQa_eAhVjMRo3bXxWBiU1oa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Ratu Ilmu Hitam
-https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Rumah Dara
-https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Rumah Kaliurang
-https://www.googleapis.com/drive/v3/files/1qH3QMgAj-NLg3uLcN3LFLZweLXcdG-Uq?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Suster Keramas
-https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Suzzanna: Bernapas Dalam Kubur
 https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",The Doll 3
-https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",The Returning
-https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",The Sacred Riana 2: Bloody Mary
-https://www.googleapis.com/drive/v3/files/1vYclqN5hbvoFzn9GLEyysvY5dJZsNxQc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Titisan Setan 2
-https://www.googleapis.com/drive/v3/files/1gLXUYmhU0prZIO-movZzEwY-f4CbHlbx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Wengi Anak Mayit
-https://www.googleapis.com/drive/v3/files/1cMUWn886RRZPyn6hPhvRpG91wep0Dsns?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DOvqfG9.jpeg" group-title="VOD HOROR", H. P. LOVECRAFT’S THE OLD ONES (2024)
 https://stream.hownetwork.xyz/xxx/h-p-lovecrafts-the-old-ones-2024-webdl_X_47a1405c/21/480.m3u8
@@ -590,10 +525,16 @@ https://stream.hownetwork.xyz/xxx/pee-mak-2013-bluray/11/480.m3u8
 https://stream.hownetwork.xyz/xxx/nang-nak-1999-dvdrip/17/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvvu42w.jpeg" group-title="VOD HOROR", Jagat Alam Gaib Sinden Gaib 
-https://p2p.enaak-cdn.com/hls2/01/01897/4muey0nnt3f2_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=M4x0T1agGjv_7nxr_u3XfMzL8OVTFPuWUoLmKVR4BHc&s=1721145166&e=129600&f=9489939&srv=pVpR0xBjFze8&i=0.4&sp=500&p1=pVpR0xBjFze8&p2=pVpR0xBjFze8&asn=7713
+https://www.dropbox.com/scl/fi/d4of237kqul4fzdaqmha8/Jagat_Alam_Gaib_Sinden_Gaib_2024_Sub_Indo.mp4?rlkey=ylrmvgntbivc30jkgsaqlmacu&dl=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYm1LcU.jpeg" group-title="VOD HOROR", Kuyang (2024) 
-https://ogmmqkka4mkk.enaak-cdn.com/hls2/01/02004/ofk0vunc2cko_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=YgSfjx7IDYXz_Fp3OgE1Keqc8WxKi6VV_kQE2dyO6TE&s=1721149774&e=129600&f=10020371&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
+https://www.dropbox.com/scl/fi/0w1dk98nyin53jp8ll9ja/Kuyang_2024_Sub_Indo.mp4?rlkey=l9jp00s6984473mfi37jjod2g&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/owKUtB1.jpeg" group-title="VOD HOROR", Tanduk Setan
+https://www.dropbox.com/scl/fi/nbilgpi5htr1slhrsf7t2/Tanduk-setan.mp4?rlkey=apu73xqebgzu3bjwdyz2my7vw&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a24RHIp.jpeg" group-title="VOD HOROR", Kereta Berdarah
+https://www.dropbox.com/scl/fi/lt42pj5904ydr36v61432/Kereta_Berdarah_2024.mp4?rlkey=nozw7p6jq3geprlkcskqks0ba&dl=1
 
 
 
@@ -697,6 +638,13 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
+#EXTINF:-1 group-title="HBO MAXTREAM" tvg-logo="https://i.imgur.com/uB76Ft0.png", Cinemax (MAX)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
 
@@ -770,6 +718,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO CubMu",HBO Signature
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/bir6312j4o9mketopjh43/Cinemax.png?rlkey=r4ic4nna01c1ul5rcvl1cp5yx&dl=0" group-title="HBO CubMu", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 #############################
@@ -884,7 +841,7 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/350997
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA", Moji 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://rr3.dens.tv/s/s41/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -936,8 +893,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/rrPylyc.png", JTV
-http://testfunctionlive.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|Referer=https://www.visionplus.id/
-http://iptvtree.net:8080/F14995/a84c0963/165091
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="INDONESIA" group-logo="https://i.imgur.com/rGrevBC.jpeg" tvg-logo="https://i.imgur.com/Tw15BHc.png", Trans 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1012,8 +968,8 @@ http://iptvtree.net:8080/AmirBilali/76448035/157578
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/0hiNaio.png" group-title="INDONESIA", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
- 
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/UMb3j9N.png" group-title="INDONESIA",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
@@ -1095,12 +1051,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/I1semgW.png", Baby TV 
-http://iptvtree.net:8080/F14995/a84c0963/157605
+https://melon-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 group-title="KIDS" tvg-id="BoomerangAsia.sg" tvg-logo="https://i.imgur.com/kHQuHPr.png", Boomerang
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
-http://iptvtree.net:8080/F14995/a84c0963/165109
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
@@ -1121,6 +1073,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/udYdAm6.png", Kids TV
 https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+https://melon-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1655,21 +1608,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191899
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BRzYkgO.png" group-title="Movies", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
-http://170.254.18.106/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/bir6312j4o9mketopjh43/Cinemax.png?rlkey=r4ic4nna01c1ul5rcvl1cp5yx&dl=0" group-title="Movies", Cinemax (Trans)
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/3eReHyg.jpg" tvg-id="Cinemax.id" tvg-name="Cinemax", CINEMAX (Sg)
@@ -1774,23 +1712,16 @@ http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60052
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/rvxizpk5qmtsdc0/natgeo.png" , National Geograpic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbbd159cc425464b908f0a263556672f:116f6adc67a5d89ded7a31a2d4d7d420
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1142/dash/cenc/NGCHD_00158/manifest.mpd
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/xo469bsgq43wbc6/natgeowild.png", Nat Geo Wild
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeowild.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/hwbm7w14zi8wfnt/history.png" group-title="KNOWLEDGE", History 
-http://testfunctionlive.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png", Discovery Channel
 #https://bit.ly/49uPR6w
@@ -1816,37 +1747,37 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/2006
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/ylzmz2903l4ej49/lovenature.png", Love Nature
-http://testfunctionlive.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:0 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_460.png" , Outdoor
-http://testfunctionlive.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/1yhz6ux66qz5dzb/bbcearth.png", BBC Earth
-http://testfunctionlive.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/jrlor4rjw4jfuh5/crime%2B.png", Crime Investigation
-http://testfunctionlive.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/jrij9892nnbldbw/cgtn.png", CGTN Documentary
-http://testfunctionlive.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://dl.dropboxusercontent.com/s/rz7mlx4p2e9y1qn/besmart.png", BeSmart
-#http://testfunctionlive.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd|Referer=https://www.visionplus.id/
+#https://cempedak-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd|Referer=https://www.visionplus.id/
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="GlobalTrekker.id"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSatDEwE7Vp4456PaLZAjISSwxhTKYQxRkd8w&usqp=CAU" group-title="KNOWLEDGE", Global Trekker
-https://testfunctionlive.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/g5hysiza546nw0q/tvedukasi.png" group-title="KNOWLEDGE", TV Edukasi
 #http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
@@ -1906,6 +1837,8 @@ https://wildearth-roku.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/x0le4mg2p7c1pd0/Screenshot_20230214_202609_Dropbox.jpg" group-title="KNOWLEDGE",Xplore
 https://xplore-roku.amagi.tv/playlist720-p.m3u8
+
+
 
 
 
@@ -2184,7 +2117,5 @@ http://j.mp/2bFREcc
 #######################################
 ############---VOD CAMPURAN-----#######
 #######################################
-
-
 
 
