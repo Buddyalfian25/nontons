@@ -416,11 +416,18 @@ https://stream.hownetwork.xyz/xxx/barbie-magic-pegasus-3-d-2005-dvdrip/1/480.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/K9w8900.jpeg" group-title="VOD KIDS", MINIONS (2015) 
 https://stream.hownetwork.xyz/xxx/minions-2015-bluray/7/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/u85Uso7.jpeg" group-title="VOD KIDS", DESPICABLE ME 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/u85Uso7.jpeg" group-title="VOD KIDS", DESPICABLE ME 1
 https://stream.hownetwork.xyz/xxx/despicable-me-2010-bluray/6/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/XpwfyPS.jpeg" group-title="VOD KIDS", DESPICABLE ME 2
 https://stream.hownetwork.xyz/xxx/despicable-2-2013-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/R741zAT.jpeg" group-title="VOD KIDS", DESPICABLE ME 3
+https://cdn7iv.diebutx.com/ownhls/2020/9601884499c90032af35dcdf98e51fe0/360p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/K3sXKOu.jpeg" group-title="VOD KIDS", DESPICABLE ME 4
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/Despicable.Me.4.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kYWWprs.jpeg" group-title="VOD KIDS", LEGEND OF KUNGFU RABBIT 
 https://stream.hownetwork.xyz/xxx/legend-of-kung-fu-rabbit-2011-bluray/16/480.m3u8
