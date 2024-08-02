@@ -543,8 +543,10 @@ https://www.dropbox.com/scl/fi/nbilgpi5htr1slhrsf7t2/Tanduk-setan.mp4?rlkey=apu7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a24RHIp.jpeg" group-title="VOD HOROR", Kereta Berdarah
 https://www.dropbox.com/scl/fi/lt42pj5904ydr36v61432/Kereta_Berdarah_2024.mp4?rlkey=nozw7p6jq3geprlkcskqks0ba&dl=1
 
-VOD INDO
 
+##########################
+#####----VOD INDO----#####
+##########################
 
 
 #EXTINF:-1 group-title="VOD INDO",12 Cerita Glen Anggara
@@ -823,15 +825,6 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 ############################
 ######---HBO MAXTREAM---#####
 ############################
-
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/hbo.png" group-title="HBO Maxtream", HBO (Maxstream)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
 
 
 
