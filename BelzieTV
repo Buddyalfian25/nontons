@@ -330,7 +330,7 @@ https://ggpjq6gmqddb.hgagecdn.com/hls2/01/01895/9w1o5xqkrvvz_,l,n,.urlset/index-
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD MOVIES", 5cm
 https://nzxfhnnl6es7.hgagecdn.com/hls2/01/01895/smlwyufvjxtj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=d26QLo-v1PYOQey3ZBqJdXGKwI4lHlw25ABm7rNKhHU&s=1721663733&e=129600&f=9478356&srv=jdou5wo6ffta&i=0.4&sp=500&p1=jdou5wo6ffta&p2=jdou5wo6ffta&asn=7713
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Dune : Part Two
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/PrPa0dK.jpeg" group-title="VOD MOVIES", Dune : Part Two
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Dune.Part.Two.2024.mp4/tracks-v1a1/mono.m3u8
 
 ###############################
@@ -547,6 +547,9 @@ https://www.dropbox.com/scl/fi/lt42pj5904ydr36v61432/Kereta_Berdarah_2024.mp4?rl
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OCVNIQI.jpeg" group-title="VOD HOROR", Badarawuhi di Desa Penari
 https://www.dropbox.com/scl/fi/o3lw1cxy37yqskyjsn7l7/Nonton-Download-Film-Badarawuhi-Di-Desa-Penari-2024-Streaming-Movie-Bioskop.mp4?rlkey=ykmzklli7wpru782voms4hf9f&dl=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DGKehWH.jpeg" group-title="VOD HOROR", Jurnal Risa
+https://up27.darkibox.com/hls2/02/00669/t281d2que6a6_o/index-v1-a1.m3u8?t=0505UaE_UYUJbVy4KZosZDxm6nCH0jtgYTow7DzVF-w&s=1722820147&e=43200&f=3347702&i=0.0&sp=0
 
 
 ##########################
