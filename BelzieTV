@@ -345,10 +345,7 @@ https://stream.hownetwork.xyz/xxx/deadpool-wolverine-2024-hdcam_X_a495744d/22/48
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/DYYU8RC.jpeg" group-title="VOD MOVIES", Dungeons And Dragon
 https://stream.hownetwork.xyz/xxx/dungeons-dragons-honor-among-thieves-2023-webdl/10/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg" group-title="VOD MOVIES", The Flash
-https://gdriveplayer.to/hlsnew2.php?type=720&id=cVg1VWswNTVscWRhWnJtYXVLZ0U5MUxiSjk1T2RneGl3U0xMS3FwRFRrVFpKQmNWM3pTZVVtYmFqcDVIVTJZcg==.m3u8&name=file.m3u8
-
-#EXTINF:-1 type="movie" group-title="Vod Movies" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg",The Flash 2023
+#EXTINF:-1 type="movie" group-title="VOD MOVIES" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg",The Flash 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
