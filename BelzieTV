@@ -342,8 +342,12 @@ https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/09/task1/53a
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="VOD MOVIES", Deadpool & Wolverine
 https://stream.hownetwork.xyz/xxx/deadpool-wolverine-2024-hdcam_X_a495744d/22/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/DYYU8RC.jpeg" group-title="VOD MOVIES", Dungeons And Dragon
-https://stream.hownetwork.xyz/xxx/dungeons-dragons-honor-among-thieves-2023-webdl/10/480.m3u8
+#EXTINF:-1 type="movie" group-title="VOD MOVIES" tvg-logo="https://i.imgur.com/DYYU8RC.jpeg", Dungeons & Dragons: Honor Among Thieves 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9256c2319bee1155eb1ab05ddb2848c:e9940878b41a3be09407bf86111fc3c1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 #EXTINF:-1 type="movie" group-title="VOD MOVIES" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg",The Flash 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
