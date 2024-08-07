@@ -348,7 +348,12 @@ https://stream.hownetwork.xyz/xxx/dungeons-dragons-honor-among-thieves-2023-webd
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg" group-title="VOD MOVIES", The Flash
 https://gdriveplayer.to/hlsnew2.php?type=720&id=cVg1VWswNTVscWRhWnJtYXVLZ0U5MUxiSjk1T2RneGl3U0xMS3FwRFRrVFpKQmNWM3pTZVVtYmFqcDVIVTJZcg==.m3u8&name=file.m3u8
 
-
+#EXTINF:-1 type="movie" group-title="Vod Movies" tvg-logo="https://i.imgur.com/mGxsqKh.jpeg",The Flash 2023
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
 ###############################
 ######------VOD KIDS-----######
