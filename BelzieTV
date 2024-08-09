@@ -341,9 +341,11 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/09/Furiosa.A.M
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kF0Y9aE.jpeg" group-title="VOD MOVIES", Bluee Beetle
 https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/08/09/task1/53af9ecaba1a1ce1de6bfe25d8c47106/360p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="VOD MOVIES", Deadpool & Wolverine
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="VOD MOVIES", Deadpool 1
 https://storage.dewanonton.online/hls/94bff211-2ac5-414c-93a0-411a06a93ba5.mp4/index.m3u8
-https://j1tnldsx1hj6.hgagecdn.com/hls2/01/02087/rgf9ezznnxhi_,l,n,.urlset/index-f1-v1-a1.m3u8?t=QDnZ4k6PqzWm0QfWWKS_O3uF0A9rz-q1Jd5bJh7Ths4&s=1723129143&e=129600&f=10438149&srv=I9AHrxRGdfEW&i=0.4&sp=500&p1=I9AHrxRGdfEW&p2=I9AHrxRGdfEW&asn=7713
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/QqJM2ur.jpeg" group-title="VOD MOVIES", Deadpool & Wolverine
+https://stream.hownetwork.xyz/xxx/deadpool-wolverine-2024-hdcam_X_a495744d/22/480.m3u8
 
 #EXTINF:-1 type="movie" group-title="VOD MOVIES" tvg-logo="https://i.imgur.com/DYYU8RC.jpeg", Dungeons & Dragons: Honor Among Thieves 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
