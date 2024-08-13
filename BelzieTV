@@ -520,6 +520,16 @@ https://stream.hownetwork.xyz/xxx/inside-out-2015-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/gCnMMqn.jpeg" group-title="VOD KIDS", Inside Out 2
 https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/1/images/1689998978527-images_-_2023-07-22T110932.962/1689998978527-images_-_2023-07-22T110932.962.jpeg" group-title="VOD KIDS", Doraemon Nobita's Sky Utopia (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-sky-utopia-2023-bluray/16/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://dema737ch.com/wp-content/uploads/2023/04/doraemon_nobitas_little_star_wars_waifu2x_art_noise3_scale_waifu2x_art_noise3_scale-1024x575.png" group-title="VOD KIDS", Doraemon Nobita The Little Star Wars (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray/2/480.m3u8
+
+
+
 ###############################
 ######------VOD HOROR-----#####
 ###############################
@@ -803,6 +813,49 @@ https://pmcd2tpprgct.hgagecdn.com/hls2/01/02030/u836ogctm73x_,l,n,h,.urlset/inde
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CTYK91H.jpeg" group-title="VOD INDO", Layangan Putus Movie
 https://www.dropbox.com/scl/fi/rsrb9wr6okk74n218sywo/Nonton-Download-Film-Layangan-Putus-The-Movie-2023-Streaming-Movie-Bioskop.mp4?rlkey=7hobqmn4cjrhowsrizwosyg25&st=wf8wolj2&dl=1
+
+
+#######################################
+-----------🏆OLYMPIC LIVE 1------------
+#######################################
+
+#EXTM3U
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 1 FHD
+http://918392487771290348.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290348.ts
+
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 1 HD
+http://918392487771290349.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290349.ts
+
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1 SD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 1 SD
+http://918392487771290350.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290350.ts
+
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 2 FHD
+http://918392487771290351.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290351.ts
+
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 2 HD
+http://918392487771290352.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290352.ts
+
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2 SD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 2 SD
+http://918392487771290353.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290353.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 4 HD
+http://918392487771290354.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290354.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 5 HD
+http://918392487771290355.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290355.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 6 HD
+http://918392487771290356.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290356.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 8 HD
+http://918392487771290357.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290357.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 7 HD
+http://918392487771290783.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290783.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9 HD" tvg-logo="https://i.imgur.com/LZrFLR8.png" group-title="🏆OLYMPIC LIVE 1",ES: EUROSPORT 9 HD
+http://918392487771290784.ofre802.xyz:80/live/fe122161/XrDrkkDPds3r/290784.ts
+
 
 ######################
 -----LIGA INGGRIS-----
