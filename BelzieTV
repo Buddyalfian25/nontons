@@ -359,13 +359,10 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
-https://stream.hownetwork.xyz/xxx/the-flash-2023-bluray/5/480.m3u8
+https://storage.dewanonton.online/hls/cd6ccbc7-a890-4026-bb1c-783feced8f3e.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Lq3tW3r.jpeg" group-title="VOD MOVIES", The Great Wall
-https://stream.hownetwork.xyz/xxx/great-wall-2016-bluray/7/480.m3u8
-https://aa.bigtimedelivery.net/_v13/e831282affb4bf77f15c1d2f6d3af4064e22e3307f1474c39f11f9ebd4813025605b4568c45ee0e93de3d75a5603d5ca75d2157b26ff1d702d9904912c63162829f43aeb28d20845d44225cd9b6e9be417f579f35601b6e361901dbfabd1aaa3aa2843c01cc9d3eba40eb553bb9c865fb3d4c96aadc48299d918b5e347562b68a2cb56890c7cf7fc4c9248a2a389b3ce/720/index.m3u8
-
+https://storage.dewanonton.online/hls/92e0db53-a875-4a3a-a9da-b5923cf2ec3d.mp4/index.m3u8
 
 ###############################
 ######------VOD KIDS-----######
