@@ -360,6 +360,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074d
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
+https://stream.hownetwork.xyz/xxx/the-flash-2023-bluray/5/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Lq3tW3r.jpeg" group-title="VOD MOVIES", The Great Wall
 https://stream.hownetwork.xyz/xxx/great-wall-2016-bluray/7/480.m3u8
