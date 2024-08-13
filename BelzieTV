@@ -1733,16 +1733,16 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 1
-http://152.89.62.76:8880/live/D12m1495/23236986/1722.ts
+https://stream1.freetv.fun/assp-1-1.ctv
 
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 2
-http://152.89.62.76:8880/live/D12m1495/23236986/1721.ts
+https://stream1.freetv.fun/assp2-5.ctv
 
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 3
-http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts
+https://hls.watchtv.uk/Astro3/playlist-16.m3u8a?t=1722763701&token=Fuck
 
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 4
-http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
+https://hls.watchtv.uk/go_assp4/playlist-39.m3u8a?t=1722763754&token=Fuck
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
