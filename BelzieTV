@@ -364,6 +364,13 @@ https://storage.dewanonton.online/hls/cd6ccbc7-a890-4026-bb1c-783feced8f3e.mp4/i
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Lq3tW3r.jpeg" group-title="VOD MOVIES", The Great Wall
 https://storage.dewanonton.online/hls/92e0db53-a875-4a3a-a9da-b5923cf2ec3d.mp4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/eD3BeEi.jpeg" group-title="VOD MOVIES", Crows Zero 1
+https://gdriveplayer.to/hlsnew2.php?type=720&id=a3BUdXNpU2xlMXh6NkEybDdNanhyQ2VkSVVBYlJRWFdIWWNHdkwxbXVJZVR5ZU1TMjU5UkdTSkNtSzFjY29hUw==.m3u8&name=file.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7xyMsur.jpeg" group-title="VOD MOVIES", Crows Zero 2
+https://gdriveplayer.to/hlsnew2.php?type=720&id=WkR3bHhQdjZYYm9ZeEt1TG1jWUxrZTIybU9hZkxIWURLZk1HL2g3dlgxeXkrS3ovRFh4VjNFZ3BCRmh0Y3MyUg==.m3u8&name=file.m3u8
+
+
 ###############################
 ######------VOD KIDS-----######
 ###############################
