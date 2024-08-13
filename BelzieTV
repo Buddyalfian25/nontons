@@ -1733,16 +1733,16 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 1
-https://stream1.freetv.fun/assp-1-1.ctv
+http://iptvtree.net:8080/AmirBilali/76448035/146068
 
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 2
-https://stream1.freetv.fun/assp2-5.ctv
+http://iptvtree.net:8080/AmirBilali/76448035/157556
 
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 3
-https://hls.watchtv.uk/Astro3/playlist-16.m3u8a?t=1722763701&token=Fuck
+http://iptvtree.net:8080/AmirBilali/76448035/157557
 
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 4
-https://hls.watchtv.uk/go_assp4/playlist-39.m3u8a?t=1722763754&token=Fuck
+http://iptvtree.net:8080/AmirBilali/76448035/157558
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
