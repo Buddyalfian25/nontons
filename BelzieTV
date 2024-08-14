@@ -209,7 +209,13 @@ https://www.dropbox.com/scl/fi/ci5xmldcafd4hqlhptufk/lv_0_20231206121322.mp4?rlk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
+#############################
+------⚽️ LIVE EVENT ⚽️-------
+#############################
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="foxdeportes.us" tvg-name="[US] FOX DEPORTES HD" tvg-logo="https://i.imgur.com/oHF342o.png" group-title="⚽️ LIVE EVENT ⚽️",Al Taawon vs Al Nassr Live 1
+http://line.best-pro.cc:80/live/67A383/98D8C1/362812.m3u8
 
 ###################################
 #######-----VOD MOVIES-----########
