@@ -538,7 +538,8 @@ https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-sky-utopia-2023-blu
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray/2/480.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kOUmgoK.jpeg" group-title="VOD KIDS", Tangled Ever After
+https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 
 ###############################
 ######------VOD HOROR-----#####
