@@ -213,13 +213,23 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 ------⚽️ LIVE EVENT ⚽️-------
 #############################
 
-#EXTM3U
-#EXTINF:-1 tvg-ID="foxdeportes.us" tvg-name="[US] FOX DEPORTES HD" tvg-logo="https://i.imgur.com/oHF342o.png" group-title="⚽️ LIVE EVENT ⚽️",Al Taawon vs Al Nassr Live 1
-http://line.best-pro.cc:80/live/67A383/98D8C1/362812.m3u8
 
 ###################################
 #######-----VOD MOVIES-----########
 ###################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/92iOVwI.jpeg" group-title="VOD MOVIES", Train To Busan (2026) 
+https://cdn7iv.diebutx.com/ownhls/2020/1d4b469925de8de70de908ffd3ef80d4/480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/CeEWyH5.jpeg" group-title="VOD MOVIES", Jurassic Triangle (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/05/Jurassic.Triangle.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/XT7FGdV.jpeg" group-title="VOD MOVIES", Shark Warning (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/05/Shark.Warning.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/u870P39.jpeg" group-title="VOD MOVIES", The Last Breath (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/12/The.Last.Breath.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/F5fMeqP.jpeg" group-title="VOD MOVIES", ROAD HOUSE 2024
 https://stream.hownetwork.xyz/xxx/road-house-2024-webdl_X_64e75f3f/1000/480.m3u8
