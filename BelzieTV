@@ -558,6 +558,12 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhgPV2a.jpeg" group-title="VOD HOROR", AKU TAHU KAPAN KAMU MATI : DESA BUNUH DIRI
+https://data04.streamku.xyz/mv/ban/19-Aku_Tahu_Kapan_Kamu_Mati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zi5MzNv.jpeg" group-title="VOD HOROR", PANGGONON WINGIT
+https://data04.streamku.xyz/mv/ban/16-Panggonan_Wingit_2023.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xEufTY6.jpeg" group-title="VOD HOROR", SIKSA NERAKA
 https://data04.streamku.xyz/mv/ban/15-Siksa_Neraka_2023.mp4
 
