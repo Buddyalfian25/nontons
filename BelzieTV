@@ -558,24 +558,30 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
-#EXTINF:-1 group-title="VOD HOROR", MUNKAR (2024) 
-https://qasplk2024ih.pradoi.com/hls2/01/04457/43hrkyseinkh_n/index-v1-a1.m3u8?t=auLO-yH-xQcIwM8HvI0HuLzdHncXEQbY5NyTT3ns0E0&s=1723910523&e=129600&f=22289856&srv=fWU7Y5AuCMVPqD3M&i=0.0&sp=500&p1=fWU7Y5AuCMVPqD3M&p2=fWU7Y5AuCMVPqD3M&asn=7713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGPq05V.jpeg" group-title="VOD HOROR", MUNKAR (2024) 
 https://data04.streamku.xyz/mv/ban/7-Munkar.2024.mp4
 
-#EXTINF:-1 group-title="VOD HOROR",40 Hari Bangkitnya Pocong
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKCDuS5.jpeg" group-title="VOD HOROR", SIKSA KUBUR
+https://data01.mv21.cc/mv/ban/8-Siksa_Kubur_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/et9QRk0.jpeg" group-title="VOD HOROR", Bangku Kosong
+https://data04.streamku.xyz/mv/ban/19-Bangku_Kosong_Ujian_Terakhir_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIkFguB.jpeg" group-title="VOD HOROR", Sijjin (2023) 
+https://data04.streamku.xyz/mv/ban/18-Sijjin_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIEFM46.jpeg" group-title="VOD HOROR", TRINIL (2024) 
+https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",40 Hari Bangkitnya Pocong
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/23002700.jpg" group-title="VOD HOROR",Para Betina Pengikut Iblis (2023)
 https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812d73c1c5411a88ea9317be76e5_video_720p_converted.mp4
+https://data04.streamku.xyz/mv/ban/24-Para_Betina_Pengikut_Iblis_2023.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="VOD HOROR",Anak Titipan Setan (2023)
 https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", Kuntilanak 3
-https://www.googleapis.com/drive/v3/files/1RflA9Ccn9B47BN9eGLlzfkY4l5F9ZECH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", Kuntilanak 2
-https://www.dropbox.com/scl/fi/dgppuy44bjd8oosdggaex/Kuntilanak_2_2019.mp4?rlkey=6u233yxcjd3d22p37nllhz3ml&dl=1
 
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuyang the Movie
 https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
