@@ -665,15 +665,12 @@ https://up27.darkibox.com/hls2/02/00669/t281d2que6a6_o/index-v1-a1.m3u8?t=6gqiTc
 ##########################
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Bv11tHL.jpeg" group-title="VOD INDO", Ayat-Ayat Cinta 1
-https://n1pbzeat3faz.hgagecdn.com/hls2/01/01895/fx4woy46ibhu_,l,n,.urlset/index-f1-v1-a1.m3u8
-
+https://www.dropbox.com/scl/fi/wui86fml363twdatu7kb7/driveid-117177-terbit21-com-ayat-ayat-cinta-2008.mp4?rlkey=bd6jvol2ysbvbaupt3sbblhi5&st=jb79xdrn&dl=1
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AZctiqT.jpeg" group-title="VOD INDO", Ayat-Ayat Cinta 2
+https://www.dropbox.com/scl/fi/b4qhju33pl75djbl07pas/Nonton-Ayat-Ayat-Cinta-2-Subtitle-Indonesia.mp4?rlkey=v8s5n2rqzpz7zrb2vfcvqb2qo&st=bvzyb1mz&dl=1
 
-#EXTINF:-1 group-title="VOD INDO" tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/jZFekL0.jpeg", 5cm
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://gdriveplayer.to/hlsnew2.php?type=720&id=aVBnMCs5ZmlPMGw3a0FwTDJ0YmxPeXFoQ250VGpONlQ1R0ZLOTkzYk5GRkxGRW9hQUpiVkVBK1l5U2dzTFErWg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD INDO", 5 CM
+https://www.dropbox.com/scl/fi/txphstmm9zk890vnreyx4/Nonton-5-cm-Subtitle-Indonesia-CinemaXXI.mp4?rlkey=824crheq40gfv0kcz3fizsfyu&st=k77h3aub&dl=1
 
 #EXTINF:-1 group-title="VOD INDO",12 Cerita Glen Anggara
 https://www.googleapis.com/drive/v3/files/1RJyBA6pjWdt0ArTcZVIy0g4j0icpsFfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -888,8 +885,7 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 https://data04.streamku.xyz/mv/ban/7-Pasutri.Gaje.2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CTYK91H.jpeg" group-title="VOD INDO", Layangan Putus Movie
-https://www.dropbox.com/scl/fi/rsrb9wr6okk74n218sywo/Nonton-Download-Film-Layangan-Putus-The-Movie-2023-Streaming-Movie-Bioskop.mp4?rlkey=7hobqmn4cjrhowsrizwosyg25&st=wf8wolj2&dl=1
-
+https://data04.streamku.xyz/mv/ban/14-Layangan_Putus_The_Movie_2023.mp4
 
 
 
