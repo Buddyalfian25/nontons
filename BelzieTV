@@ -558,6 +558,11 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tJtaTRmI9USyD9GR079DISbE7t0=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5961/makmum-37a39f.jpg" group-title="VOD HOROR", MAKMUM
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFlpSWc.jpeg" group-title="VOD HOROR", MAKMUM 2
+https://data04.streamku.xyz/mv/ban/25-Makmum_2_2021.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1cGuv7M.jpeg" group-title="VOD HOROR", PAMALI
 https://data04.streamku.xyz/mv/ban/22-Pamali_2022.mp4
