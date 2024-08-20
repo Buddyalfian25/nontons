@@ -209,11 +209,32 @@ https://www.dropbox.com/scl/fi/ci5xmldcafd4hqlhptufk/lv_0_20231206121322.mp4?rlk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
 https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
 
-
+#############################
+------⚽️ LIVE EVENT ⚽️-------
+#############################
 
 ###################################
 #######-----VOD MOVIES-----########
 ###################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/ghvC80H.jpeg" group-title="VOD MOVIES", WINNIE THE POOH : BLOOD AND HONEY 2
+https://data01.mv21.cc/mv/han/68b-Winnie-The-Pooh-Blood-And-Honey-2-2024.mp4
+
+#EXTINF:-1 type="movie" group-logo="https://dewanonton.online/static/img/logo-dewanonton.png" group-title="VOD MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", Train To Busan Presents: Peninsula (Bando) (2020)
+https://storage.dewanonton.online/hls/23cd34da-8ef7-4262-986e-d1550d68ce66.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/92iOVwI.jpeg" group-title="VOD MOVIES", Train To Busan (2016) 
+https://cdn7iv.diebutx.com/ownhls/2020/1d4b469925de8de70de908ffd3ef80d4/480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/CeEWyH5.jpeg" group-title="VOD MOVIES", Jurassic Triangle (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/05/Jurassic.Triangle.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/XT7FGdV.jpeg" group-title="VOD MOVIES", Shark Warning (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Aug/05/Shark.Warning.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/u870P39.jpeg" group-title="VOD MOVIES", The Last Breath (2024) 
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/12/The.Last.Breath.2024.mp4/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/F5fMeqP.jpeg" group-title="VOD MOVIES", ROAD HOUSE 2024
 https://stream.hownetwork.xyz/xxx/road-house-2024-webdl_X_64e75f3f/1000/480.m3u8
@@ -254,7 +275,7 @@ https://storage.dewanonton.online/hls/6f927f75-98e9-438e-9edc-866cd7cad082.mp4/i
 https://storage.dewanonton.online/hls/24e80423-4650-40ff-98e5-df67ad44e121.mp4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kbyARMR.jpeg" group-title="VOD MOVIES", DEEP FEAR
-https://pdrz.vid109d224.site/_v2-wweo/12a3c523f8105800ed8c394685aeeb0b962efa5c16bbbbec42477baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a4385071f6d731c716e30918b40813c1f0ab6b4722152631822f564667c8d1dde459cba47ece7a11a657116ca602/h/dafbdccca1/b;15a38634f803584ba8926411d7bee906856cab0654b5b8.m3u8
+https://cdn7iv.diebutx.com/bighlsstorage/2021/st7.google.co/2023/10/10/task1/2f3f8e39f6880361b51a07c5e99f38b9/360p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/MgtBPjX.jpeg" group-title="VOD MOVIES", TWILIGHT 1
 https://storage.dewanonton.online/hls/421ca1ef-f9c8-4c0f-bf45-16087cc03336.mp4/index.m3u8
@@ -308,7 +329,6 @@ https://stream.hownetwork.xyz/xxx/i-am-legend-2007-bluray/3/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/cAmMDwU.jpeg" group-title="VOD MOVIES", Kingdom Of The Planet Of The Apes (2024) 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/02/Kingdom.of.the.Planet.of.the.Apes.2024.mp4/tracks-v1a1/mono.m3u8
-https://stream.hownetwork.xyz/xxx/kingdom-of-the-planet-of-the-apes-2024-webdl_X_b2f3fa82/22/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/FlxiAuj.jpeg" group-title="VOD MOVIES", Godzilla X Kong The New Empire (2024) 
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/May/07/Godzilla.x.Kong.The.New.Empire.2024.mp4/tracks-v1a1/mono.m3u8
@@ -322,12 +342,6 @@ https://stream.hownetwork.xyz/xxx/descent-part-2-2009-bluray_X_cfbc27bb/1000/480
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/yyjl3pn.jpeg" group-title="VOD MOVIES", Bad Boys Ride Or Die
 https://stream.hownetwork.xyz/xxx/bad-boys-ride-or-die-2024-hdcam_X_3447b05d/22/480.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Bv11tHL.jpeg" group-title="VOD MOVIES", Ayat-Ayat Cinta 1
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AZctiqT.jpeg" group-title="VOD MOVIES", Ayat-Ayat Cinta 2
-
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD MOVIES", 5cm
-https://iahhu7cuwkpf.hgagecdn.com/hls2/01/01895/smlwyufvjxtj_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=ElkZU1wRcc0ZKkA4BO63Upw_cmKTtAaoWWzjaVd5kxg&s=1723049819&e=129600&f=9478356&srv=st46KlqWmALq&i=0.4&sp=500&p1=st46KlqWmALq&p2=st46KlqWmALq&asn=7713
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/PrPa0dK.jpeg" group-title="VOD MOVIES", Dune : Part Two
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Apr/03/Dune.Part.Two.2024.mp4/tracks-v1a1/mono.m3u8
@@ -360,7 +374,21 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c3794dd940521074db6e41_hbovodhd/dash0/IDN_DOLBY_index.mpd
+https://storage.dewanonton.online/hls/cd6ccbc7-a890-4026-bb1c-783feced8f3e.mp4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Lq3tW3r.jpeg" group-title="VOD MOVIES", The Great Wall
+https://storage.dewanonton.online/hls/92e0db53-a875-4a3a-a9da-b5923cf2ec3d.mp4/index.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD MOVIES" tvg-logo="https://i.imgur.com/eD3BeEi.jpeg", Crows Zero 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3828dfa474ecbb86ac6e3a9b370abdde:05f5c24805c2fab927d96575bdc20237
+https://hls2.dewanonton.online/vultr/jUHfnuywXgLWJ/hls-stream.m3u8
+https://stream.hownetwork.xyz/xxx/crows-zero-2007-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7xyMsur.jpeg" group-title="VOD MOVIES", Crows Zero 2
+https://cdn17.muncoday.com/data/6/07/EzL1tqohVNhBlO4UlbXR8TRuDGeVqdOrzcj/EzL1tqohVNhBlO4UlbXR8TRuDGeVqdOrzcj480.m3u8
 
 ###############################
 ######------VOD KIDS-----######
@@ -517,31 +545,104 @@ https://stream.hownetwork.xyz/xxx/inside-out-2015-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/gCnMMqn.jpeg" group-title="VOD KIDS", Inside Out 2
 https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/1/images/1689998978527-images_-_2023-07-22T110932.962/1689998978527-images_-_2023-07-22T110932.962.jpeg" group-title="VOD KIDS", Doraemon Nobita's Sky Utopia (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-sky-utopia-2023-bluray/16/480.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://dema737ch.com/wp-content/uploads/2023/04/doraemon_nobitas_little_star_wars_waifu2x_art_noise3_scale_waifu2x_art_noise3_scale-1024x575.png" group-title="VOD KIDS", Doraemon Nobita The Little Star Wars (2022)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+https://stream.hownetwork.xyz/xxx/doraemon-the-movie-nobitas-little-star-wars-2021-2022-bluray/2/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kOUmgoK.jpeg" group-title="VOD KIDS", Tangled Ever After
+https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
+
 ###############################
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfaWKn7.jpeg" group-title="VOD HOROR", JANIN IBLIS NERAKA
+https://data04.streamku.xyz/mv/ban/17-Janin_Iblis_Neraka_2023.mp4
 
-#EXTINF:-1 group-title="VOD HOROR",40 Hari Bangkitnya Pocong
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4X4pRli.jpeg" group-title="VOD HOROR", SARANJANA KOTA GHAIB
+https://data04.streamku.xyz/mv/ban/13-Saranjana_Kota_Ghaib_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWs1ySS.jpeg" group-title="VOD HOROR", KUTUKAN SEMBILAN SETAN
+https://data04.streamku.xyz/mv/ban/13-Kutukan_Sembilan_Setan_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvU7QiM.jpeg" group-title="VOD HOROR", KUTUKAN PETI MATI
+https://data04.streamku.xyz/mv/ban/15-Onrust_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIROpUP.jpeg" group-title="VOD HOROR", KISAH TANAH JAWA POCONG GUNDUL
+https://data01.mv21.cc/mv/ban/9-Kisah_Tanah_Jawa_Pocong_Gundul_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tJtaTRmI9USyD9GR079DISbE7t0=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5961/makmum-37a39f.jpg" group-title="VOD HOROR", MAKMUM
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFlpSWc.jpeg" group-title="VOD HOROR", MAKMUM 2
+https://data04.streamku.xyz/mv/ban/25-Makmum_2_2021.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1cGuv7M.jpeg" group-title="VOD HOROR", PAMALI
+https://data04.streamku.xyz/mv/ban/22-Pamali_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwGGe8C.jpeg" group-title="VOD HOROR", SEHIDUP SEMATI
+https://data04.streamku.xyz/mv/ban/10-Sehidup_Semati_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRDBYl4.jpeg" group-title="VOD HOROR", RITUAL TUMBAL TERAKHIR
+https://data04.streamku.xyz/mv/ban/22-Ritual_Tumbal_Terakhir_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBT8zoQ.jpeg" group-title="VOD HOROR", KULTUS IBLIS
+https://data04.streamku.xyz/mv/ban/18-Kultus_Iblis_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nkvu8XN.jpeg" group-title="VOD HOROR", IBLIS TERKEJAM PENAGIH JANJI
+https://data04.streamku.xyz/mv/ban/20-Kajiman_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zL7Zixa.jpeg" group-title="VOD HOROR", TASBIH KOSONG
+https://data04.streamku.xyz/mv/ban/21-Tasbih_Kosong_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xbnKScB.jpeg" group-title="VOD HOROR", SOSOK KETIGA
+https://data04.streamku.xyz/mv/ban/21-Sosok_Ketiga_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BsQD3ma.jpeg" group-title="VOD HOROR", DIWE : HUTAN LARANGAN
+https://data04.streamku.xyz/mv/ban/25-Diwe_Hutan_Larangan_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/abzfh5T.jpeg" group-title="VOD HOROR", PAMALI DUSUN POCONG
+https://data04.streamku.xyz/mv/ban/15-Pamali_Dusun_Pocong_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yzr82U0.jpeg" group-title="VOD HOROR", PEMUKIMAN SETAN
+https://data01.mv21.cc/mv/ban/9-Panduan_Mempersiapkan_Perpisahan_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhgPV2a.jpeg" group-title="VOD HOROR", AKU TAHU KAPAN KAMU MATI : DESA BUNUH DIRI
+https://data04.streamku.xyz/mv/ban/19-Aku_Tahu_Kapan_Kamu_Mati.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zi5MzNv.jpeg" group-title="VOD HOROR", PANGGONAN WINGIT
+https://data04.streamku.xyz/mv/ban/16-Panggonan_Wingit_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEufTY6.jpeg" group-title="VOD HOROR", SIKSA NERAKA
+https://data04.streamku.xyz/mv/ban/15-Siksa_Neraka_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cGPq05V.jpeg" group-title="VOD HOROR", MUNKAR (2024) 
+https://data04.streamku.xyz/mv/ban/7-Munkar.2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKCDuS5.jpeg" group-title="VOD HOROR", SIKSA KUBUR
+https://data01.mv21.cc/mv/ban/8-Siksa_Kubur_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/et9QRk0.jpeg" group-title="VOD HOROR", Bangku Kosong
+https://data04.streamku.xyz/mv/ban/19-Bangku_Kosong_Ujian_Terakhir_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cIkFguB.jpeg" group-title="VOD HOROR", Sijjin (2023) 
+https://data04.streamku.xyz/mv/ban/18-Sijjin_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIEFM46.jpeg" group-title="VOD HOROR", TRINIL (2024) 
+https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",40 Hari Bangkitnya Pocong
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.cgv.id/uploads/movie/compressed/23002700.jpg" group-title="VOD HOROR",Para Betina Pengikut Iblis (2023)
-https://drive.dubbindo.xyz/upload/videos/2023/06/B5RfRxsexxP552xjEgbY_16_5f71812d73c1c5411a88ea9317be76e5_video_720p_converted.mp4
+https://data04.streamku.xyz/mv/ban/24-Para_Betina_Pengikut_Iblis_2023.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="VOD HOROR",Anak Titipan Setan (2023)
 https://drive.dubbindo.xyz/upload/videos/2023/06/cHgBLojGJnGfIWs9kCRa_21_9f59c4a13f3bea347d52089b4b908303_video_720p_converted.mp4
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L3DKSN7.jpeg" group-title="VOD HOROR", Bisikan Jenazah
-https://pikao7r5wkee.enaak-cdn.com/hls2/01/01268/2a52d1vx2gqs_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=-Wtf4e6TONiukB-Rg27I4Ef_2Il1GWSQ1L6YGJISed8&s=1721224545&e=129600&f=6341436&srv=xcSmCe7bTlvM&i=0.4&sp=500&p1=xcSmCe7bTlvM&p2=xcSmCe7bTlvM&asn=7713
-
-
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", Kuntilanak 3
-https://www.googleapis.com/drive/v3/files/1RflA9Ccn9B47BN9eGLlzfkY4l5F9ZECH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-https://drive.google.com/file/d/1kGqcoqsTvB8luwB28mAj3NR8YsWlaJRe/view?usp=drivesdk
-
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", Kuntilanak 2
-https://www.dropbox.com/scl/fi/dgppuy44bjd8oosdggaex/Kuntilanak_2_2019.mp4?rlkey=6u233yxcjd3d22p37nllhz3ml&dl=1
 
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuyang the Movie
 https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -563,19 +664,19 @@ https://stream.hownetwork.xyz/xxx/pee-mak-2013-bluray/11/480.m3u8
 https://stream.hownetwork.xyz/xxx/nang-nak-1999-dvdrip/17/480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvvu42w.jpeg" group-title="VOD HOROR", Jagat Alam Gaib Sinden Gaib 
-https://www.dropbox.com/scl/fi/d4of237kqul4fzdaqmha8/Jagat_Alam_Gaib_Sinden_Gaib_2024_Sub_Indo.mp4?rlkey=ylrmvgntbivc30jkgsaqlmacu&dl=1
+https://data04.streamku.xyz/mv/ban/11-Jagat_Alam_Gaib_Sinden_Gaib_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYm1LcU.jpeg" group-title="VOD HOROR", Kuyang (2024) 
-https://www.dropbox.com/scl/fi/0w1dk98nyin53jp8ll9ja/Kuyang_2024_Sub_Indo.mp4?rlkey=l9jp00s6984473mfi37jjod2g&dl=1
+https://data01.mv21.cc/mv/ban/8-Kuyang_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owKUtB1.jpeg" group-title="VOD HOROR", Tanduk Setan
-https://www.dropbox.com/scl/fi/nbilgpi5htr1slhrsf7t2/Tanduk-setan.mp4?rlkey=apu73xqebgzu3bjwdyz2my7vw&dl=1
+https://data01.mv21.cc/mv/ban/7-Tanduk.Setan.2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a24RHIp.jpeg" group-title="VOD HOROR", Kereta Berdarah
-https://www.dropbox.com/scl/fi/lt42pj5904ydr36v61432/Kereta_Berdarah_2024.mp4?rlkey=nozw7p6jq3geprlkcskqks0ba&dl=1
+https://data04.streamku.xyz/mv/ban/7-Kereta.Berdarah.2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OCVNIQI.jpeg" group-title="VOD HOROR", Badarawuhi di Desa Penari
-https://www.dropbox.com/scl/fi/o3lw1cxy37yqskyjsn7l7/Nonton-Download-Film-Badarawuhi-Di-Desa-Penari-2024-Streaming-Movie-Bioskop.mp4?rlkey=ykmzklli7wpru782voms4hf9f&dl=1
+https://data01.mv21.cc/mv/ban/8-Badarawuhi_Di_Desa_Penari_2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DGKehWH.jpeg" group-title="VOD HOROR", Jurnal Risa
 https://up27.darkibox.com/hls2/02/00669/t281d2que6a6_o/index-v1-a1.m3u8?t=6gqiTc9wliUQ6zm6LtEvDDupbANCM6MVEVHvlLEoYt8&s=1722865151&e=43200&f=3347702&i=0.0&sp=0
@@ -585,6 +686,13 @@ https://up27.darkibox.com/hls2/02/00669/t281d2que6a6_o/index-v1-a1.m3u8?t=6gqiTc
 #####----VOD INDO----#####
 ##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Bv11tHL.jpeg" group-title="VOD INDO", Ayat-Ayat Cinta 1
+https://www.dropbox.com/scl/fi/wui86fml363twdatu7kb7/driveid-117177-terbit21-com-ayat-ayat-cinta-2008.mp4?rlkey=bd6jvol2ysbvbaupt3sbblhi5&st=jb79xdrn&dl=1
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AZctiqT.jpeg" group-title="VOD INDO", Ayat-Ayat Cinta 2
+https://www.dropbox.com/scl/fi/b4qhju33pl75djbl07pas/Nonton-Ayat-Ayat-Cinta-2-Subtitle-Indonesia.mp4?rlkey=v8s5n2rqzpz7zrb2vfcvqb2qo&st=bvzyb1mz&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD INDO", 5 CM
+https://www.dropbox.com/scl/fi/txphstmm9zk890vnreyx4/Nonton-5-cm-Subtitle-Indonesia-CinemaXXI.mp4?rlkey=824crheq40gfv0kcz3fizsfyu&st=k77h3aub&dl=1
 
 #EXTINF:-1 group-title="VOD INDO",12 Cerita Glen Anggara
 https://www.googleapis.com/drive/v3/files/1RJyBA6pjWdt0ArTcZVIy0g4j0icpsFfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -795,11 +903,13 @@ https://www.googleapis.com/drive/v3/files/1RiEfRSR55paBJwJjy6__oo8RHAnFpvLy?alt=
 #EXTINF:-1 group-title="VOD INDO",Zodiac: Apa Bintangmu?
 https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 group-title="VOD INDO", Pasutri Gaje (2024) 
-https://pmcd2tpprgct.hgagecdn.com/hls2/01/02030/u836ogctm73x_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=F8EV0gGRBaB5YNG-K6KPrprZmPNQBRE8ij6Ij8ptRU4&s=1723132827&e=129600&f=10168239&srv=yCdcGNsOcuCU&i=0.4&sp=500&p1=yCdcGNsOcuCU&p2=yCdcGNsOcuCU&asn=7713
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FRcHkC.jpeg" group-title="VOD INDO", Pasutri Gaje (2024) 
+https://data04.streamku.xyz/mv/ban/7-Pasutri.Gaje.2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CTYK91H.jpeg" group-title="VOD INDO", Layangan Putus Movie
-https://www.dropbox.com/scl/fi/rsrb9wr6okk74n218sywo/Nonton-Download-Film-Layangan-Putus-The-Movie-2023-Streaming-Movie-Bioskop.mp4?rlkey=7hobqmn4cjrhowsrizwosyg25&st=wf8wolj2&dl=1
+https://data04.streamku.xyz/mv/ban/14-Layangan_Putus_The_Movie_2023.mp4
+
+
 
 ######################
 -----LIGA INGGRIS-----
@@ -911,7 +1021,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 #KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
-
 
 
 
@@ -1089,9 +1198,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:0 CUID="4" tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (HD) 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://iptvtree.net:8080/AmirBilali/76448035/157591
 
 #EXTINF:-1 group-title="INDONESIA" group-logo="" tvg-logo="https://i.imgur.com/hOsqvLV.png", Trans TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1124,7 +1230,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 http://iptvtree.net:8080/F14995/a84c0963/162141
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/LwaTbTr.png", Kompas TV
@@ -1146,13 +1252,15 @@ https://melon-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:0 tvg-id="outdoor" group-title="INDONESIA" tvg-logo="https://i.imgur.com/HKRaeMv.png", ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+https://flv.intechmedia.net/live/ch108.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yQRX4gX.png" group-title="INDONESIA", DAAI TV
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1209,9 +1317,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="MNC TV" tvg-logo="https://i.imgur.com/5nlJLRv.png", MNCTV (HD) 
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://iptvtree.net:8080/AmirBilali/76448035/165054
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6uAril.png" group-title="INDONESIA", NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -1667,16 +1772,16 @@ https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
 #EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 1
-http://195.26.87.217/live.ts?channelId=125429&uid=3453&deviceMac=00:1A:79:01:04:AC
-  
+http://iptvtree.net:8080/AmirBilali/76448035/146068
+
 #EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 2
-http://195.26.87.217/live.ts?channelId=125430&uid=3453&deviceMac=00:1A:79:01:04:AC
+http://iptvtree.net:8080/AmirBilali/76448035/157556
 
 #EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 3
-http://195.26.87.217/live.ts?channelId=125431&uid=3453&deviceMac=00:1A:79:01:04:AC
+http://iptvtree.net:8080/AmirBilali/76448035/157557
 
 #EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 4
-http://195.26.87.217/live.ts?channelId=125432&uid=3453&deviceMac=00:1A:79:01:04:AC
+http://iptvtree.net:8080/AmirBilali/76448035/157558
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -2436,10 +2541,5 @@ http://j.mp/2bFREcc
 
 
 
-=======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
-=======================>TIDAK UNTUK DIPERJUAL BELIKAN,, ANDA FAHAM.???<===========.
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Belzie_TV
-https://www.dropbox.com/scl/fi/g6okpw2is6vis7hr8aqis/lv_7153467251230805250_20240121145059.mp4?rlkey=dpmqddfhqcpd1y7e52g4h8prc&dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="Belzie_TV", Informasi Donasi
-https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
+
