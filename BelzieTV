@@ -218,6 +218,9 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 #######-----VOD MOVIES-----########
 ###################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/ghvC80H.jpeg" group-title="VOD MOVIES", WINNIE THE POOH : BLOOD AND HONEY 2
+https://data01.mv21.cc/mv/han/68b-Winnie-The-Pooh-Blood-And-Honey-2-2024.mp4
+
 #EXTINF:-1 type="movie" group-logo="https://dewanonton.online/static/img/logo-dewanonton.png" group-title="VOD MOVIES" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUyZWU4NDAtZDlmZC00NjhkLTliZTUtZjVhOTMwNTEyOWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg", Train To Busan Presents: Peninsula (Bando) (2020)
 https://storage.dewanonton.online/hls/23cd34da-8ef7-4262-986e-d1550d68ce66.mp4/index.m3u8
 
@@ -557,6 +560,21 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ###############################
 ######------VOD HOROR-----#####
 ###############################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfaWKn7.jpeg" group-title="VOD HOROR", JANIN IBLIS NERAKA
+https://data04.streamku.xyz/mv/ban/17-Janin_Iblis_Neraka_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4X4pRli.jpeg" group-title="VOD HOROR", SARANJANA KOTA GHAIB
+https://data04.streamku.xyz/mv/ban/13-Saranjana_Kota_Ghaib_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AWs1ySS.jpeg" group-title="VOD HOROR", KUTUKAN SEMBILAN SETAN
+https://data04.streamku.xyz/mv/ban/13-Kutukan_Sembilan_Setan_2024.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvU7QiM.jpeg" group-title="VOD HOROR", KUTUKAN PETI MATI
+https://data04.streamku.xyz/mv/ban/15-Onrust_2023.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIROpUP.jpeg" group-title="VOD HOROR", KISAH TANAH JAWA POCONG GUNDUL
+https://data01.mv21.cc/mv/ban/9-Kisah_Tanah_Jawa_Pocong_Gundul_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tJtaTRmI9USyD9GR079DISbE7t0=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5961/makmum-37a39f.jpg" group-title="VOD HOROR", MAKMUM
 https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
