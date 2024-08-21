@@ -1184,16 +1184,20 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/296857
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/RClXaxd.png" group-title="INDONESIA", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", INDOSIAR (DIGITAL) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", INDOSIAR
+#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", INDOSIAR 2
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="INDONESIA", INDOSIAR (CUBMU) 
-#EXTVLCOPT:http-user-agent=mozilla/89
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16mTjgh.png" group-title="NASIONAL", INDOSIAR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (R+)
@@ -1293,9 +1297,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/Tw15BHc.png", TRANS7 (CUBMU) 
-#https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/Tw15BHc.png", TRANS7 (V+) 
+https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpU4gx3.png" group-title="INDONESIA", TV ONE
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
