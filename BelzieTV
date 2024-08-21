@@ -1218,6 +1218,12 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u47RJYl.png" group-title="INDONESIA", MOJI (indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="INDONESIA", SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zxwmac9.png" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
