@@ -569,6 +569,21 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a74QQB6.jpeg" group-title="VOD HOROR", TITISAN SETAN 2
+https://data04.streamku.xyz/mv/ban/28-Titisan_Setan_2_2021.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hoAt1LO.jpeg" group-title="VOD HOROR", QODRAT
+https://data04.streamku.xyz/mv/ban/28-Qodrat_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cWOTFgi.jpeg" group-title="VOD HOROR", PENGABDI SETAN 2
+https://data04.streamku.xyz/mv/ban/28-Pengabdi_Setan_2_Communion_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrpHQxV.jpeg" group-title="VOD HOROR", BOTTING
+https://data04.streamku.xyz/mv/ban/9-Botting_2023.mp4
+
+#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", WAKTU MAGRIB
+https://data04.streamku.xyz/mv/ban/29-Waktu_Maghrib_2023.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vfaWKn7.jpeg" group-title="VOD HOROR", JANIN IBLIS NERAKA
 https://data04.streamku.xyz/mv/ban/17-Janin_Iblis_Neraka_2023.mp4
 
