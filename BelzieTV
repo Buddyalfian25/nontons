@@ -569,6 +569,9 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="" group-title="VOD HOROR", Dosen Ghaib
+https://dl30.darkibox.com/hls2/10/00693/eo7cytdoz4o0_o/index-v1-a1.m3u8?t=cBQlMvzZTuBLxmPzcMfeq7Q2emXjQ0hmNZbchymDotM&s=1724423832&e=43200&f=3469181&i=0.0&sp=0
+
 #EXTINF:-1 tvg-logo="" group-title="VOD HOROR", VINA : Sebelum 7 Hari
 https://ogmmqkka4mkk.hgagecdn.com/hls2/01/01691/maqlkzzof7x0_,l,n,h,.urlset/index-f1-v1-a1.m3u8?t=DCaejQbeJ80R_BMq2ndQZrwrLU0Haf4a3_1aTCaNHPQ&s=1724417128&e=129600&f=8458169&srv=sIPq7tuatT4J&i=0.4&sp=500&p1=sIPq7tuatT4J&p2=sIPq7tuatT4J&asn=7713
 
@@ -729,7 +732,6 @@ https://www.dropbox.com/scl/fi/b4qhju33pl75djbl07pas/Nonton-Ayat-Ayat-Cinta-2-Su
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/jZFekL0.jpeg" group-title="VOD INDO", 5 CM
 https://www.dropbox.com/scl/fi/txphstmm9zk890vnreyx4/Nonton-5-cm-Subtitle-Indonesia-CinemaXXI.mp4?rlkey=824crheq40gfv0kcz3fizsfyu&st=k77h3aub&dl=1
-https://sv2.jwplayer21.com/hls/c2FWbStZRFB4UkdkeURBQWhRU29PNm5rVWUrNXE3MVArL1BCRk5CQmVjemgxREdMTENqQTR3NXdFOVBHRHVKL3c2WDRhSkRSSjNxUlNJdkdFbHNmYndWdzZNcXk3OXJIMFZ4cW1jaExWOVE9/hls2/04/00695/fyja0aw008k4_o/index-v1-a1.txt?gx=m3u8&gd=K1VCYWhray9oU2ZQSXZ3UzI4dzFzbzg4VnhSWkJYZGMyQk1LZEJ2WnBBRzViaXlzVENZWllNU01FVGFHUDJrMmRKa3FXOUxPYm52eWRWSWMzUVVwN3R3VndwRmY1WVhOWHBSY3ZjNDR1NkU9&t=8MtYjs8CifB9NAE5CJRNm7KBu3HrluS6L5tQ8nZOHgc&s=1724384278&e=43200&f=3476550&i=0.0&sp=0&gl=0&gt=SWpPb2tzTE9HYmhDcEdxWURMVEgwN3N5RGZSSklMRUM1emY3T1F0VXlvenV5U2JyZ25YTmI1Q0QwTW1IbmZKeTRCcHBUTVdDWjQ1Mkk2UFJLNkZzSmc9PQ,,
 
 #EXTINF:-1 group-title="VOD INDO",12 Cerita Glen Anggara
 https://www.googleapis.com/drive/v3/files/1RJyBA6pjWdt0ArTcZVIy0g4j0icpsFfR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
