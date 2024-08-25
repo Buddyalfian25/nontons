@@ -1474,9 +1474,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/UMb3j9N.png" group-title="INDONESIA",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/SxZbSfs.png", CNN
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.imgur.com/SxZbSfs.png", CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b280000_sleng.m3u8
-
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="INDONESIA, CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/hgj6EvP.png" group-title="INDONESIA", Bali TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
