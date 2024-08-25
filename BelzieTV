@@ -569,6 +569,9 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5RPLcs.jpeg" group-title="VOD HOROR", KHANZAB
+https://data04.streamku.xyz/mv/ban/32-Khanzab_2023.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UV1MN8J.jpeg" group-title="VOD HOROR", JIN QORIN
 https://data04.streamku.xyz/mv/ban/30-Jin_Qorin_2023.mp4
 
