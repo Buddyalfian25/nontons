@@ -1054,6 +1054,9 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197055
 ----------CHANNEL LOKAL------------
 ###################################
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aljazeera_small1.png?v=2.0.0.13" group-title="INDONESIA", Aljazeera (English)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/aljazeeraenglish.m3u8
+
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.imgur.com/RClXaxd.png" group-title="INDONESIA", BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
