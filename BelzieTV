@@ -584,6 +584,12 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUWU770.jpeg" group-title="VOD HOROR", INANG
+https://data04.streamku.xyz/mv/ban/34-The_Womb_Inang_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rQlIjF.jpeg" group-title="VOD HOROR", The Sacred Riana 2 - Bloody Mary
+https://data04.streamku.xyz/mv/ban/34-The_Sacred_Riana_2_Bloody_Mary_2022.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u5RPLcs.jpeg" group-title="VOD HOROR", KHANZAB
 https://data04.streamku.xyz/mv/ban/32-Khanzab_2023.mp4
 
@@ -709,9 +715,6 @@ https://data04.streamku.xyz/mv/ban/24-Para_Betina_Pengikut_Iblis_2023.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn0-production-images-kly.akamaized.net/frHKwn_KgU02pSkGZU06uYpbDTc=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4291419/original/075255000_1673715535-Anak_Titipan_Setan_2.jpeg" group-title="VOD HOROR", Anak Titipan Setan (2023)
 https://data04.streamku.xyz/mv/ban/26-Anak_Titipan_Setan_2022.mp4
-
-#EXTINF:-1 tvg-logo="" group-title="VOD HOROR",Kuyang the Movie
-https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ratab1s.jpeg" group-title="VOD HOROR",Mumun
 https://www.googleapis.com/drive/v3/files/15YK42UQb5_lDJdhLgmJgjpHyMTRkP07C?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
