@@ -412,6 +412,12 @@ https://cdn17.muncoday.com/data/6/07/EzL1tqohVNhBlO4UlbXR8TRuDGeVqdOrzcj/EzL1tqo
 ######------VOD KIDS-----######
 ###############################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KtpX5Ze.jpeg" group-title="VOD KIDS", DORAEMON - Great adventure antarctic kachi kochi
+https://stream.hownetwork.xyz/xxx/doraemon-great-adventure-antarctic-kachi-kochi-2017-lk21-bluray/6/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/98HdxPQ.jpeg" group-title="VOD KIDS", DORAEMON The Movie : Nobita’s Dinosaur (2006)
+https://stream.hownetwork.xyz/xxx/doraemon-nobita-no-kyoryu-2006-bluray/4/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Rs9G8Pm.png" group-title="VOD KIDS", TOY STORY 1
 https://stream.hownetwork.xyz/xxx/toy-story-1995-bluray/2/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/SxIMMCI.jpeg" group-title="VOD KIDS", TOY STORY 2
