@@ -586,6 +586,18 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C78OYwC.jpeg" group-title="VOD HOROR", Kakek Cangkul
+https://data04.streamku.xyz/mv/ban/36-Kakek_Cangkul_2012.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K4yd78w.jpeg" group-title="VOD HOROR", Nenek Gayung
+https://data04.streamku.xyz/mv/ban/36-Nenek_Gayung_2012.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuEv5o.jpeg" group-title="VOD HOROR", QORIN
+https://data04.streamku.xyz/mv/ban/36-Qorin_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sBAvDzf.jpeg" group-title="VOD HOROR", Tumbal Kanjeng Iblis
+https://data04.streamku.xyz/mv/ban/36-Tumbal_Kanjeng_Iblis_2022.mp4
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4zqtUBI.jpeg" group-title="VOD HOROR", Kajeng Kliwon
 https://data04.streamku.xyz/mv/ban/33-Kajeng_Kliwon_2019.mp4
 
