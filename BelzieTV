@@ -1411,9 +1411,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 group-title="INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/6vyVBed.png", iNews (V+) 
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/6vyVBed.png", iNews (R+) 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="INDONESIA",iNEWS (R+) #EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://www.rctiplus.com/ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+#EXTINF:0 tvg-id="iNews.Id" group-title="INDONESIA" group-logo="https://i.imgur.com/6vyVBed.png" tvg-logo="https://i.imgur.com/6vyVBed.png", iNews (R+) 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://tv.burhansyam.com/api/plus.m3u8?ch=4&t=666
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6vyVBed.png" group-title="INDONESIA" tvg-id="iNews.id" tvg-name="iNews", iNews (HD) 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
