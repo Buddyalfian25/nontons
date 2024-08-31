@@ -1643,6 +1643,22 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
                            ========== SPORTS =========
                            ############################
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://i.imgur.com/Ii0vQQB.png" group-title="SPORT", SPORT TV 1
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/1483
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://i.imgur.com/5iPcgoc.png" group-title="SPORT", SPORT TV 2
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/1486
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://i.imgur.com/mhSbol0.png" group-title="SPORT", SPORT TV 3
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/1489
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://i.imgur.com/dBZoN3v.png" group-title="SPORT", SPORT TV 4
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/1492
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://i.imgur.com/qQ9hF78.png" group-title="SPORT", SPORT TV 5
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/1495
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
