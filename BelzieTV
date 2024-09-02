@@ -1569,6 +1569,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/qAjXLUh.png", Mentari TV (HD) 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/0jn8K3A.png", Nick Jr
