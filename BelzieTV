@@ -1822,18 +1822,23 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="SPORT", Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="SPORT", Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium124/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="SPORT", Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="SPORT", Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8|Origin=https://qqwebplay.xyz
 
-#EXTINF:-1 tvg-id="ASSP1.my" tvg-name="ASSP-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 1
-http://iptvtree.net:8080/AmirBilali/76448035/146068
-
-#EXTINF:-1 tvg-id="ASSP2.my" tvg-name="ASSP2-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 2
-http://iptvtree.net:8080/AmirBilali/76448035/157556
-
-#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="ASSP3-A [Live Only]" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 3
-http://iptvtree.net:8080/AmirBilali/76448035/157557
-
-#EXTINF:-1 tvg-id="ASSP4.my" tvg-name="ASSP4-B" tvg-logo="https://i.imgur.com/2M3otau.png" group-title="SPORT",Astro 4
-http://iptvtree.net:8080/AmirBilali/76448035/157558
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
