@@ -1246,6 +1246,10 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+#EXTINF:0 CUID="4" tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (HD) 
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://iptvtree.net:8080/AmirBilali/76448035/157591
+
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
