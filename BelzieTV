@@ -213,7 +213,8 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 ------⚽️ LIVE EVENT ⚽️-------
 #############################
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="Live Event", Sportstars 2
+
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0" group-title="Live Event", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
