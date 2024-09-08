@@ -453,7 +453,8 @@ https://stream.hownetwork.xyz/xxx/frozen-2013-bluray/3/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/lmfZQHA.jpeg" group-title="VOD KIDS", FROZEN 2
 https://stream.hownetwork.xyz/xxx/frozen-ii-2019-bluray/6/480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/JuNH4PL.jpeg" group-title="VOD KIDS", FROZEN FEVER
-https://j5j2vy2d9imb.hgagecdn.com/hls2/01/00014/f78tmqlhetwm_,l,n,.urlset/index-f1-v1-a1.m3u8?t=7d8Fav9EQjhEQYy_Ryuqzky4dRAMKftWUBPNosbLzb0&s=1724515135&e=129600&f=71890&srv=91ejjoFPHQ2N&i=0.4&sp=500&p1=91ejjoFPHQ2N&p2=91ejjoFPHQ2N&asn=7713
+https://stream.hownetwork.xyz/xxx/frozen-fever-2015-bluray/16/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/xhzFUbX.jpeg" group-title="VOD KIDS", OLAFS FROZEN ADVENTURE
 https://stream.hownetwork.xyz/xxx/olafs-frozen-adventure-2017-webdl/11/480.m3u8
 
@@ -481,7 +482,7 @@ https://stream.hownetwork.xyz/xxx/polar-express-2004-bluray/3/480.m3u8
 https://stream.hownetwork.xyz/xxx/barbie-princess-pauper-2004-dvdrip/3/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/reaNnQ7.jpeg" group-title="VOD KIDS", TANGLED
-https://stream.hownetwork.xyz/xxx/tangled-bluray/2/480.m3u8
+https://stream.hownetwork.xyz/xxx/tangled-bluray/8/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/SlokFrG.jpeg" group-title="VOD KIDS", BARBIE OF SWAN LAKE
 https://stream.hownetwork.xyz/xxx/barbie-swan-lake-2003-dvdrip/3/480.m3u8
@@ -528,7 +529,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/9601884499c90032af35dcdf98e51fe0/360p/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/K3sXKOu.jpeg" group-title="VOD KIDS", DESPICABLE ME 4
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/Despicable.Me.4.2024.mp4/tracks-v1a1/mono.m3u8
-
+https://stream.hownetwork.xyz/xxx/despicable-me-4-2024-webdl_X_42be0248/22/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kYWWprs.jpeg" group-title="VOD KIDS", LEGEND OF KUNGFU RABBIT 
 https://stream.hownetwork.xyz/xxx/legend-of-kung-fu-rabbit-2011-bluray/16/480.m3u8
@@ -553,7 +554,7 @@ https://stream.hownetwork.xyz/xxx/shrek-2-2004-bluray/17/480.m3u8
 https://stream.hownetwork.xyz/xxx/shrek-the-third-2007-bluray/17/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/dvyRZpY.jpeg" group-title="VOD KIDS", SHREK 4
-https://f2o8.uyeshare.cc/uptobox/2ybvosmm4mey2sxhh47z6j1gwispp1z3bz47
+https://stream.hownetwork.xyz/xxx/shrek-forever-2010-bluray/9/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/HihRoBC.jpeg" group-title="VOD KIDS", SHREK 5
 https://stream.hownetwork.xyz/xxx/shreks-thrilling-tales-2012-webrip/11/480.m3u8
@@ -586,7 +587,7 @@ https://cdn7iv.diebutx.com/ownhls/2020/825486170a7c76231b308234b98e1f26/360p/ind
 https://stream.hownetwork.xyz/xxx/inside-out-2015-bluray/2/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/gCnMMqn.jpeg" group-title="VOD KIDS", Inside Out 2
-https://stream.hownetwork.xyz/xxx/inside-out-2-2024-hdcam_X_0750e18a/22/480.m3u8
+https://stream.hownetwork.xyz/xxx/inside-out-2-2024-webdl_X_67f76d99/22/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://cdn.rri.co.id/berita/1/images/1689998978527-images_-_2023-07-22T110932.962/1689998978527-images_-_2023-07-22T110932.962.jpeg" group-title="VOD KIDS", Doraemon Nobita's Sky Utopia (2023)
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
