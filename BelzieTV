@@ -608,22 +608,25 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ######------VOD HOROR-----#####
 ###############################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Hidayah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX83Rky.jpeg" group-title="VOD HOROR", Kuntilanak 3
+https://data04.streamku.xyz/mv/ban/37-Kuntilanak_3_2022.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x7n4ruo.jpeg" group-title="VOD HOROR", Hidayah
 https://data02.mv21.cc/mv/ban/46-Hidayah_2023.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Jailangkung Sandekala
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tC4ysG0.jpeg" group-title="VOD HOROR", Jailangkung Sandekala
 https://data02.mv21.cc/mv/ban/47-Jailangkung_Sandekala_2022.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Iblis Dalam Kandungan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwF166G.jpeg" group-title="VOD HOROR", Iblis Dalam Kandungan
 https://data02.mv21.cc/mv/ban/46-Iblis_Dalam_Kandungan_2022.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", LAMPIR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1cTUdb.jpeg" group-title="VOD HOROR", LAMPIR
 https://data02.mv21.cc/mv/ban/44-Lampir_2024.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Beranak Dalam Kubur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1tBKAs.jpeg" group-title="VOD HOROR", Beranak Dalam Kubur
 https://data04.streamku.xyz/mv/ban/37-Beranak_Dalam_Kubur_2007.mp4
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Alena Anak Ratu Iblis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ew9b3fi.jpeg" group-title="VOD HOROR", Alena Anak Ratu Iblis
 https://data04.streamku.xyz/mv/ban/41-Alena_Anak_Ratu_Iblis_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVxRn8R.jpeg" group-title="VOD HOROR", Menjelang Ajal
