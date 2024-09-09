@@ -2018,12 +2018,8 @@ https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="Movies", AXN
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_imc_small.png?v=2.0.0.13" group-title="Movies", IMC
-https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://images.indihometv.com/logo_imc_small.png", IMC -
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
