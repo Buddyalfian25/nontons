@@ -1639,12 +1639,12 @@ http://iptvtree.net:8080/romaniamedia/f35da5aefe/1492
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://i.imgur.com/qQ9hF78.png" group-title="SPORT", SPORT TV 5
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/1495
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="SPORT", SPORTSTART 1 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="SPORT", SPORTSTARTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0" group-title="SPORT", SPORTSTARS 2
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0" group-title="SPORT", SPORTSTARTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
@@ -1654,35 +1654,48 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-id="beINSports1.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/100
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 1
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium91/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports2.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/101
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 2
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium92/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/102
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 3
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium93/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports4.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/103
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 4
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium94/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports5.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0",beIN Sports 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/104
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 5
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium95/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports6.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 6 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/105
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 6
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium96/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="beINSports7.qa" group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" ,beIN Sports 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/106
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 7
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium97/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://i.imgur.com/sXE6jdc.jpeg" group-title="SPORT", SPOTV
+#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/deqs7dxnr6ynxloz3ri23/ais_bein.png?rlkey=ktid1twrlex688925dwsx4c5x&dl=0" group-title="SPORT", Bein Sport 8
+#EXTVLCOPT:http-referrer=https://lewblivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+https://ddy6.mizhls.ru/ddy6/premium98/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://dl.dropbox.com/scl/fi/f378qo93zma68cxoyhxzy/spotv1.png?rlkey=j4gf0cea2v7nd25yrp0ej17cd&dl=0" group-title="SPORT", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
 https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
