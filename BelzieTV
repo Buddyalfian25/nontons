@@ -1495,11 +1495,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch115.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBdqiAz.png" group-title="INDONESIA", RTV (Indi) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
+#EXTINF:-1 tvg-id="22" tvg-logo="https://i.imgur.com/VBdqiAz.png" group-title="INDONESIA", RTV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="seatoday.id" tvg-logo="https://i.imgur.com/bO8kiSb.png",SEA TODAY
+#EXTINF:-1 group-title="INDONESIA" tvg-id="seatoday.id" tvg-logo="https://i.imgur.com/bO8kiSb.png", SEA TODAY
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch106.m3u8
 
