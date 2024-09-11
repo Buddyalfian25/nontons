@@ -2007,7 +2007,10 @@ http://210.210.155.35:80/uq2663/h/h09/01.m3u8
      -----MOVIES-----
      #################
 
-
+#EXTINF:-1 tvg-id="55" tvg-logo="https://www.dens.tv/images/channel-logo/55.jpg" group-title="Movies", Thrill
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png", GALAXY PREMIUM
 https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
