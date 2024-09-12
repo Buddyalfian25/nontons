@@ -248,7 +248,7 @@ http://iptvtree.net:8080/romaniamedia/f35da5aefe/1495
 #######-----VOD MOVIES-----########
 ###################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/IwNOBdK.jpeg" group-title="VOD MOVIES", Warcraft
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Agi1EAj.jpeg" group-title="VOD MOVIES", Warcraft
 https://data04.streamku.xyz/f/2015/1/Warcraft.2016.720p.BluRay.x264-%5Bdriveq.xyz%5D.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mYsTYgO.jpeg" group-title="VOD MOVIES", VENOM
