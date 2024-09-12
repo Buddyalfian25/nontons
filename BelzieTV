@@ -248,6 +248,9 @@ http://iptvtree.net:8080/romaniamedia/f35da5aefe/1495
 #######-----VOD MOVIES-----########
 ###################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/IwNOBdK.jpeg" group-title="VOD MOVIES", Warcraft
+https://data04.streamku.xyz/f/2015/1/Warcraft.2016.720p.BluRay.x264-%5Bdriveq.xyz%5D.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/mYsTYgO.jpeg" group-title="VOD MOVIES", VENOM
 https://www.googleapis.com/drive/v3/files/1xbOgRcfm2MwQOWfZWa5BiQWXrGnqf4ky?alt=media&key=AIzaSyD4G9veeusKNZqG4WkteGWsiFRS0EsQ1tk
 
@@ -622,6 +625,9 @@ https://stream.hownetwork.xyz/xxx/tangled-ever-after-2012-bluray/3/480.m3u8
 ###############################
 ######------VOD HOROR-----#####
 ###############################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8ffuhE.jpeg" group-title="VOD HOROR", Rumah Kaliurang
+https://data02.mv21.cc/mv/ban/45-Rumah_Kaliurang_2022.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX83Rky.jpeg" group-title="VOD HOROR", Kuntilanak 3
 https://data04.streamku.xyz/mv/ban/37-Kuntilanak_3_2022.mp4
