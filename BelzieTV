@@ -233,7 +233,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #######-----VOD MOVIES-----########
 ###################################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Unbroken
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7bc9q2v.jpeg" group-title="VOD MOVIES", Unbroken
 https://stream.hownetwork.xyz/xxx/unbroken-2014-bluray/17/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Agi1EAj.jpeg" group-title="VOD MOVIES", Warcraft
