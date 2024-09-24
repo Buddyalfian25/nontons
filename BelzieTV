@@ -1625,7 +1625,18 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
                            ========== SPORTS =========
                            ############################
 
-
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 6 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 6 HD
+http://opplex.tv:8080/1525939/1552699/233084
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 5 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 5 HD
+http://opplex.tv:8080/1525939/1552699/233082
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 4 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 4 HD
+http://opplex.tv:8080/1525939/1552699/233080
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 3 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 3 HD
+http://opplex.tv:8080/1525939/1552699/233078
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 2 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 2 HD
+http://opplex.tv:8080/1525939/1552699/233075
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 1 HD
+http://opplex.tv:8080/1525939/1552699/233072
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="SPORT", SPORTSTARTS 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
