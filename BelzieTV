@@ -233,9 +233,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #######-----VOD MOVIES-----########
 ###################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Babys Day 
+https://stream.hownetwork.xyz/xxx/babys-day-1994-bluray/16/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/7bc9q2v.jpeg" group-title="VOD MOVIES", Unbroken
 https://stream.hownetwork.xyz/xxx/unbroken-2014-bluray/17/480.m3u8
-https://f2o8.uyeshare.cc/uptobox/p8830spfemevh8xx1pnggumtgtkjc8l71e8cqj
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/Agi1EAj.jpeg" group-title="VOD MOVIES", Warcraft
 https://stream.hownetwork.xyz/xxx/warcraft-2016-bluray/11/480.m3u8
@@ -728,7 +730,6 @@ https://data04.streamku.xyz/mv/ban/15-Onrust_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xIROpUP.jpeg" group-title="VOD HOROR", KISAH TANAH JAWA POCONG GUNDUL
 https://data01.mv21.cc/mv/ban/9-Kisah_Tanah_Jawa_Pocong_Gundul_2023.mp4
-https://in1rhjc5cqhz.pradoi.com/hls2/01/04231/gy3x2cx6jvpj_n/index-v1-a1.m3u8?t=mjPfvWOOhEi7nATTaoL24vSJdOTX0mdcB5Htk792sJ0&s=1726211284&e=129600&f=21156963&srv=gyosvd7o4yrzfsqy&i=0.0&sp=500&p1=gyosvd7o4yrzfsqy&p2=gyosvd7o4yrzfsqy&asn=7713
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tJtaTRmI9USyD9GR079DISbE7t0=/960x540/filters:quality(75)/vidio-web-prod-film/uploads/film/image_landscape/5961/makmum-37a39f.jpg" group-title="VOD HOROR", MAKMUM
 https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -780,7 +781,6 @@ https://data04.streamku.xyz/mv/ban/7-Munkar.2024.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uKCDuS5.jpeg" group-title="VOD HOROR", SIKSA KUBUR
 https://data01.mv21.cc/mv/ban/8-Siksa_Kubur_2024.mp4
-https://52mtxygefqxf.hgagecdn.com/hls2/01/02287/pq3j0plnrppd_n/index-v1-a1.m3u8?t=9M6HTn7bEfnW-QUATkfKQI4Ku-iUhXXiQaZgnpxEZjI&s=1726935593&e=129600&f=11435886&srv=0g7xgsanrz08&i=0.4&sp=500&p1=0g7xgsanrz08&p2=0g7xgsanrz08&asn=7713
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/et9QRk0.jpeg" group-title="VOD HOROR", Bangku Kosong
 https://data04.streamku.xyz/mv/ban/19-Bangku_Kosong_Ujian_Terakhir_2023.mp4
@@ -790,7 +790,6 @@ https://data04.streamku.xyz/mv/ban/18-Sijjin_2023.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MIEFM46.jpeg" group-title="VOD HOROR", TRINIL (2024) 
 https://data04.streamku.xyz/mv/ban/14-Trinil_2024.mp4
-https://hw0h8bbspdso.pradoi.com/hls2/01/03796/zbxnsex6u038_n/index-v1-a1.m3u8?t=Cfv4McZDyFYsCog_zx9C_nN61M4hT_tE6NSYfZ3Yeic&s=1726935164&e=129600&f=18981051&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=7713
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bihrapn.jpeg" group-title="VOD HOROR", 40 Hari Bangkitnya Pocong
 https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
