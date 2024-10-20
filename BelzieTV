@@ -1436,10 +1436,11 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (R+)
-#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (R+) 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://thedream.biz.id/indonesia/rplus.php?id=1&=.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/uTPwkhC.png" group-title="INDONESIA", RCTI (V+) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1557,10 +1558,11 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV (R+) 
-#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV (R+) 
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://thedream.biz.id/indonesia/rplus.php?id=2&=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m6uAril.png" group-title="INDONESIA", NET
