@@ -840,6 +840,9 @@ https://up27.darkibox.com/hls2/02/00669/t281d2que6a6_o/index-v1-a1.m3u8?t=fUYu2c
 #####----VOD INDO----#####
 ##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD INDO", Twivortiare
+https://j1u4j8babmmpa.hgagecdn.com/hls2/01/01895/4jcc6irwvzr1_,l,n,.urlset/index-f2-v1-a1.m3u8?t=FvNtnk6VpUsQDR_tXIk-7W9Lp1eErFgeFAKF9RvUJO8&s=1730051575&e=129600&f=9478906&srv=G7GaHBfmnfFS&i=0.4&sp=500&p1=G7GaHBfmnfFS&p2=G7GaHBfmnfFS&asn=23679
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/vqZQ6e1.jpeg" group-title="VOD INDO", Hati Suhita
 https://data04.streamku.xyz/mv/ban/30-Hati_Suhita_2023.mp4
 
