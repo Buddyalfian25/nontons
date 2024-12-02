@@ -243,6 +243,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #######-----VOD MOVIES-----########
 ###################################
 
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Ready Or Not
+https://stream.hownetwork.xyz/xxx/ready-or-not-2019-bluray/3/480.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="" group-title="VOD MOVIES", Babys Day 
 https://stream.hownetwork.xyz/xxx/babys-day-1994-bluray/16/480.m3u8
 
