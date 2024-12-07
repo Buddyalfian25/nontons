@@ -1453,11 +1453,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV" tvg-logo="https://i.imgur.com/m6uAril.png" group-title="INDONESIA", NET (Indi) 
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/m6uAril.png" group-title="INDONESIA", NET (V+) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
