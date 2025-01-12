@@ -455,9 +455,6 @@ https://cdn17.muncoday.com/data/6/07/EzL1tqohVNhBlO4UlbXR8TRuDGeVqdOrzcj/EzL1tqo
 ######------VOD KIDS-----######
 ###############################
 
-#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KtpX5Ze.jpeg" group-title="VOD KIDS", MOANA 2
-https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/07779/wc5df5jbit2u_n/index-v1-a1.m3u8?t=qXbJj865v6tLJdU4vttoaJ8Qjd9iu7vB15HSkJtUWyA&s=1736493114&e=129600&f=38897155&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=138131
-
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/KtpX5Ze.jpeg" group-title="VOD KIDS", DORAEMON - Great adventure antarctic kachi kochi
 https://stream.hownetwork.xyz/xxx/doraemon-great-adventure-antarctic-kachi-kochi-2017-lk21-bluray/6/480.m3u8
 
@@ -491,6 +488,9 @@ https://stream.hownetwork.xyz/xxx/olafs-frozen-adventure-2017-webdl/11/480.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/ydEycGj.jpeg" group-title="VOD KIDS", MOANA
 https://stream.hownetwork.xyz/xxx/moanaa-2016-bluray/7/480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/AwiZoeN.jpeg" group-title="VOD KIDS", MOANA 2
+https://62lcxnbxr456.premilkyway.com/hls2/01/07779/wc5df5jbit2u_n/index-v1-a1.m3u8?t=ViDhmk5NYIE_KDbeoLpWsMgDgR1wjHVC97FsQNrQBGM&s=1736686528&e=129600&f=38897155&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=138131
 
 #EXTINF:-1 tvg-id="" tvg-name="Vod Movies" tvg-logo="https://i.imgur.com/kx08Jda.jpeg" group-title="VOD KIDS", TINKERBELL 1
 https://stream.hownetwork.xyz/xxx/tinker-bell-great-fairy-rescue-2010-bluray/8/480.m3u8
