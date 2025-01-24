@@ -1840,7 +1840,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://i.imgur.com/qAjXLUh.png" group-title="KIDS", Mentari TV (HD) 
-http://opplex.tv:8080/1525939/1552699/350989
+https://bewe.biz.id/babi/bewedong.m3u8?ch=ebskids
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qAjXLUh.png" group-title="KIDS", Mentari TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
