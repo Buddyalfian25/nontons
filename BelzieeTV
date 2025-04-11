@@ -216,24 +216,19 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 ------⚽️ LIVE EVENT ⚽️-------
 #############################
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="Live Event", SPORTSTARTS 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0" group-title="Live Event", SPORTSTARTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="Live Event" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTARS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="Live Event" tvg-id="Sportstars.id" tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0", Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="Live Event" tvg-id="Sportstars 2.id" tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0", Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 #EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg" group-title="Live Event", Soccer Channel
@@ -1674,24 +1669,22 @@ http://opplex.tv:8080/1525939/1552699/233075
 #EXTINF:-1 tvg-id="" tvg-name="PT: DAZN 1 HD" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="SPORT", DAZN 1 HD
 http://opplex.tv:8080/1525939/1552699/233072
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0" group-title="SPORT", SPORTSTARTS 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0" group-title="SPORT", SPORTSTARTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 group-title="SPORT" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTARS 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars.id" tvg-logo="https://dl.dropbox.com/scl/fi/dh9so1893o9dwcfie1tir/sportstar.png?rlkey=tolkdvuzeqqtw6zgo2seq287p&dl=0", Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://bimasakti.serv00.net/keurplus/drm.php?id=1002
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://bimasakti.serv00.net/keurplus/index.mpd?id=1002
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=112&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars 2.id" tvg-logo="https://dl.dropbox.com/scl/fi/u5w4ng74vynei0ivi4qm5/sportstar2.png?rlkey=nxmlk0qixp3995mv868s1grec&dl=0", Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=113&type=drm
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
 
 #EXTINF:0 tvg-logo="https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg" group-title="SPORT", Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
