@@ -1338,17 +1338,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:0 tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV (V+) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDONESIA", MNC TV V+
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-###KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=2&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-###https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-###https://terabit.web.id/media.mpd?id=2&type=dash
-###https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://i.imgur.com/5nlJLRv.png" group-title="INDONESIA", MNCTV (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
