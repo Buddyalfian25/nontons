@@ -13,11 +13,14 @@ https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlk
 
 <=================== INDONESIA =============================>
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="INDONESIA",MNC TV V+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://terserah.diskon.cloud/stream/license?token=eJPFBmHM1Uzizr3YiO8SO7-HCHuECaFSdbJuQho-UiSPdUlZQO03XPlclnhXU3gv6zdQ44HuN8xuLp6fYVItotY1jz2CPKgSW4T9X1GxP5RkXY3jHVVSQhA0Q14HhxE7&exp=1768127519&hmac=3083f8ca1def2df56c86ff69cb5acf670bb0fe3fddac33a886f7720b62b189ef
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png" group-title="INDONESIA", MNC TV
+http://terserah.diskon.cloud/stream/stream.mpd?token=AOpe6MIpZ2ROGt45ro9eyFdv4bPjgZYrBK163o0iGh0It6fT_kyH7yLzbodKHZsW2kMv7nLFPdP3LE6uODnrHL7oj2B6vnVUZndiH0HQuXgaQtdSdhS0-EcH5KLvRd6doV1hmDFtn3G0KNVd3_Ei4E60ltNybCNKgNx0i_PLFUU&exp=1768127519&hmac=9909c2530a5343b9c268c6a921125a01b1c15f8577954711f69ea95e25f05d92
+
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="INDONESIA",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
