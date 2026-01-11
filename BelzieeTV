@@ -1019,21 +1019,17 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 <=============== Kids Channels =====================>
+====================================================
 
+
+#EXTINF:-1 tvg-id="11" group-title="KIDS" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png", MENTARI TV 1
+http://terserah.diskon.cloud/stream/stream.m3u8?token=kJlNgeSs88P3-TuFDyps2m0XtG76It-VAxo1IHpq5kaNBCwQXZi3fkUOBisgFuqf1VRGmUHcgzZoaovUwbdbGQ&exp=1768127519&hmac=a74219571866bad077354f3d7c915802ffc4959be5b85934a08334d4b3a463b2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="KIDS",MENTARI TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-MentariTV.m3u8
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
 #KODIPROP:inputstream=inputstream.ffmpegdirect
