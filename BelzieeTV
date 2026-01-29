@@ -1015,13 +1015,8 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 <=============== KIDS CHANNEL =====================>
 ====================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
-#KODIPROP:inputstream.adaptive.license_key=https://fcc.manggatv09.workers.dev/
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF:-1 tvg-id="Dunia.anak.id" tvg-name="Dunia Anak" tvg-logo="" group-title="KIDS", Mentari TV
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest_w1677944154_qRFZS.mpd?encp=&uid=&expp=
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://spmid.net:443/images/JINxDjeXVgNDONUMwYmo3oIGBhroMEj8iXOKRoG19AvZ0zkfAwUvPf4ByBmivZs5.png" group-title="KIDS", MENTARI TV
+https://spmid.net:443/play/MyEoo-x6p53nRakGbj5NBh5dWTd_lq48vH8_gJXkwQ4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
