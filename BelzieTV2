@@ -1,226 +1,247 @@
-404: Not Found
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======================>PLAYLIST INI GRATIS GUNAKAN DENGAN BIJAK<================
-=======================>TIDAK UNTUK DIPERJUAL BELIKAN,, ANDA FAHAM.???<==========
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="HALLO PEMIRSA", Belzie_TV
-https://www.dropbox.com/scl/fi/ci5xmldcafd4hqlhptufk/lv_0_20231206121322.mp4?rlkey=hu0wd29iuajclo1wv2hx6lhfr&dl=1
-http://belzietv.x10.bz/belzie/pembukaan.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oHF342o.png" group-title="HALLO PEMIRSA", Informasi Donasi
-https://www.dropbox.com/scl/fi/mzwcfnqfj1iwzlyf2mbk3/lv_0_20240318213523.mp4?rlkey=ve6dlwtxd4awtcz589dd1tsw4&dl=1
-
-
-
 #EXTM3U
+
+# ===== SOURCE 1 =====
+
+# ===== SOURCE 2 =====
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Sacramento%20Kings%20Vs%20Oklahoma%20City%20Thunder.jpg" group-title="LIVE EVENT",Sacramento Kings Vs Oklahoma City Thunder - HD QUALITY | Gvision TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+http://chatgpt.hereisman.net/playlist/60247/load-playlist-multi?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Milwaukee%20Bucks%20Vs%20Atlanta%20Hawks.jpg" group-title="LIVE EVENT",Milwaukee Bucks Vs Atlanta Hawks - HD QUALITY | Gvision TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+http://chatgpt.hereisman.net/playlist/60248/load-playlist-multi?&.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Washington%20Wizards%20Vs%20Houston%20Rockets.jpg" group-title="LIVE EVENT",Washington Wizards Vs Houston Rockets - HD QUALITY 3 | Gvision TV
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+http://chatgpt.hereisman.net/playlist/60231/load-playlist-multi?&.m3u8
+
+# ===== SOURCE 3 =====
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rGySkbHm/20260806-155101.png",
+
+# ===== SOURCE 6 =====
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/WhWEFnwG-480.jpg" group-title="Live Event: Voli",11:05 WIB Suntory Sunbirds Osaka VS Jtekt Stings Aichi | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271926/suntory-sunbirds-vs-jtekt.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Gz4rgbul-480.jpg" group-title="Live Event: Voli",11:05 WIB Wolfdogs Nagoya VS Nippon Steel Sakai Blazers | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271925/nagoya-vs-osaka-sakai.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/m3x9Rava-480.jpg" group-title="Live Event: Voli",11:05 WIB Saga Hisamitsu Springs VS Pfu Bluecats Ishikawa Kahoku | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271929/hisamitsu-springs-women-vs-pfu-blue-cats-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/azHSItwA-480.jpg" group-title="Live Event: Voli",11:05 WIB Denso Airybees VS Aleeza Aichi | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271928/denso-airybees-women-vs-body-queenseis-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/IOLpdUhC-480.jpg" group-title="Live Event: Voli",11:05 WIB Hokkaido Yellow Stars VS Hiroshima Thunders | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271924/hokkaido-yellow-stars-vs-jt-thunders.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/s99vPzFm-480.jpg" group-title="Live Event: Voli",11:05 WIB Saitama Ageo Medics VS Osaka Marvelous | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271927/ageo-women-vs-jt-marvelous-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EcQP55LK-480.jpg" group-title="Live Event: Voli",11:10 WIB Victorina Himeji VS Toray Arrows Shiga | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271930/himeji-victorina-w-vs-toray-arrows-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/wt9w7Qay-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:05 WIB Okayama Seagulls VS Nec Red Rockets Kawasaki | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271936/okayama-seagulls-women-vs-nec-red-rockets-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/n9wFlSZ9-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:05 WIB Toray Arrows Shizuoka VS Voreas Hokkaido | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271934/toray-arrows-vs-voreas-hokkaido.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/EcQP55LK-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:05 WIB Tokyo Great Bears VS Shinshu Matsumoto Tridents | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271933/fc-tokyo-vs-shinshu-matsumoto-tridents.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/gsirwwP1-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:05 WIB Osaka Bluteon VS Fragolad Kagoshima | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2271932/panasonic-panthers-vs-fragolad-kagoshima.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UyU7I4z7-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 12:05 WIB Aranmare Akita Shonai VS Astemo Rivale Ibaraki | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2271935/prestige-aranmare-women-vs-hitachi-women.html
+#EXTINF:-1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/GvOMs6xj-480.jpg" group-title="Live Event: Voli",[Belum Mulai] 18:00 WIB Zeren Spor VS Eczacibasi Peron Istanbul | Gvision TV
+https://site04.superabbit77hd.skin/es/volleyball/sultanlar-ligi-women-2271954/zeren-spor-women-vs-eczacibasi-women.html
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/t3IBdp0mTnw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 18:00 WIB VAKIFBANK VS ARAS KARGO Vodafone Sultanlar Ligi | Gvision TV
+t3IBdp0mTnw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3dYru6zryrw/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 20:00 WIB MANİSA BÜYÜKŞEHİR BELEDİYE SPOR VS TÜRK HAVA YOLLARI Vodafone Sultanlar Ligi | Gvision TV
+3dYru6zryrw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wKrOJl3cczY/hq720.jpg" group-title="Live Event: Voli",[Belum Mulai] 23:00 WIB BEŞİKTAŞ VS SİNNADA HOTELS AFYON BELEDİYE YÜNTAŞ Vodafone Sultanlar Ligi | Gvision TV
+wKrOJl3cczY
+
+# ===== SOURCE 8 =====
+#EXTINF:-1 tvg-chno="194" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Central Africa vs Burkina Faso 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XH666.m3u8
+#EXTINF:-1 tvg-chno="195" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Equatorial Guinea vs Sierra Leone 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Equatorial Guinea vs Sierra Leone 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/XH666Q.m3u8
+#EXTINF:-1 tvg-chno="196" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Tunisia vs Botswana 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Tunisia vs Botswana 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAAAA.m3u8
+#EXTINF:-1 tvg-chno="197" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Tunisia vs Botswana 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Tunisia vs Botswana 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/5465f3e2-5af7-4fc4-ab1e-84964c2ace61.m3u8
+#EXTINF:-1 tvg-chno="198" tvg-id="Soccer.Dummy.us" tvg-name="[Africa Cup of Nations Qualification] Zimbabwe vs DR Congo 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/76.png" group-title="live event: fawa",[Africa Cup of Nations Qualification] Zimbabwe vs DR Congo 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XH666QQ.m3u8
+#EXTINF:-1 tvg-chno="203" tvg-id="Soccer.Dummy.us" tvg-name="[Brazil Serie B] America MG vs Juventude " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2299.png" group-title="live event: fawa",[Brazil Serie B] America MG vs Juventude Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DDDDQQQ.m3u8
+#EXTINF:-1 tvg-chno="204" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Cuba vs Bonaire " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="live event: fawa",[CONCACAF Nations League] Cuba vs Bonaire Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DDDD.m3u8
+#EXTINF:-1 tvg-chno="205" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Guadeloupe vs Barbados " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="live event: fawa",[CONCACAF Nations League] Guadeloupe vs Barbados Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAAA.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Guadeloupe vs Barbados 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="live event: fawa",[CONCACAF Nations League] Guadeloupe vs Barbados 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/73220870_290cc7c48eae19fc5e42434cec5bde13_540p.m3u8?auth_key=1790636256-0-0-52e9d92b545e4e90b1d766bf0c166a84
+#EXTINF:-1 tvg-chno="207" tvg-id="Soccer.Dummy.us" tvg-name="[CONCACAF Nations League] Suriname vs Martinique " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2406.png" group-title="live event: fawa",[CONCACAF Nations League] Suriname vs Martinique Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DDDDQ.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera B] Ind Valle del Cauca vs Orsomarso " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2295.png" group-title="live event: fawa",[Colombia Primera B] Ind Valle del Cauca vs Orsomarso Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="Soccer.Dummy.us" tvg-name="[Colombia Primera B] Inter Palmira vs Leones " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2295.png" group-title="live event: fawa",[Colombia Primera B] Inter Palmira vs Leones Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAAAAAAA.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="Darts.Dummy.us" tvg-name="[Darts] Darts World Grand Prix " tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/013/468/398/small/darts-board-icon-png.png" group-title="live event: fawa",[Darts] Darts World Grand Prix Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/H222Q.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="Live.Event.us" tvg-name="[Denmark Handbold Ligaen] Fredericia vs Sonderjyske " tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="live event: fawa",[Denmark Handbold Ligaen] Fredericia vs Sonderjyske Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/faaaQ.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="Live.Event.us" tvg-name="[Denmark Handbold Ligaen] Ribe-Esbjerg vs GOG " tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="live event: fawa",[Denmark Handbold Ligaen] Ribe-Esbjerg vs GOG Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/faaa.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="Live.Event.us" tvg-name="[Euro U21 Qualification] Denmark U21 vs Belarus U21 " tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="live event: fawa",[Euro U21 Qualification] Denmark U21 vs Belarus U21 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/H222.m3u8
+#EXTINF:-1 tvg-chno="232" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 1 " tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="live event: fawa",[Horse Racing] Horse Racing 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.194/hls/vavavava.m3u8
+#EXTINF:-1 tvg-chno="233" tvg-id="Live.Event.us" tvg-name="[Horse Racing] Horse Racing 2 " tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="live event: fawa",[Horse Racing] Horse Racing 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.194/hls/vavavavaq.m3u8
+#EXTINF:-1 tvg-chno="340" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] Libertad Asuncion vs Olimpia Asuncion " tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="live event: fawa",[Paraguay Copa] Libertad Asuncion vs Olimpia Asuncion Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DDDDQQ.m3u8
+#EXTINF:-1 tvg-chno="341" tvg-id="Soccer.Dummy.us" tvg-name="[Paraguay Copa] San Lorenzo vs Recoleta " tvg-logo="https://files.tips.gg/static/image/tournaments/football-copa-paraguay-2026.png" group-title="live event: fawa",[Paraguay Copa] San Lorenzo vs Recoleta Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAAAAA.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-id="Soccer.Dummy.us" tvg-name="[Spanish Segunda Liga] Leganes vs Castellon " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/107.png" group-title="live event: fawa",[Spanish Segunda Liga] Leganes vs Castellon Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIII.m3u8
+#EXTINF:-1 tvg-chno="348" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Nybro vs Modo " tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="live event: fawa",[Sweden HockeyAllsvenskan] Nybro vs Modo Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/H222QQQ.m3u8
+#EXTINF:-1 tvg-chno="349" tvg-id="Ice.Hockey.Dummy.us" tvg-name="[Sweden HockeyAllsvenskan] Vasteras vs Kalmar " tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/2/29/HockeyAllsvenskan_logo.svg/960px-HockeyAllsvenskan_logo.svg.png" group-title="live event: fawa",[Sweden HockeyAllsvenskan] Vasteras vs Kalmar Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/H222QQ.m3u8
+#EXTINF:-1 tvg-chno="359" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Armenia vs Montenegro 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Armenia vs Montenegro 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/XH666QQQ.m3u8
+#EXTINF:-1 tvg-chno="361" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs France " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Belgium vs France Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AGGGQQQ.m3u8
+#EXTINF:-1 tvg-chno="366" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs France 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Belgium vs France 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/44da50b3-cdf0-400c-831b-43d1813a61a7.m3u8
+#EXTINF:-1 tvg-chno="367" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Belgium vs France 3 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Belgium vs France 3 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live4.dyrur1.com/live/68931476_99d0066bfe9fb41f898d2dfff77f7fe5_540p.m3u8?auth_key=1790636835-0-0-309010a9e492a1fa10fd34b9a4b45aeb
+#EXTINF:-1 tvg-chno="383" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Georgia vs Ukraine 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Georgia vs Ukraine 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XH666QQQQQ.m3u8
+#EXTINF:-1 tvg-chno="390" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Latvia vs Cyprus 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Latvia vs Cyprus 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.59/hls/XH666QQQQ.m3u8
+#EXTINF:-1 tvg-chno="396" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Northern Ireland vs Hungary 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Northern Ireland vs Hungary 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIAA.m3u8
+#EXTINF:-1 tvg-chno="397" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Northern Ireland vs Hungary 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Northern Ireland vs Hungary 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/df76e533-de1c-4227-af03-204bb80fda46.m3u8
+#EXTINF:-1 tvg-chno="398" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Northern Ireland vs Hungary 3 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Northern Ireland vs Hungary 3 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live1.dyrur1.com/live/68932756_3a4e01399b3134460867fb4f2ef06406_540p.m3u8?auth_key=1790636713-0-0-46f4b247d23ca41a9ca28d9b4cf25c8a
+#EXTINF:-1 tvg-chno="405" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Romania vs Bosnia-Herzegovina 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Romania vs Bosnia-Herzegovina 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/DIIIA.m3u8
+#EXTINF:-1 tvg-chno="406" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Romania vs Bosnia-Herzegovina 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Romania vs Bosnia-Herzegovina 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/622ba94a-511c-4a11-853b-adcc688e85b2.m3u8
+#EXTINF:-1 tvg-chno="407" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Romania vs Bosnia-Herzegovina 3 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Romania vs Bosnia-Herzegovina 3 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live2.dyrur1.com/live/68932614_69c83bc7934ae619e6d739486e68f3cc_540p.m3u8?auth_key=1790636713-0-0-c1b76dc8ab12398e553a17616b445c27
+#EXTINF:-1 tvg-chno="415" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Sweden vs Poland " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Sweden vs Poland Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AGGGQQQQ.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Sweden vs Poland 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Sweden vs Poland 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/9167a56b-35b3-4a5b-9668-f4c57a401284.m3u8
+#EXTINF:-1 tvg-chno="421" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Sweden vs Poland 3 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Sweden vs Poland 3 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live.dyrur1.com/live/68932616_cb472ccf5d58d1e7526d4daa3f813f78_540p.m3u8?auth_key=1790636774-0-0-8304b0a0bd53f0100c94d266a746ad27
+#EXTINF:-1 tvg-chno="424" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Turkey vs Italy 1 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Turkey vs Italy 1 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/AGGGQ.m3u8
+#EXTINF:-1 tvg-chno="425" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Turkey vs Italy 2 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Turkey vs Italy 2 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/5056701c-e70a-43c9-bda0-498093d07ad0.m3u8
+#EXTINF:-1 tvg-chno="426" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] Turkey vs Italy 3 " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] Turkey vs Italy 3 Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live3.dyrur1.com/live/68931480_4cf10f458ce96cf64f4550f6f1188b26_540p.m3u8?auth_key=1790636632-0-0-f1c0de6c418e0123305ed51a19f76f2a
+#EXTINF:-1 tvg-chno="433" tvg-id="Soccer.Dummy.us" tvg-name="[UEFA Nations League] UEFA Nations League Simulast " tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2395.png" group-title="live event: fawa",[UEFA Nations League] UEFA Nations League Simulast Gvision TV
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/AVDVDVDY.m3u8
+
+
+# ===== SOURCE 2 =====
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://wsrv.nl/?url=https://i.ibb.co.com/pryR8QQC/20260203-062726.jpg" group-title="Nasional", * DONASI PAKE QRIS
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/qris.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://wsrv.nl/?url=http://i.ibb.co/wNMKJ1Q3/gif.gif" group-title="Nasional", * DONASI PAKE QRIS
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/qris.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBiAsy1unTVYZl5NuExg_xvz6U4Tn-X5VZA0SBADoXsQ&s=10" group-title="Nasional",* DONASI PAKE DANA
+#https://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/VID-20260802-WA0007.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Xr7pbm5k/20260802-044420.jpg" group-title="Nasional",* DANA 0811-2003-7329
+#https://github.com/lusianaputri/ularliermutarmuter/raw/refs/heads/main/VID-20260802-WA0007.mp4
 
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="Nasional",GTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+http://proxy-v.rctiplus.id/live/android/gtv/index.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
@@ -228,34 +249,34 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+http://proxy-v.rctiplus.id/live/android/mnctv/index.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png", SCTV (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV (S1)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=sctv
+
+#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png", SCTV (S2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.vidio.com&referer=http://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=204.drm
-http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=204
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Nasional",SCTV (S2)
-http://202.169.224.202:8800/udp/239.9.1.29:1234
+##http://202.169.224.202:8800/udp/239.9.1.29:1234
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png" group-title="Nasional",SCTV DIGITAL (S3)
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
+#http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Nasional",INDOSIAR (S1)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=indosiar
 
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png", Indosiar (S1)
+#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png", INDOSIAR (S2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:mimetype=application/dash+xml
@@ -264,122 +285,115 @@ http://opplextv.cyou:8080/Ahsaan003/shahfaisal/351030
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=205.drm
-http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=205.drm
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=205
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Nasional", Indosiar (S2)
-http://202.169.224.202:8800/udp/239.9.1.25:1234
+##http://202.169.224.202:8800/udp/239.9.1.25:1234
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png" group-title="Nasional", Indosiar DIGITAL (S3)
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
+#http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350972
 
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+http://proxy-v.rctiplus.id/live/android/rcti/index.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg" group-title="Nasional",RCTI (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 
-#EXTINF:-1 tvg-id="002" tvg-name="002" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV (S1)
+#EXTINF:-1 tvg-id="002" tvg-name="002" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=782
+
+#EXTINF:-1 tvg-id="002" tvg-name="002" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://proxy-v.rctiplus.id/live/android/antv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV DIGITAL (S2)
-http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350892
+#http://opplextv.cyou:8080/Ahsaan003/shahfaisal/350892
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png" group-title="Nasional",ANTV DIGITAL (S3)
 #http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png", MOJI (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=http://www.vidio.com&referer=http://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://tvratu.my.id/nissa/index.mpd?id=206.drm
-#http://tvratu.my.id/nissa/index.mpd?id=206&type=dash
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",MOJI (S1)
 http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Moji
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="Nasional", MOJI (S2)
-http://202.169.224.202:8800/udp/239.9.1.32:1234
+#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",MOJI (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=moji
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="Nasional", MOJI DIGITAL (S3)
-http://line.crystalott.net/MVQIT3BOBS/LQPDWSNYNZ/1179175#.m3u8
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="Nasional", MOJI (S3)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=206
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional",Trans TV (S1)
-#http://gvisiontv.channell.my.id/ch/id/transtvdtkdirect.php/.m3u8
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png" group-title="Nasional", MOJI (S4)
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
+#http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=transtv
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional",Trans TV (S2)
-http://gvisiontv.channell.my.id/ch/id/transtv.m3u8
+#http://gvisiontv2.channell.my.id/ch/id/transtv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional",Trans TV (S3)
-http://202.169.224.202:8800/udp/239.4.1.1:1234
+##http://202.169.224.202:8800/udp/239.4.1.1:1234
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_transtv.png" group-title="Nasional", Trans TV DIGITAL (?)
 #http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans 7 (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://gvisiontv.channell.my.id/ch/id/trans7dtkdirect.php/.m3u8
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
+#http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=trans7
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional",Trans 7 (S2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+#https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional", Trans 7 (S3)
-http://202.169.224.202:8800/udp/239.4.1.2:1234
+##http://202.169.224.202:8800/udp/239.4.1.2:1234
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_trans7.png" group-title="Nasional", Trans 7 DIGITAL (?)
 #http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png", RTV (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://tvratu.my.id/nissa/index.mpd?id=1561&type=dash
-
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="http://bit.ly/Channel IndonesiaEpg" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Nasional",RTV
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Nasional",RTV (S1)
 #EXTVLCOPT:http-referer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;jmnuserid=lite&amp;chname=RTV
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (S3)
-###http://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png" group-title="Nasional",RTV (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=rtv
 
-#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV (S1)
-http://gvisiontv.channell.my.id/ch/id/mdtvnow.php/.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV (S3)
+http://202.150.161.212:5000/live/channel23/playlist.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV (S1)
+http://gvisiontv2.channell.my.id/ch/id/mdtvnow.php/.m3u8
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (S2)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
-#EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV (S3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-##http://nextgenz.my.id/event/pidio/play.mpd?id=875&type=dash
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (S3)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=nettv-hd
 
-#EXTINF:0 tvg-id="NET.id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional", MDTV DIGITAL (S4)
-http://202.169.224.202:8800/udp/239.1.1.1:1234
-
-#EXTINF:0 tvg-id="NET.id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional", MDTV DIGITAL (S5)
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/14.m3u8
-
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png", NUSANTARA TV (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://nextgenz.my.id/event/pidio/play.mpd?id=7432&type=dash
+#EXTINF:0 tvg-id="NET.id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional", MDTV (S4)
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -387,7 +401,7 @@ http://202.169.224.202:8800/udp/239.1.1.1:1234
 http://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
 
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png" group-title="Nasional",NUSANTARA TV (S2)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",NUSANTARA TV (S4)
 ###http://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
@@ -395,7 +409,7 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://nusant
 #EXTINF:-1 tvg-id="18" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png" group-title="Nasional",INEWS
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",INEWS (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
@@ -404,28 +418,35 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 ###http://cdnbal1.indihometv.com/atm/DASH/idx/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX CHANNEL
-#http://202.169.224.202:8800/udp/239.9.1.36:1234
+##http://202.169.224.202:8800/udp/239.9.1.36:1234
 
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/981/tribunnews-logo-png-5.jpg" group-title="Nasional", Tribunnews
-http://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID.m3u8
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/7NNI48TC/7NNI48TC.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1j9Vhek9O3Aw2KYJBUK5sqw7WTH195yagxBFypBWRQ&s=10" group-title="Nasional",Oxygen TV
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
 #EXTVLCOPT:http-referrer=http://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png" group-title="Nasional",SINDONEWS TV
 ###http://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png", TVONE (S1)
-#EXTVLCOPT:http-referrer=http://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#http://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash
-
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE (S1)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE (S3)
-###http://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
+#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png", TVONE (S2)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=783
+
+
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE (S3)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=tvone
+
+#EXTINF:-1 tvg-id="--" group-title="Nasional" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE (S4)
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Nasional"tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVONE DIGITAL (S5)
 #http://iptv.kilas7.com/live/kaukia/asdfrewq/5.m3u8
@@ -434,14 +455,14 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=19046
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png", Metro TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=777
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png", Metro TV (S1)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -449,23 +470,26 @@ http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="Nasional",Metro TV DIGITAL (S2)
-http://202.169.224.202:8800/udp/239.1.3.3:1234
+#EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png", Metro TV (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=metrotv
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="Nasional",Metro TV DIGITAL (S3)
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/6.m3u8
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="Nasional", Kompas TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8  
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png" group-title="Nasional",Metro TV (S3)
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch101.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png" group-title="Nasional", Kompas TV (S1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV (S2)
-###http://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=kompastv
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg", Berita Satu (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://nextgenz.my.id/event/pidio/play.mpd?id=18280&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=18280
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu (S1)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -474,60 +498,74 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=li
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg", Berita Satu (S2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/master.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/master.m3u8
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png", BTV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=6165
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png", BTV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_btv.png" group-title="Nasional",BTV (S2)
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png" group-title="Nasional",BTV (S2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL (S1)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch112.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zZkqJj5qCgswMA-ZjFUudUQJEL_nSbKnix5YojYTGw&s=10" group-title="Nasional",BN CHANNEL (S2)
-http://202.169.224.202:8800/udp/239.1.3.2:1234
+##http://202.169.224.202:8800/udp/239.1.3.2:1234
 
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" group-title="Nasional",CNN Indonesia
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia (S1)
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://live.cnbcindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=cnn
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png" group-title="Nasional",CNN Indonesia (S2)
-http://202.169.224.202:8800/udp/239.4.1.3:1234
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10",CNBC Indonesia (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10",CNBC Indonesia
+http://gvisiontv2.channell.my.id/ch/id/trans.php/.m3u8?ch=cnbc
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7oXUlkWZEek-aVRktTmJ0ztMGmV2y4VF0FCIhsNC5EQ&s=10" group-title="Nasional",CNBC Indonesia (S2)
-http://202.169.224.202:8800/udp/239.4.1.4:1234
+##http://202.169.224.202:8800/udp/239.4.1.4:1234
 
+
+#EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Nasional",Mentari TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#EXTVLCOPT:http-origin=http://www.vidio.com
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=8237
 
 #EXTINF:-1 group-title="Nasional"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png", DAAI TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://nextgenz.my.id/event/pidio/play.mpd?id=6482&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=6482
 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" group-title="Nasional",DAAI TV
-http://gvisiontv.channell.my.id/ch/id/daai.m3u8
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" group-title="Nasional",DAAI TV (S1)
+http://gvisiontv2.channell.my.id/ch/id/daai.m3u8
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10", Garuda TV (S1)
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" group-title="Nasional",DAAI TV (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=daaitv
+
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png" group-title="Nasional",DAAI TV (S3)
+http://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Nasional"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iLhHpZUSH5ILUspGXMyv6DLT4dBVXOE2DwtDXVEHMg&s=10", Garuda TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://nextgenz.my.id/event/pidio/play.mpd?id=18162&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=18162
 
-#EXTINF:-1 group-title="Nasional"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW1MuO-B7b8rp-OxvTMusaYhyDeGdJVVnnedaN9vQV8w&s=10", Garuda TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 group-title="Nasional"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iLhHpZUSH5ILUspGXMyv6DLT4dBVXOE2DwtDXVEHMg&s=10", Garuda TV (S1)
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://hgmtv.com:2020/hls/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 group-title="Nasional"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_iLhHpZUSH5ILUspGXMyv6DLT4dBVXOE2DwtDXVEHMg&s=10", Garuda TV (S2)
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch104.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -538,10 +576,10 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite
 ###http://cdnbal1.indihometv.com/atm/DASH/TVRI/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI (S3)
-##https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (S4)
-##http://202.169.224.202:8800/udp/239.1.2.2:1234
+###http://202.169.224.202:8800/udp/239.1.2.2:1234
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png" group-title="Nasional",TVRI (S5)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -553,13 +591,13 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite
 http://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10" group-title="Nasional",TVRI SPORT (S3)
-#http://202.169.224.202:8800/udp/239.1.2.3:1234
+##http://202.169.224.202:8800/udp/239.1.2.3:1234
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD
+#EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD (S1)
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI WORLD (S2)
-###http://cdnbal1.indihometv.com/atm/DASH/tvriworld/manifest.mpd
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=tvriworld
 
 #EXTINF:-1 tvg-id="" group-title="Nasional" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMAAj4A5Vad3U1ynbGFZPDLd3vgKkIzHcrFU5lAwgoA&s=10", TVR PARLEMEN
 #http://103.18.181.69:1935/golive/livestream/playlist.m3u8
@@ -567,7 +605,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 DAERAH
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBEfew2yEYAWRKzkXS-f1aHSULOQjBYUNXQ8q_wJYJ-Q&s=10",DMTV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/dmtv.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/dmtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQgJBVFRn2sCz2K6JzxqKRyO45zipK5yPZZAjx5_elTYELsSrPHWw3d0H&s=10" group-title="DAERAH",Kawanua TV
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
@@ -584,10 +622,10 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrN1VkPc8FAjmDXLxzaQSakXdIivHNoQ9EBHqDmePLA&s=10" group-title="DAERAH", Jowo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+http://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZTlbU5-Kiqhy9bIYVSGSLM8Brxt-fin0RjCR8RkOw&s=10", Dhoho TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKZTlbU5-Kiqhy9bIYVSGSLM8Brxt-fin0RjCR8RkOw&s=10", Dhoho TV (S2)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
@@ -601,31 +639,24 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dhohot
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxQTitN1UMPtaB2bxTXwVPi06P5Xdu9QWHhAxGozR_w&s=10",Madu TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://re1.siar.us/madutv/hd720/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYxQTitN1UMPtaB2bxTXwVPi06P5Xdu9QWHhAxGozR_w&s=10",Madu TV (S2)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
 #https://cdn1.panensport.org/channel/500307071/index.m3u8
 
-
-#EXTINF:-1 group-title="DAERAH"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png", JTV Surabaya (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
-
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png" group-title="DAERAH",JTV Surabaya
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png" group-title="DAERAH",JTV Surabaya (S1)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png" group-title="DAERAH",JTV Surabaya (S3)
-###http://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png" group-title="DAERAH",JTV Surabaya (S2)
+http://202.150.161.212:5000/live/channel38/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Xpy6aJPk6VQh3TtblFrFcED6XfEmcycb7pAvBrlVOQ&s=10" group-title="DAERAH",JTV Kediri (Ga 24 Jam)
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10",TATV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10",TATV X
+#http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-PRHE7UVBD4FTMdWD1gMPVjId3egIl-EhF3i9hXlHQ&s=10",TATV (S2)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
@@ -634,13 +665,13 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://tatv.s
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5l2V_QpCDone0pMjkPXbdkgXMunaVWl9Gh2FvC069A&s=10",Banjar TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://banjartv.siar.us/banjartv/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXLUWiBllarKsFrPVAYVA5g7PYPjBmW2XEVZ-D3WLnuFZ-ivhfR02PDVRaDNPT9KONvEatw4g8FEGEvHYEr_aQnqbXlLejgEnFljJdg&s=10",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvE8WPi1WeteheEzwnkzBVYA7jJ4xpZYe_tO3ynPsVg&s",Duta TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dutatv.siar.us/dutatv/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl85kPaPuXqYjZEdaQuTC2ybuWhKBDzGaKcDPjmZVZg&s=10",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
@@ -685,35 +716,35 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #https://cdn1.panensport.org/channel/500306481/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Majalengka
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.staratv.id/hls/stream.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Yogyakarta
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.matrixtv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.matrixtv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Bandung
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://bandung.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://bandung.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Cianjur
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://cianjur.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://cianjur.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Malang
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://malang.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://malang.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10",STARATV Parahyangan
 #EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://parahyangan.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://parahyangan.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10",STARATV bojonegoro
 #EXTVLCOPT:http-referrer=https://bojonegoro.staratv.id/
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://bojonegoro.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://bojonegoro.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxWiCQH1XxBTjUG4heG7WILvKlinmPmrS5BBqahQt5A&s=10" group-title="DAERAH",STARA TV Jakarta (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://jakarta.staratv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://jakarta.staratv.id/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-eQ40zVhYrrSZS2f31sg3w7cVAXsJVo9mD9nwqj6GxA&s=10" http-referrer="https://stream.carubantv.id" group-title="DAERAH", Caruban TV
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.carubantv.id/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://stream.carubantv.id/hls/stream.m3u8
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwGvX-tHbE18P4GCD6WkdiDEXrsySSBMI8Zth8Nr9xYQ&s=10" group-title="DAERAH",Bandung TV (S1)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
@@ -733,7 +764,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Uih7rCesQQ6wlvUOWGFne2czdRFLQATmU1okbJ9aGQ&s=10",MAGNA Channel (S2)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJvpHDTz-1RzaPsEbTsHhVsvzZNc9YtGU2US79c8kJw&s=10" group-title="DAERAH", MQTV
 #EXTVLCOPT:http-referrer=https://tv.garden/
@@ -764,21 +795,21 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png" group-title="DAERAH", JAK TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
+http://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=lite&chname=Jak_tv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEKkQuzgBQ8AXj3WOiyxjyKPr2M2jp6xLIW5LrFijznQ&s=10" group-title="DAERAH",KTV | Jakarta
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=ktv
 
 
 #EXTINF:-1 group-title="DAERAH"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10", ELSHINTA TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://tvratu.my.id/nissa/index.mpd?id=10975&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=10975
 
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
+http://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=Elshinta_TV
 
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyctx470LFHo6ArxAA1JRqrs7MIZHwA9TGR9sKV6K5sT5R2l44qKY3xTc&s=10" group-title="DAERAH",ELSHINTA TV (S3)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
@@ -789,10 +820,10 @@ http://op-flashcon-digdayasd-1.dens.tv/h/h209/stream.m3u8?app_type=web&userid=li
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6cfvWpU5dvWQa0shc4v4vldFxEHr6ddgyW-BTg8jXg&s=10" group-title="DAERAH",Smile TV
-http://hfa09a2swye.sn.mynetname.net:801/hls/streaming/playlist.m3u8
+http://36.93.73.155:1919/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/dms/image/v2/C510BAQGxAiCCQ0R_Yg/company-logo_200_200/company-logo_200_200/0/1630607250063?e=2147483647&v=beta&t=9pA_cApHVxMn8MSw_S2xhpT_AG4FfC1WK2ZCbnn8OGw" group-title="DAERAH",Efarina TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ3fkSvTC7p2iRg2HZrYVvTkyv4qwNMcyYqPeJCFzrFA&s=10" group-title="DAERAH",UGTV
 http://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
@@ -807,7 +838,7 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/YEkuXsDq6-dpznxkerYmig4gmkXdp6TKTGZNfl0n9Za_2CworLVcVjgmtNLVJUSwuBvX6AAaZA=s900-c-k-c0x00ffffff-no-rj" group-title="DAERAH",TVKU Semarang
-http://tvku.tv/hlsstream/hls/live.m3u8
+http://tvku.tv/hlsstream/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1j9Vhek9O3Aw2KYJBUK5sqw7WTH195yagxBFypBWRQ&s=10" group-title="DAERAH",Oxygen TV
 http://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
@@ -819,7 +850,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-neupdRHHw4PHCU_1rYg0j9OceRUGE3y7o25DHmF1g&s=10" group-title="DAERAH",PJTV Bandung
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://pjtvbandung.siar.us/live/pjtv28uhf.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://38uhfdigital.siar.us/live/38uhfdigital.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -831,10 +862,10 @@ http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuATokoKAwBPaRdBbdGjq-hJ_uQGBbCwzwuNU8PkBkaw&s" group-title="DAERAH",Puja TV Aceh (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://pujatv.siar.us/live/pujatv.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://pujatv.siar.us/live/pujatv.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10",SAKTI TV (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://saktitv.siar.us/saktitv/live/playlist.m3u8
+#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT370BM9ASByQuGS3WvkQuPa-sS2lP0qA4Phl5G8zvncg&s=10",SAKTI TV (Ga 24 Jam) X
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThO6-o1_FjDQoug4gLP4-TJJqqI_4JudK1J5CcymPFWcsUALoe9pIqVrw&s=10" group-title="DAERAH",Astha TV (Ga 24 Jam)
@@ -868,7 +899,7 @@ https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZIGKXsjJKnossZRitIOLbA7MYYYHUHWPgpLStvZqVw&s=10" group-title="DAERAH", dTVi (S1) (Ga 24 Jam)
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/dtvi.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/dtvi.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZIGKXsjJKnossZRitIOLbA7MYYYHUHWPgpLStvZqVw&s=10" group-title="DAERAH", dTVi (S2) (Ga 24 Jam)
@@ -877,14 +908,14 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar
 #https://cdn1.panensport.org/channel/500307915/index.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsT1-TAALAyekW9BJnt26w8n_3sQKQ23O1iHaCkvX7Xg&s=10",RCTV (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v10.siar.us/rctv/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQhaGKIV0UFl242yfqPStqafH3jfSENUIxFtj0aBbINA&s=10" group-title="DAERAH",Radar TV Lampung
 https://www.streaming.radartv.co.id/hls/test.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68gIlLKiKBz0I3Sm91Du3kUshLw3tlKN_daCN8p9Hkg&s" group-title="DAERAH",Radar TV Tasikmalaya (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -892,13 +923,13 @@ http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v2.sia
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdeMKgc7EWm2kjkwNGXa5JrMMLegbaRlTAX0xcrl54A&s=10",Surabaya TV (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/surabayatv.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwr1bT7cGoI_8w7XuKoGNZ1J4i3wuK25di5YApZE3uvg&s=10",LINGKAR TV (Ga 24 Jam)
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV (S1) (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v3.siar.us/ficomchannel/live/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV (S2) (Ga 24 Jam)
 #https://cdn1.panensport.org/channel/500307050/index.m3u8
@@ -925,7 +956,7 @@ http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #https://flv.intechmedia.net/live/ch58.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="DAERAH", Sampit TV (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/sampit-tv.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e.siar.us/live/sampit-tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8VAQiIBM9k-NJgE_G4hO9fwcnpTqFuFNP04VnBOHDQ&s=10" group-title="DAERAH", PKTV (Ga 24 Jam)
 #EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
@@ -939,10 +970,10 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 http://63b2dc7196c38.streamlock.net:1937/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQ8kkA74APoR0zxlp6I_sxPdFIresGSqApaA8DHP-8w&s=10" group-title="DAERAH",Selaparang TV (Ga 24 Jam)
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://selaparangtv.siar.us/live/selaparangtv.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L-JVJCPL2kL2gYNG1RlvVRZ-yMzCy9wJ6VyeG64G7A&s=10" group-title="DAERAH",Semarang TV (Ga 24 Jam)
-http://116.254.112.74/hls/cakralive.m3u8
+#http://116.254.112.74/hls/cakralive.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_V3t0WlHz4ybv6ly4j-6H5H67jI0pzooYsXJbApv5Oiw8RDp452aj7pc&s=10" group-title="DAERAH",Sriwijaya TV (Ga 24 Jam)
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
@@ -959,7 +990,7 @@ movie & entertainment
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES & ENTERTAINMENT" group-logo="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO (S1)
-http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
+http://gvisiontv2.channell.my.id/ch/ph/hbo.php/.mpd
 
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES & ENTERTAINMENT" group-logo="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO (S2)
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
@@ -1039,28 +1070,12 @@ http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
 #https://cdn1.panensport.org/channel/500197964/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png", Arirang (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=6784&type=dash
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
  
 #EXTINF:-1 tvg-id="arirang" group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_arirang.png",Arirang (S2)
-#EXTVLCOPT:http-referrer=https://www.panentv.com/
-#EXTVLCOPT:http-origin=https://www.panentv.com
-#https://cdn1.panensport.org/channel/500247447/index.m3u8
- 
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62gmV-8-ftTZfiIgJxedJrmAdvcLt78NfjHfJJXQiNA&s=10",Chinese drama
-#EXTVLCOPT:http-referrer=https://www.panentv.com/
-#EXTVLCOPT:http-origin=https://www.panentv.com
-#https://cdn1.panensport.org/channel/500298516/index.m3u8
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_citradrama.png",Citra Drama
-#EXTVLCOPT:http-referrer=https://www.panentv.com/
-#EXTVLCOPT:http-origin=https://www.panentv.com
-#https://cdn1.panensport.org/channel/500264748/index.m3u8
- 
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png" group-title="MOVIES & ENTERTAINMENT",Dunia Lain (S1)
-##http://103.148.44.38:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png" group-title="MOVIES & ENTERTAINMENT",Dunia Lain (S2)
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png" group-title="MOVIES & ENTERTAINMENT",Dunia Lain
 #http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298524
 
 
@@ -1154,15 +1169,12 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h203/02.m3u8
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvn.png" group-title="MOVIES & ENTERTAINMENT",TVN (S2)
 ##http://103.148.44.38:8000/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png" group-title="MOVIES & ENTERTAINMENT",TVN MOVIES (S1)
-#http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png" group-title="MOVIES & ENTERTAINMENT",TVN MOVIES
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvnmovies.png" group-title="MOVIES & ENTERTAINMENT",TVN MOVIES (S2)
-#http://31.43.191.125:8080/VIP018181729432665113/6b72b9d29939/34347
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="animax" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png",ANIMAX
-##http://103.148.44.38:8000/play/a04z/index.m3u8
+#http://live.eac-news.com/live/streams/animax.m3u8
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aniplus.png",ANIPLUS
 ##http://103.148.44.38:8000/play/a01m/index.m3u8
@@ -1171,7 +1183,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h203/02.m3u8
 ##http://103.148.44.38:8000/play/a01v/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kix.png",KIX
-###http://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+http://gvisiontv2.channell.my.id/ch/ph/kix.php/.mpd
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kplus.png",K-Plus
 ###http://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
@@ -1181,7 +1193,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h203/02.m3u8
 
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14AlgIQJ_NzE9QBPf5SPTP-8WLZWyJPHwvAxT3nPM-g&s=10",My Cinema Europe
-http://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
+http://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 
  
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg",MAXS REELS
@@ -1256,23 +1268,25 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite
 #https://cdn1.panensport.org/channel/500165065/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_warnertv.png",Warner TV
-###http://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
  
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cinemaworld.png",CINEMAWORLD
 
 #EXTINF:-1 tvg-id="" group-title="MOVIES & ENTERTAINMENT" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLk4aR-bZQ7IA-4jXRRoH7prPbwn7MswUpkEaefb-9hA&s", &Flix
 #http://EXM3U.extraott.com:80//ive/6JG6WQTK/1RS973F7/96673.m3u8
  
+ #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bioskopindonesia.png" group-title="MOVIES & ENTERTAINMENT",Bioskop Indonesia
+ http://202.150.161.212:5000/live/channel35/playlist.m3u8
+ 
  know & life
  
- #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="https://images.indihometv.com/images/channels/image_ch_lovenature.png",Love Nature
+ #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
 #EXTVLCOPT:http-referrer=https://www.panentv.com/
 #EXTVLCOPT:http-origin=https://www.panentv.com
 #https://cdn1.panensport.org/channel/500157592/index.m3u8
  
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
  
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://www.lyngsat-logo.com/logo/tv/ee/eat_and_go_id.png",EAT & GO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1284,6 +1298,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite
 http://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_history.png",History
+http://freem3u.xyz/api/live/play.m3u8?vid=9856
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20230426T015613SQUARE.png_20230426015614.png" group-title="Knowledge & Lifestyle",HISTORY HIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -1310,12 +1325,22 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h222/01.m3u8
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_crime+investigation.png" group-title="Knowledge & Lifestyle",CRIME INVESTIGATION
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC.mx"  tvg-logo="https://dookeela.live/uploads/1716366217.png" group-title="Knowledge & Lifestyle", NATGEO GRAPHIC
-http://supersonictv.live:8080/611366/682256/22124
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWest.us"  tvg-logo="https://dookeela.live/uploads/1716363369.png" group-title="Knowledge & Lifestyle", NATGEO WILD
-http://supersonictv.live:8080/611366/682256/22125
+#http://supersonictv.live:8080/611366/682256/22125
 
-#EXTINF:-1 tvg-id="tv5monde" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde
+#EXTINF:-1 tvg-id="tv5monde" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde (S1)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+http://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8?app_type=web&userid=lite&chname=TV5MONDE_ASIE
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=tv5monde
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv5monde.png",TV5Monde (S3)
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv5monde Style" tvg-name="tv5monde Style" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCwY6zBSiMC5qVKl49fgTsGPaa26_D6h3movHHcSo3Q&s=10" group-title="Knowledge & Lifestyle",tv5monde STYLE
 http://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
@@ -1344,13 +1369,14 @@ http://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_hgtv.png",HGTV
 
 #EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizlifestyle.jpg",Biznet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
+#http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd
 
 #EXTINF:0 tvg-country="ID" tvg-logo="http://i.imgur.com/ZREy4zM.png" group-title="Knowledge & Lifestyle",Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+#http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
 
-#EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary
-###http://cdnbal1.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+#EXTINF:-1 group-title="Knowledge & Lifestyle" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png",CGTN Documentary (S1)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=cgtndocumentary
 
 #EXTINF:-1 tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cgtndocumentary.png" group-title="Knowledge & Lifestyle",CGTN Documentary (S2)
 http://english-livebkali.cgtn.com/live/doccgtn.m3u8
@@ -1359,7 +1385,7 @@ news
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png", Al Jazeera English (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=6410&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=6410
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aljazeera.png",Al Jazeera English (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/aljazeera/manifest.mpd
@@ -1383,10 +1409,12 @@ http://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 
 #EXTINF:-1 group-title="News"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png", DW (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=5075&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=5075
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png",DW (S2)
-###http://cdnbal1.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=dwenglish
+
 
 #EXTINF:-1 tvg-id="dw" group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dwtv.png",DW (S3)
 #https://liveh12.vtvprime.vn/hls/DW/03.m3u8
@@ -1395,28 +1423,16 @@ http://nextgenz.my.id/event/pidio/play.mpd?id=5075&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (S1)
-###http://cdnbal1.indihometv.com/atm/DASH/newsasia/manifest.mpd
-
-#EXTINF:-1 tvg-id="cna" tvg-group-logo="" group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (S2)
-#https://liveh12.vtvprime.vn/hls/CAN/03.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (S3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-CNA/playlist.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia (S4)
-##http://103.148.44.38:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_chinesenewsasia.png",Channel News Asia
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=channelnewsasia
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24 (S1)
-###http://cdnbal1.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=france24
 
 #EXTINF:-1 tvg-id="france24eng" group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24 (S2)
-http://liveh12.vtvprime.vn/hls/FRANCE24/03.m3u8
-
-#EXTINF:-1 tvg-id="france24eng" group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24 (S3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg",BBC News
 ###http://cdnbal1.indihometv.com/atm/DASH/bbcnews/manifest.mpd
@@ -1428,8 +1444,8 @@ http://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.
 http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="cnbc" group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR2PZM1Hv__7pEnJOHFz9MAPy8ki1I5zoXiXwvI3MFQ&s=10",CNBC Internasional
-#https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
-
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=cnbc
 
 #EXTINF:-1 tvg-id="Russia.Today.in" tvg-name="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg" group-title="News",RT NEWS
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
@@ -1445,7 +1461,7 @@ http://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live
 
 #EXTINF:-1 group-title="News"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC Australia (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=7150&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=7150
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_abcaustrlia.png",ABC Australia (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
@@ -1466,13 +1482,9 @@ http://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr74w-J71h9R8i7wfs4Q7rLY12v6F-7Y2QGvYTWxkKng&s=10" group-title="News",VOA
 http://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (S1)
-###http://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
-
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg (S2)
-#EXTVLCOPT:http-referrer=https://www.panentv.com/
-#EXTVLCOPT:http-origin=https://www.panentv.com
-#https://cdn1.panensport.org/channel/500157599/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_bloomberg.png",Bloomberg
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=bloomberg
 
 #EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nhkworldjapan.png",NHK WORLD JAPAN (S1)
 ###http://cdnbal1.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
@@ -1499,56 +1511,32 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 #EXTINF:-1 group-title="News"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD6-xcxTag6SJfw0PTh3rPPPpnwRurxfGQQiXLWvxJ4g&s=10", AFRICA NEWS.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=12784&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=12784
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4Yd3qkL7EgzopN0A9ceCOYFyYbhtHkkEdiws4Q7-EA&s=10", EURO NEWS. (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=6412&type=dash
+#EXTINF:-1 group-title="News"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4Yd3qkL7EgzopN0A9ceCOYFyYbhtHkkEdiws4Q7-EA&s=10", EURO NEWS.
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=euronewsasia
 
-#EXTINF:-1 group-title="News"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4Yd3qkL7EgzopN0A9ceCOYFyYbhtHkkEdiws4Q7-EA&s=10", EURO NEWS. (S2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA (S1)
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://wsrv.nl/?url=https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA (S2)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=cctv4asia
 
-KIDS
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="Kids", Kids TV (V+)
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTINF:-1 tvg-id="Mentari TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="Kids", Mentari TV 2
-https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237
-
+kids
 
 #EXTINF:-1 group-title="Kids"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png", Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=8237
 
-#EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Kids", Mentari TV c
+#EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="Kids",Mentari TV c
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-#http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=8237
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-pwmEzQ9QLuRy5SOD9hGDRCQp0-QzK-vGCLXLvlW8w&s=10", Hip Hip Horee (S1)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-http://vidx.semar.my.id/biasa2.mpd?id=7052&type=dash
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi-pwmEzQ9QLuRy5SOD9hGDRCQp0-QzK-vGCLXLvlW8w&s=10", Hip Hip Horee (S2)
-http://202.169.224.202:8800/udp/239.9.1.28:1234
-
-#EXTINF:-1 channel-id="Horee"  tvg-logo="https://images.indihometv.com/images/channels/image_ch_horee!.png" group-title="Kids" , HOREE!
-http://202.169.224.202:8800/udp/239.9.1.26:1234
 
 #EXTINF:-1 group-title="Kids" tvg-id="zoomoo.sg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHP4gK-yGMUdK7XLqiQlbVuKt_JBxekK5jD0HtMDWzmA&s=10",Zoo Moo
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1558,7 +1546,7 @@ http://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://www.biznetvideo.net/images/video/poster/bizkids.jpg",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+#http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg" group-title="Kids",Cbeebies
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
@@ -1566,12 +1554,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
 ###http://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png",CARTOON NETWORK (S1)
-#http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png,CARTOON NETWORK (S2)
-##http://103.148.44.38:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/lusianaputri/ikanterindah/refs/heads/main/cn.png",CARTOON NETWORK
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="http://wsrv.nl/?url=https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cartoonito.png",CARTOONITO (S1)
 ###http://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
@@ -1634,38 +1618,88 @@ http://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 music
  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzEu1rTvbYLNVwpHDhtm1VxhkUvFkM7akxlxQ3NwjFg&s=10" group-title="MUSIC",Musik Indonesia
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzEu1rTvbYLNVwpHDhtm1VxhkUvFkM7akxlxQ3NwjFg&s=10" group-title="Music & Radio Visual",Musik Indonesia
 #http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
  
-#EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_citradangdut.png",Citra Dangdut
+#EXTINF:-1 group-title="Music & Radio Visual" tvg-id="" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_citradangdut.png",Citra Dangdut
 #http://EXM3U.extraott.com:80//ive/6JG6WQTK/1RS973F7/1139190.m3u8
 
-#EXTINF:-1 group-title="MUSIC"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsifXAAVTnG22Jn2Xhbeqf6dWvlK0tqa6Ml4hN-JDIQ&s=10", MUSICA
+#EXTINF:-1 group-title="Music & Radio Visual"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsifXAAVTnG22Jn2Xhbeqf6dWvlK0tqa6Ml4hN-JDIQ&s=10", MUSICA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=7619&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=7619
 
 
 
-#EXTINF:-1 group-title="MUSIC" tvg-id="mtv" tvg-logo="http://wsrv.nl/?url=https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV JEPANG
+#EXTINF:-1 group-title="Music & Radio Visual" tvg-id="mtv" tvg-logo="http://wsrv.nl/?url=https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV JEPANG
 #https://nl.utako.moe/mtv/index.m3u8
  
-#EXTINF:-1 group-title="MUSIC" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
+#EXTINF:-1 group-title="Music & Radio Visual" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_prambors.png",Prambors
 ###http://cdnbal1.indihometv.com/atm/DASH/pramborstv/manifest.mpd
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NANFO7v.png" group-title="MUSIC",NOW 70S
+#EXTINF:-1 tvg-logo="http://i.imgur.com/NANFO7v.png" group-title="Music & Radio Visual",NOW 70S
 http://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/L1sRaJm.png" group-title="MUSIC",NOW 80S
+#EXTINF:-1 tvg-logo="http://i.imgur.com/L1sRaJm.png" group-title="Music & Radio Visual",NOW 80S
 http://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ALYlQRF.png" group-title="MUSIC",NOW ROCK
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ALYlQRF.png" group-title="Music & Radio Visual",NOW ROCK
 http://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-hcaZq6cTSIOrWPIs4FMAbNsCjBtsk-EpkiekMyHCA&s=10" group-title="MUSIC",RADIO 51 TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-hcaZq6cTSIOrWPIs4FMAbNsCjBtsk-EpkiekMyHCA&s=10" group-title="Music & Radio Visual",RADIO 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTF9YIk2KU5XozKZsCsoxl1ugtg5LUGIhbIFlmGXMQg&s=10" group-title="Music & Radio Visual",RRI Net
+http://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8
+
+#EXTINF:-1 group-title="Music & Radio Visual" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/95/LogoBahanaFMJKT.png/250px-LogoBahanaFMJKT.png",BAHANA FM NGAWI
+https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Dahlia FM Bandung" tvg-name="Dahlia FM Bandung" tvg-logo="https://www.radiodahliafm.com/frontend/img/about/logo.png" group-title="Music & Radio Visual",Dahlia Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiodahliafmbandung
+
+#EXTINF:-1 tvg-id="Rjm FM Pangandaran" tvg-name="Rjm FM Pangandaran" tvg-logo="https://radiorjm.com/logo.png" group-title="Music & Radio Visual",Rjm Fm Pangandaran
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiorjmpangandaran
+
+#EXTINF:-1 tvg-id="Radio Galunggung Tasikmalaya" tvg-name="Radio Galunggung Tasikmalaya" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOwFrqUUi44KyPUTH7ZdxE4UJKCkr82hnDcjiW66pZlg&s" group-title="Music & Radio Visual",Radio Galunggung Tasikmalaya
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=radiogalunggung
+
+#EXTINF:-1 tvg-id="Kei Love FM Tasikmalaya" tvg-name="Kei Love FM Tasikmalaya" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_c8f7961908ab420db1825de67c68e4eamv2-300x150.png" group-title="Music & Radio Visual",Kei Love Fm Tasikmalaya
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=keilove93fmtasikmalaya
+
+#EXTINF:-1 tvg-id="Maestro FM Bandung" tvg-name="Maestro FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_313041f31d724fa395682239204b6f93mv2-300x300.png" group-title="Music & Radio Visual",Maestro Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=maestroradiobandung
+
+#EXTINF:-1 tvg-id="Unasko FM Bandung" tvg-name="Unasko FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/unasko-3D-300x169.jpeg" group-title="Music & Radio Visual",Unasko Fm Bandung
+https://gvisiontv.channell.my.id/ch/tch/tch.php/.m3u8?id=UNASKO996FM
+
+#EXTINF:-1 tvg-id="Ardan Radio Bandung" tvg-name="Ardan Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-Ardan-300x134.png" group-title="Music & Radio Visual",Ardan Radio Bandung
+https://stream.ardangroup.fm/ardan/_definst_/adaptive.smil/chunklist_w1168684214_b3500000.m3u8
+
+#EXTINF:-1 tvg-id="B Radio Bandung" tvg-name="B Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/LOGO-B-RADIO-2023_-01-300x136.png" group-title="Music & Radio Visual",B Radio Bandung
+https://stream.ardangroup.fm:8443/bradio/_definst_/adaptive.smil/chunklist_w2125514844_b3500000.m3u8
+
+#EXTINF:-1 tvg-id="Cakra FM Bandung" tvg-name="Cakra FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Logo-CAKRA-300x134.jpg" group-title="Music & Radio Visual",Cakra Fm Bandung
+https://stream.ardangroup.fm:8443/cakra/_definst_/adaptive.smil/chunklist_w2036886254_b1500000.m3u8
+#EXTINF:-1 tvg-id="MQ FM Bandung" tvg-name="MQ FM Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/MQFM-Bandung-Logo-300x101.png" group-title="Music & Radio Visual",Mq Fm Bandung
+https://restreamer.rajawali.web.id/memfs/5663bd44-272a-477b-9241-a6894949e2e1.m3u8
+
+#EXTINF:-1 tvg-id="Voks Fm Bandung" tvg-name="Voks Fm Bandung" tvg-logo="https://voksradio.com/wp-content/uploads/2025/04/LOGO-MEDPART_X7-1536x415.png" group-title="Music & Radio Visual",Voks Radio Bandung
+https://live.voksradio.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Urban Radio Bandung" tvg-name="Urban Radio Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/Icon-White-1-300x300.png" group-title="Music & Radio Visual",Urban Radio Bandung
+https://urbanradio.siar.us/live/urbanradio.m3u8
+
+#EXTINF:-1 tvg-id="KLCBS Bandung" tvg-name="KLCBS Bandung" tvg-logo="https://radiojabar.id/wp-content/uploads/2026/09/9448d0_2deffcad0a3d417aa3230546db0dfa34mv2-300x300.png" group-title="Music & Radio Visual",Klcbs Bandung
+https://video-stream.klcbsofficial.com/hls/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="Prambors Radio Jakarta" tvg-name="Prambors Radio Jakarta" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4971849.jpg" group-title="Music & Radio Visual",Prambors Radio Jakarta
+https://stream.prambors-poc.ms-biznetgio.net/hls/live.m3u8
+
+
 
 Religion: Islam⚠️
 
@@ -1674,7 +1708,7 @@ https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10", Quran TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=6852&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=6852
 
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10",Quran TV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/alquran/manifest.mpd
@@ -1712,7 +1746,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
   
 #EXTINF:-1 group-title="Religion: Islam"  tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV (S1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://nextgenz.my.id/event/pidio/play.mpd?id=12607&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=12607
   
 #EXTINF:-1 group-title="Religion: Islam" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV (S2)
 ###http://cdnbal1.indihometv.com/atm/DASH/tawaftv/manifest.mpd
@@ -1745,15 +1779,23 @@ http://202.150.161.117:8000/play/NabawiTV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://tvratu.my.id/nissa/index.mpd?id=7464&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=7464
 
 #EXTINF:-1 group-title="Religion: Kristen & Katolik"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6SAADWB10hAuWpoykpwmEHxQZzDrdwvC8VOAUHF47qsCm80mCQ_jOQgr&s", Daystar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id=18622&type=dash
+http://gvisiontv2.channell.my.id/ch/id/vx.php/stream.mpd?id=18622
 
-#EXTINF:-1 group-title="Religion: Kristen & Katolik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSJXB3q7mlEpAa6Ek065meIJ-ES0dmMflyWWDG8DozQ&s=10", UChannel TV
+#EXTINF:-1 group-title="Religion: Kristen & Katolik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSJXB3q7mlEpAa6Ek065meIJ-ES0dmMflyWWDG8DozQ&s=10", UChannel TV (S1)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=uchannel
+
+#EXTINF:-1 group-title="Religion: Kristen & Katolik" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSJXB3q7mlEpAa6Ek065meIJ-ES0dmMflyWWDG8DozQ&s=10", UChannel TV (S2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://tvratu.my.id/nissa/index.mpd?id=6898&type=dash
+http://202.150.161.212:5000/live/channel37/playlist.m3u8
+
+#EXTINF:-1 tvg-id="847" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/a884e62071548b2c23a8.png" group-title="Religion: Kristen & Katolik", HOPE CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+http://gvisiontv2.channell.my.id/ch/id/oxykitkat1.php/.m3u8?id=hope
 
 #EXTINF:-1 tvg-id="Soyuz.ru@SD" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="Religion: Kristen & Katolik",Союз Rusia
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1801,46 +1843,150 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8?app_type=web&userid=lite
 
 #EXTINF:-1 group-title="SPORTS INDONESIA" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-sports183x174@3x.jpg",WeDoTv Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 
 #EXTINF:-1 group-title="SPORTS INDONESIA",-1 tvg-id="",Fight TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND",True Sports 1
+http://gvisiontv2.channell.my.id/ch/th/sbs.php/.m3u8?ch=truesporthd1
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND",True Sports 2
+
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND",True Sports 5
+
+
+#EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS THAILAND",True Sports 7 
+
+#EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="SPORTS THAILAND",T Sports 7
+
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png" group-title="SPORTS THAILAND",GMM25
+http://3bb.engatetv.com:25461/hstn/line/12
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="SPORTS THAILAND",Mono 29
+http://3bb.engatetv.com:25461/hstn/line/14
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="SPORTS THAILAND",ONE31
+http://3bb.engatetv.com:25461/hstn/line/16
+
+#EXTINF:-1 group-title="SPORTS THAILAND" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/fwsVrxqVa/3PPTV36/PPTV_By_HSTN.jpg", PPTV36
+http://3bb.engatetv.com:25461/hstn/line/21
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.postimg.cc/8z5sMgBf/IMG-2395.png" group-title="SPORTS THAILAND",Ch8
+http://3bb.engatetv.com:25461/hstn/line/13
+
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-logo="https://i.postimg.cc/WzT9cJHK/IMG-2565.png" group-title="SPORTS THAILAND",Workpoint TV
+http://3bb.engatetv.com:25461/hstn/line/10
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="SPORTS THAILAND",MCOT AUTO
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.postimg.cc/8cpTGLZf/IMG-2397.png" group-title="SPORTS THAILAND",MCOT HD
+http://3bb.engatetv.com:25461/hstn/line/15
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="SPORTS THAILAND",NBT2 AUTO
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="SPORTS THAILAND",NBT2 HD
+http://3bb.engatetv.com:25461/hstn/line/4
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="SPORTS THAILAND",Thairath TV AUTO
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=32
+
+#EXTINF:-1 tvg-id="ThairathTV32.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-thairath.png" group-title="SPORTS THAILAND",Thairath TV HD
+http://3bb.engatetv.com:25461/hstn/line/17
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="SPORTS THAILAND",Amarin TV AUTO
+http://gvisiontv2.channell.my.id/ch/th/th1.php/.mpd?=34
+
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="SPORTS THAILAND",Amarin TV HD
+http://3bb.engatetv.com:25461/hstn/line/19
+
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/hd-ch3.png" group-title="SPORTS THAILAND",CH3
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw3WfagodGb5rH6YNgxse0nRq7JMvb3Ac0NCPReJ3Clw&s" group-title="SPORTS FILIPINA", ONE Sports
+http://gvisiontv2.channell.my.id/ch/ph/ones.php/.mpd
+
+#EXTINF:-1 group-title="SPORTS FILIPINA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvsG6PgcdcU6Ked5eoWUSjFB9rhTbElQtALBXp6uNTcw&s",TAP Sports
+http://gvisiontv2.channell.my.id/ch/ph/taps.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyyYDZrtjqFxR3ppzPgEo5loh_h61Wd-wb1mnBRcWhw&s=10" group-title="SPORTS FILIPINA", Premier Football
+#http://gvisiontv2.channell.my.id/ch/ph/premierf.php/.mpd
+
+#EXTINF:-1 tvg-id="premier-sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmzl4C9qJv1mfODCOQzGjNLXxKBX_UCevUY62ljt2KQ&s" group-title="SPORTS FILIPINA", Premier Sports
+http://gvisiontv2.channell.my.id/ch/ph/premiers.php/.mpd
+
+#EXTINF:-1 tvg-id="" group-title="SPORTS FILIPINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeF_pTQDY_ukkT1RpP7xWJKS97Fyh7ijHXbsvOYdB8qA&s",Premier Sports 2
+#http://gvisiontv2.channell.my.id/ch/ph/premiers2.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61Ifz3RNezWniTpAcP1JjqQbYVqHL8MSs87UNsPbT4g&s=10" group-title="SPORTS FILIPINA", Edge Sport
+http://gvisiontv2.channell.my.id/ch/ph/edges.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?cb=20211226131005" group-title="SPORTS FILIPINA", Solar Sports
+http://gvisiontv2.channell.my.id/ch/ph/solars.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWG1ZIxgAdeiY7OLldbWcSzA08cVdDJxTQpuogYyEVg&s=10" group-title="SPORTS FILIPINA", RPTV | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/rptv.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="SPORTS FILIPINA", GTV | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/gtv.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png/revision/latest?cb=20171019065428" group-title="SPORTS FILIPINA", PTV4 | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/ptv4.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="SPORTS FILIPINA", A2Z | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/a2z.php/.mpd	
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="SPORTS FILIPINA",Kapamilya Channel | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/kapamilya.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="SPORTS FILIPINA", NET 25 | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/net25.php/.mpd
+
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="SPORTS FILIPINA", ALL TV | Event Only
+http://gvisiontv2.channell.my.id/ch/ph/alltv.php/.mpd
+
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ English 1
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ English 2
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Australia
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYXVfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ California
 https://dtjdiffefl00u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z1wjerfevs3hx/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=CABD1200008JG
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ France
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Germany
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Hispanic America
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Italy
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Portuguese
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ Spain
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="FIFA+" tvg-logo="http://wsrv.nl/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="FIFA+",FIFA+ United States
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="FIFA+",FIFA+ Women
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
 =======================================
 
@@ -1909,32 +2055,32 @@ http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27356
 http://moj.feniks.team:25461/411dariocacic/a1Uni9hC0D/27357
 
 #EXTINF:-1 group-title="SONY SPORTS"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFyqV9VZUL-Z2mbhQMAz0M7J25D5m7KElW86FROX7PQ&s=10",SONY SPORTS 1
-http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=162
+http://gvisiontv2.channell.my.id/ch/in/sony.php/.m3u8?id=162
 
 #EXTINF:-1 group-title="SONY SPORTS"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi1gnQndipVVzLEAlN4Z9kZXM-9AkfJujhVkjUug_Xqg&s=10",SONY SPORTS 2
-http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=891
+http://gvisiontv2.channell.my.id/ch/in/sony.php/.m3u8?id=891
 
 #EXTINF:-1 group-title="SONY SPORTS"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10",SONY SPORTS 3 (S1)
-http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=524
+http://gvisiontv2.channell.my.id/ch/in/sony.php/.m3u8?id=524
 
 #EXTINF:-1 group-title="SONY SPORTS"  tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVNVTrEegxS7G9uvj0Q1mD3x5MC21ueSFzJYfBfrvZoA&s=10",SONY SPORTS 3 (S2)
-http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=892
+http://gvisiontv2.channell.my.id/ch/in/sony.php/.m3u8?id=892
 
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCiY50VcT8dLmm2ubr2y1ZNeVqLQ2tmLrGe2JT7npRg&s=10" group-title="SONY SPORTS"  ,SONY SPORTS 5
-http://gvisiontv.channell.my.id/ch/in/sony.php/.m3u8?id=155
+http://gvisiontv2.channell.my.id/ch/in/sony.php/.m3u8?id=155
 
-#EXTINF:-1 tvg-logo="http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" group-title="Fighting",UFC
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://image.xumo.com/v1/channels/channel/99951134/168x168.png?type=color_onBlack" group-title="Fighting",UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134&ads._fw_ifa_type=&ads._fw_did=f3125d0a-e6d4-4161-9855-942a93ed0928&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=UFC&ads.csid=xumo_web_UFC_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Sport,Sports,SA,SC,SE,SN&ads._fw_content_rating=&ads.xumo_contentId=3345&ads.xumo_contentName=UFC&ads.xumo_providerId=3345&ads.xumo_providerName=UFC&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951134&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
-#EXTINF:-1 tvg-logo="http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://image.xumo.com/v1/channels/channel/99951530/168x168.png?type=color_onBlack" group-title="Fighting",ONE Championship
+#EXTINF:-1 tvg-logo="http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://image.xumo.com/v1/channels/channel/99951530/168x168.png?type=color_onBlack" group-title="Fighting",ONE Championship
 https://dbrb49pjoymg4.cloudfront.net/10001/99951530/hls/master.m3u8?ads.xumo_channelId=99951530&ads.xumo_streamId=99951530&ads.channelId=99951530&ads.channelName=C15OneChampionship_us&ads.caid=C15OneChampionship&ads.csid=xumo_web_C15OneChampionship_ssai&ads.genre=Sport,Sports,SC&ads._fw_content_genre=Sport,Sports,SC&ads._fw_coppa=0&ads.xumo_contentId=4403&ads.xumo_contentName=C15OneChampionship&ads.xumo_providerId=4403&ads.xumo_providerName=C15OneChampionship&ads._fw_ifa_type=&ads._fw_did=57c1fdd8-6295-4541-8f01-a9e1baee7486&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 
 #EXTINF:-1 group-title="Fighting",-1 tvg-id="PersianaFight.fr@HD",Persiana Fight
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://fighthls.persiana.live/hls/stream.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Fighting",-1 tvg-id="",Fight TV
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyuWxvdo7KxmnuOPA_jAdLGxHLdWX_uCIUIJuIZcYPw&s=10" group-title="Fighting",WWE Network
 #http://185.160.192.64:80/mangin15/85784/303579
@@ -1970,4 +2116,4 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951158/hls/playlist.m3u8?ads.xumo_c
 
 
 #EXTINF:-1 group-title="SPORTS LAINNYA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVJVdXD6NTy8nMOIOb_mqewV8NZMUjHdPog&s" , DAZN RINGSIDE
-http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+http://gvisiontv2.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
